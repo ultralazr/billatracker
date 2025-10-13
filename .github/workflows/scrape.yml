@@ -2,8 +2,8 @@ name: Billa Price Scraper
 
 on:
   schedule:
-    # Run daily at 2 AM UTC (3 AM CET/4 AM CEST for Austria)
-    - cron: '0 2 * * *'
+    # Run Every 6 hours:
+    - cron: '0 */6 * * *' # every
   workflow_dispatch:  # Allows manual trigger from GitHub UI
 
 permissions:
