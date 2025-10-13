@@ -1,0 +1,57 @@
+name: Billa Price Scraper
+
+on:
+  schedule:
+    # Run daily at 2 AM UTC (3 AM CET/4 AM CEST for Austria)
+    - cron: '0 2 * * *'
+  workflow_dispatch:  # Allows manual trigger from GitHub UI
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    
+    steps:
+      # Step 1: Checkout the repository
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      # Step 2: Set up Python environment
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      
+      # Step 3: Install dependencies
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      
+      # Step 4: Run the scraper script
+      - name: Run scraper
+        run: python billa_scraper_1.py
+      
+      # Step 5: Configure git
+      - name: Configure git
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+      
+      # Step 6: Check for changes and commit
+      - name: Commit and push changes
+        run: |
+          git add combined_dataframe_oct_13.csv scraping_log.json scraping_summary.html scraper.log
+          git commit -m "chore: update price data - $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
+          git push
+      
+      # Step 7: Upload logs as artifact (optional, for debugging)
+      - name: Upload logs as artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: scraper-logs
+          path: scraper.log
+          retention-days: 30
