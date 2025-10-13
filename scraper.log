@@ -1,0 +1,250 @@
+2025-10-13 21:59:45,923 - INFO - ============================================================
+2025-10-13 21:59:45,923 - INFO - Billa Price Scraper - Starting
+2025-10-13 21:59:45,923 - INFO - ============================================================
+2025-10-13 21:59:47,661 - INFO - Completed: 100 / To go: 12164
+2025-10-13 21:59:47,661 - INFO - Records in product_list: 100
+2025-10-13 21:59:50,904 - INFO - Completed: 200 / To go: 12064
+2025-10-13 21:59:50,904 - INFO - Records in product_list: 200
+2025-10-13 21:59:54,139 - INFO - Completed: 300 / To go: 11964
+2025-10-13 21:59:54,139 - INFO - Records in product_list: 300
+2025-10-13 21:59:57,457 - INFO - Completed: 400 / To go: 11864
+2025-10-13 21:59:57,457 - INFO - Records in product_list: 400
+2025-10-13 22:00:00,597 - INFO - Completed: 500 / To go: 11764
+2025-10-13 22:00:00,597 - INFO - Records in product_list: 500
+2025-10-13 22:00:04,075 - INFO - Completed: 600 / To go: 11664
+2025-10-13 22:00:04,075 - INFO - Records in product_list: 600
+2025-10-13 22:00:07,376 - INFO - Completed: 700 / To go: 11564
+2025-10-13 22:00:07,377 - INFO - Records in product_list: 700
+2025-10-13 22:00:10,511 - INFO - Completed: 800 / To go: 11464
+2025-10-13 22:00:10,511 - INFO - Records in product_list: 800
+2025-10-13 22:00:13,774 - INFO - Completed: 900 / To go: 11364
+2025-10-13 22:00:13,775 - INFO - Records in product_list: 900
+2025-10-13 22:00:17,019 - INFO - Completed: 1000 / To go: 11264
+2025-10-13 22:00:17,019 - INFO - Records in product_list: 1000
+2025-10-13 22:00:20,047 - INFO - Completed: 1100 / To go: 11164
+2025-10-13 22:00:20,048 - INFO - Records in product_list: 1100
+2025-10-13 22:00:22,939 - INFO - Completed: 1200 / To go: 11064
+2025-10-13 22:00:22,939 - INFO - Records in product_list: 1200
+2025-10-13 22:00:26,075 - INFO - Completed: 1300 / To go: 10964
+2025-10-13 22:00:26,076 - INFO - Records in product_list: 1300
+2025-10-13 22:00:29,398 - INFO - Completed: 1400 / To go: 10864
+2025-10-13 22:00:29,398 - INFO - Records in product_list: 1400
+2025-10-13 22:00:32,581 - INFO - Completed: 1500 / To go: 10764
+2025-10-13 22:00:32,581 - INFO - Records in product_list: 1500
+2025-10-13 22:00:35,723 - INFO - Completed: 1600 / To go: 10664
+2025-10-13 22:00:35,723 - INFO - Records in product_list: 1600
+2025-10-13 22:00:38,953 - INFO - Completed: 1700 / To go: 10564
+2025-10-13 22:00:38,953 - INFO - Records in product_list: 1700
+2025-10-13 22:00:41,906 - INFO - Completed: 1800 / To go: 10464
+2025-10-13 22:00:41,906 - INFO - Records in product_list: 1800
+2025-10-13 22:00:44,894 - INFO - Completed: 1900 / To go: 10364
+2025-10-13 22:00:44,894 - INFO - Records in product_list: 1900
+2025-10-13 22:00:47,936 - INFO - Completed: 2000 / To go: 10264
+2025-10-13 22:00:47,936 - INFO - Records in product_list: 2000
+2025-10-13 22:00:51,120 - INFO - Completed: 2100 / To go: 10164
+2025-10-13 22:00:51,120 - INFO - Records in product_list: 2100
+2025-10-13 22:00:54,885 - INFO - Completed: 2200 / To go: 10064
+2025-10-13 22:00:54,885 - INFO - Records in product_list: 2200
+2025-10-13 22:00:57,852 - INFO - Completed: 2300 / To go: 9964
+2025-10-13 22:00:57,853 - INFO - Records in product_list: 2300
+2025-10-13 22:01:01,951 - INFO - Completed: 2400 / To go: 9864
+2025-10-13 22:01:01,951 - INFO - Records in product_list: 2400
+2025-10-13 22:01:04,913 - INFO - Completed: 2500 / To go: 9764
+2025-10-13 22:01:04,914 - INFO - Records in product_list: 2500
+2025-10-13 22:01:07,860 - INFO - Completed: 2600 / To go: 9664
+2025-10-13 22:01:07,860 - INFO - Records in product_list: 2600
+2025-10-13 22:01:11,885 - INFO - Completed: 2700 / To go: 9564
+2025-10-13 22:01:11,885 - INFO - Records in product_list: 2700
+2025-10-13 22:01:14,899 - INFO - Completed: 2800 / To go: 9464
+2025-10-13 22:01:14,899 - INFO - Records in product_list: 2800
+2025-10-13 22:01:18,015 - INFO - Completed: 2900 / To go: 9364
+2025-10-13 22:01:18,015 - INFO - Records in product_list: 2900
+2025-10-13 22:01:21,159 - INFO - Completed: 3000 / To go: 9264
+2025-10-13 22:01:21,159 - INFO - Records in product_list: 3000
+2025-10-13 22:01:24,418 - INFO - Completed: 3100 / To go: 9164
+2025-10-13 22:01:24,418 - INFO - Records in product_list: 3100
+2025-10-13 22:01:27,372 - INFO - Completed: 3200 / To go: 9064
+2025-10-13 22:01:27,372 - INFO - Records in product_list: 3200
+2025-10-13 22:01:30,215 - INFO - Completed: 3300 / To go: 8964
+2025-10-13 22:01:30,215 - INFO - Records in product_list: 3300
+2025-10-13 22:01:33,516 - INFO - Completed: 3400 / To go: 8864
+2025-10-13 22:01:33,516 - INFO - Records in product_list: 3400
+2025-10-13 22:01:36,708 - INFO - Completed: 3500 / To go: 8764
+2025-10-13 22:01:36,708 - INFO - Records in product_list: 3500
+2025-10-13 22:01:39,735 - INFO - Completed: 3600 / To go: 8664
+2025-10-13 22:01:39,735 - INFO - Records in product_list: 3600
+2025-10-13 22:01:42,986 - INFO - Completed: 3700 / To go: 8564
+2025-10-13 22:01:42,986 - INFO - Records in product_list: 3700
+2025-10-13 22:01:45,942 - INFO - Completed: 3800 / To go: 8464
+2025-10-13 22:01:45,943 - INFO - Records in product_list: 3800
+2025-10-13 22:01:48,956 - INFO - Completed: 3900 / To go: 8364
+2025-10-13 22:01:48,956 - INFO - Records in product_list: 3900
+2025-10-13 22:01:51,787 - INFO - Completed: 4000 / To go: 8264
+2025-10-13 22:01:51,788 - INFO - Records in product_list: 4000
+2025-10-13 22:01:54,856 - INFO - Completed: 4100 / To go: 8164
+2025-10-13 22:01:54,856 - INFO - Records in product_list: 4100
+2025-10-13 22:01:57,746 - INFO - Completed: 4200 / To go: 8064
+2025-10-13 22:01:57,746 - INFO - Records in product_list: 4200
+2025-10-13 22:02:00,860 - INFO - Completed: 4300 / To go: 7964
+2025-10-13 22:02:00,860 - INFO - Records in product_list: 4300
+2025-10-13 22:02:03,749 - INFO - Completed: 4400 / To go: 7864
+2025-10-13 22:02:03,749 - INFO - Records in product_list: 4400
+2025-10-13 22:02:06,705 - INFO - Completed: 4500 / To go: 7764
+2025-10-13 22:02:06,705 - INFO - Records in product_list: 4500
+2025-10-13 22:02:09,619 - INFO - Completed: 4600 / To go: 7664
+2025-10-13 22:02:09,619 - INFO - Records in product_list: 4600
+2025-10-13 22:02:12,565 - INFO - Completed: 4700 / To go: 7564
+2025-10-13 22:02:12,565 - INFO - Records in product_list: 4700
+2025-10-13 22:02:15,447 - INFO - Completed: 4800 / To go: 7464
+2025-10-13 22:02:15,447 - INFO - Records in product_list: 4800
+2025-10-13 22:02:18,468 - INFO - Completed: 4900 / To go: 7364
+2025-10-13 22:02:18,468 - INFO - Records in product_list: 4900
+2025-10-13 22:02:21,342 - INFO - Completed: 5000 / To go: 7264
+2025-10-13 22:02:21,342 - INFO - Records in product_list: 5000
+2025-10-13 22:02:24,203 - INFO - Completed: 5100 / To go: 7164
+2025-10-13 22:02:24,203 - INFO - Records in product_list: 5100
+2025-10-13 22:02:27,074 - INFO - Completed: 5200 / To go: 7064
+2025-10-13 22:02:27,074 - INFO - Records in product_list: 5200
+2025-10-13 22:02:29,862 - INFO - Completed: 5300 / To go: 6964
+2025-10-13 22:02:29,862 - INFO - Records in product_list: 5300
+2025-10-13 22:02:33,465 - INFO - Completed: 5400 / To go: 6864
+2025-10-13 22:02:33,465 - INFO - Records in product_list: 5400
+2025-10-13 22:02:36,523 - INFO - Completed: 5500 / To go: 6764
+2025-10-13 22:02:36,523 - INFO - Records in product_list: 5500
+2025-10-13 22:02:39,355 - INFO - Completed: 5600 / To go: 6664
+2025-10-13 22:02:39,356 - INFO - Records in product_list: 5600
+2025-10-13 22:02:42,183 - INFO - Completed: 5700 / To go: 6564
+2025-10-13 22:02:42,184 - INFO - Records in product_list: 5700
+2025-10-13 22:02:45,324 - INFO - Completed: 5800 / To go: 6464
+2025-10-13 22:02:45,325 - INFO - Records in product_list: 5800
+2025-10-13 22:02:48,194 - INFO - Completed: 5900 / To go: 6364
+2025-10-13 22:02:48,194 - INFO - Records in product_list: 5900
+2025-10-13 22:02:51,093 - INFO - Completed: 6000 / To go: 6264
+2025-10-13 22:02:51,093 - INFO - Records in product_list: 6000
+2025-10-13 22:02:53,968 - INFO - Completed: 6100 / To go: 6164
+2025-10-13 22:02:53,968 - INFO - Records in product_list: 6100
+2025-10-13 22:02:56,769 - INFO - Completed: 6200 / To go: 6064
+2025-10-13 22:02:56,769 - INFO - Records in product_list: 6200
+2025-10-13 22:02:59,537 - INFO - Completed: 6300 / To go: 5964
+2025-10-13 22:02:59,537 - INFO - Records in product_list: 6300
+2025-10-13 22:03:02,284 - INFO - Completed: 6400 / To go: 5864
+2025-10-13 22:03:02,284 - INFO - Records in product_list: 6400
+2025-10-13 22:03:05,044 - INFO - Completed: 6500 / To go: 5764
+2025-10-13 22:03:05,044 - INFO - Records in product_list: 6500
+2025-10-13 22:03:07,901 - INFO - Completed: 6600 / To go: 5664
+2025-10-13 22:03:07,901 - INFO - Records in product_list: 6600
+2025-10-13 22:03:10,671 - INFO - Completed: 6700 / To go: 5564
+2025-10-13 22:03:10,671 - INFO - Records in product_list: 6700
+2025-10-13 22:03:13,451 - INFO - Completed: 6800 / To go: 5464
+2025-10-13 22:03:13,451 - INFO - Records in product_list: 6800
+2025-10-13 22:03:16,227 - INFO - Completed: 6900 / To go: 5364
+2025-10-13 22:03:16,227 - INFO - Records in product_list: 6900
+2025-10-13 22:03:19,038 - INFO - Completed: 7000 / To go: 5264
+2025-10-13 22:03:19,039 - INFO - Records in product_list: 7000
+2025-10-13 22:03:21,832 - INFO - Completed: 7100 / To go: 5164
+2025-10-13 22:03:21,832 - INFO - Records in product_list: 7100
+2025-10-13 22:03:24,834 - INFO - Completed: 7200 / To go: 5064
+2025-10-13 22:03:24,834 - INFO - Records in product_list: 7200
+2025-10-13 22:03:27,536 - INFO - Completed: 7300 / To go: 4964
+2025-10-13 22:03:27,536 - INFO - Records in product_list: 7300
+2025-10-13 22:03:30,452 - INFO - Completed: 7400 / To go: 4864
+2025-10-13 22:03:30,452 - INFO - Records in product_list: 7400
+2025-10-13 22:03:33,188 - INFO - Completed: 7500 / To go: 4764
+2025-10-13 22:03:33,188 - INFO - Records in product_list: 7500
+2025-10-13 22:03:35,949 - INFO - Completed: 7600 / To go: 4664
+2025-10-13 22:03:35,949 - INFO - Records in product_list: 7600
+2025-10-13 22:03:38,672 - INFO - Completed: 7700 / To go: 4564
+2025-10-13 22:03:38,672 - INFO - Records in product_list: 7700
+2025-10-13 22:03:41,667 - INFO - Completed: 7800 / To go: 4464
+2025-10-13 22:03:41,668 - INFO - Records in product_list: 7800
+2025-10-13 22:03:44,382 - INFO - Completed: 7900 / To go: 4364
+2025-10-13 22:03:44,382 - INFO - Records in product_list: 7900
+2025-10-13 22:03:47,091 - INFO - Completed: 8000 / To go: 4264
+2025-10-13 22:03:47,091 - INFO - Records in product_list: 8000
+2025-10-13 22:03:49,857 - INFO - Completed: 8100 / To go: 4164
+2025-10-13 22:03:49,857 - INFO - Records in product_list: 8100
+2025-10-13 22:03:52,640 - INFO - Completed: 8200 / To go: 4064
+2025-10-13 22:03:52,640 - INFO - Records in product_list: 8200
+2025-10-13 22:03:55,309 - INFO - Completed: 8300 / To go: 3964
+2025-10-13 22:03:55,309 - INFO - Records in product_list: 8300
+2025-10-13 22:03:58,056 - INFO - Completed: 8400 / To go: 3864
+2025-10-13 22:03:58,057 - INFO - Records in product_list: 8400
+2025-10-13 22:04:00,771 - INFO - Completed: 8500 / To go: 3764
+2025-10-13 22:04:00,772 - INFO - Records in product_list: 8500
+2025-10-13 22:04:03,546 - INFO - Completed: 8600 / To go: 3664
+2025-10-13 22:04:03,546 - INFO - Records in product_list: 8600
+2025-10-13 22:04:06,347 - INFO - Completed: 8700 / To go: 3564
+2025-10-13 22:04:06,347 - INFO - Records in product_list: 8700
+2025-10-13 22:04:09,038 - INFO - Completed: 8800 / To go: 3464
+2025-10-13 22:04:09,038 - INFO - Records in product_list: 8800
+2025-10-13 22:04:11,729 - INFO - Completed: 8900 / To go: 3364
+2025-10-13 22:04:11,729 - INFO - Records in product_list: 8900
+2025-10-13 22:04:14,583 - INFO - Completed: 9000 / To go: 3264
+2025-10-13 22:04:14,583 - INFO - Records in product_list: 9000
+2025-10-13 22:04:17,250 - INFO - Completed: 9100 / To go: 3164
+2025-10-13 22:04:17,250 - INFO - Records in product_list: 9100
+2025-10-13 22:04:19,932 - INFO - Completed: 9200 / To go: 3064
+2025-10-13 22:04:19,932 - INFO - Records in product_list: 9200
+2025-10-13 22:04:22,580 - INFO - Completed: 9300 / To go: 2964
+2025-10-13 22:04:22,580 - INFO - Records in product_list: 9300
+2025-10-13 22:04:25,262 - INFO - Completed: 9400 / To go: 2864
+2025-10-13 22:04:25,262 - INFO - Records in product_list: 9400
+2025-10-13 22:04:27,933 - INFO - Completed: 9500 / To go: 2764
+2025-10-13 22:04:27,933 - INFO - Records in product_list: 9500
+2025-10-13 22:04:30,661 - INFO - Completed: 9600 / To go: 2664
+2025-10-13 22:04:30,662 - INFO - Records in product_list: 9600
+2025-10-13 22:04:33,438 - INFO - Completed: 9700 / To go: 2564
+2025-10-13 22:04:33,438 - INFO - Records in product_list: 9700
+2025-10-13 22:04:36,157 - INFO - Completed: 9800 / To go: 2464
+2025-10-13 22:04:36,157 - INFO - Records in product_list: 9800
+2025-10-13 22:04:38,903 - INFO - Completed: 9900 / To go: 2364
+2025-10-13 22:04:38,903 - INFO - Records in product_list: 9900
+2025-10-13 22:04:41,645 - INFO - Completed: 10000 / To go: 2264
+2025-10-13 22:04:41,645 - INFO - Records in product_list: 10000
+2025-10-13 22:04:44,341 - INFO - Completed: 10100 / To go: 2164
+2025-10-13 22:04:44,341 - INFO - Records in product_list: 10100
+2025-10-13 22:04:47,187 - INFO - Completed: 10200 / To go: 2064
+2025-10-13 22:04:47,187 - INFO - Records in product_list: 10200
+2025-10-13 22:04:50,110 - INFO - Completed: 10300 / To go: 1964
+2025-10-13 22:04:50,110 - INFO - Records in product_list: 10300
+2025-10-13 22:04:52,803 - INFO - Completed: 10400 / To go: 1864
+2025-10-13 22:04:52,804 - INFO - Records in product_list: 10400
+2025-10-13 22:04:55,548 - INFO - Completed: 10500 / To go: 1764
+2025-10-13 22:04:55,549 - INFO - Records in product_list: 10500
+2025-10-13 22:04:58,228 - INFO - Completed: 10600 / To go: 1664
+2025-10-13 22:04:58,228 - INFO - Records in product_list: 10600
+2025-10-13 22:05:01,021 - INFO - Completed: 10700 / To go: 1564
+2025-10-13 22:05:01,021 - INFO - Records in product_list: 10700
+2025-10-13 22:05:04,000 - INFO - Completed: 10800 / To go: 1464
+2025-10-13 22:05:04,000 - INFO - Records in product_list: 10800
+2025-10-13 22:05:06,824 - INFO - Completed: 10900 / To go: 1364
+2025-10-13 22:05:06,824 - INFO - Records in product_list: 10900
+2025-10-13 22:05:09,744 - INFO - Completed: 11000 / To go: 1264
+2025-10-13 22:05:09,744 - INFO - Records in product_list: 11000
+2025-10-13 22:05:12,625 - INFO - Completed: 11100 / To go: 1164
+2025-10-13 22:05:12,625 - INFO - Records in product_list: 11100
+2025-10-13 22:05:15,483 - INFO - Completed: 11200 / To go: 1064
+2025-10-13 22:05:15,483 - INFO - Records in product_list: 11200
+2025-10-13 22:05:18,260 - INFO - Completed: 11300 / To go: 964
+2025-10-13 22:05:18,260 - INFO - Records in product_list: 11300
+2025-10-13 22:05:20,972 - INFO - Completed: 11400 / To go: 864
+2025-10-13 22:05:20,973 - INFO - Records in product_list: 11400
+2025-10-13 22:05:24,747 - INFO - Completed: 11500 / To go: 764
+2025-10-13 22:05:24,747 - INFO - Records in product_list: 11500
+2025-10-13 22:05:27,607 - INFO - Completed: 11600 / To go: 664
+2025-10-13 22:05:27,607 - INFO - Records in product_list: 11600
+2025-10-13 22:05:30,289 - INFO - Completed: 11700 / To go: 564
+2025-10-13 22:05:30,290 - INFO - Records in product_list: 11700
+2025-10-13 22:05:33,151 - INFO - Completed: 11800 / To go: 464
+2025-10-13 22:05:33,151 - INFO - Records in product_list: 11800
+2025-10-13 22:05:35,890 - INFO - Completed: 11900 / To go: 364
+2025-10-13 22:05:35,890 - INFO - Records in product_list: 11900
+2025-10-13 22:05:38,734 - INFO - Completed: 12000 / To go: 264
+2025-10-13 22:05:38,734 - INFO - Records in product_list: 12000
+2025-10-13 22:05:41,524 - INFO - Completed: 12100 / To go: 164
+2025-10-13 22:05:41,524 - INFO - Records in product_list: 12100
+2025-10-13 22:05:44,319 - INFO - Completed: 12200 / To go: 64
+2025-10-13 22:05:44,319 - INFO - Records in product_list: 12200
+2025-10-13 22:05:46,912 - INFO - Completed: 12264 / To go: 0
+2025-10-13 22:05:46,912 - INFO - Records in product_list: 12264
+2025-10-13 22:05:49,285 - INFO - Loading combined dataframe from local file: updated_combined_dataframe.csv
