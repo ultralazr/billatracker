@@ -358,7 +358,7 @@ def main():
     
     # Step 5: Find differences
     print("\n[5/7] Comparing data and finding differences...")
-    combined_dataframe['date'] = pd.to_datetime(combined_dataframe['date'])
+    combined_dataframe['date'] = pd.to_datetime(combined_dataframe['date'], format='mixed')
     combined_dataframe_sorted = combined_dataframe.sort_values(by=['sku', 'date'])
     latest_historical_data = combined_dataframe_sorted.groupby('sku').last().reset_index()
     
