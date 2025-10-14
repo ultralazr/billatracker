@@ -97784,5 +97784,20 @@
                 }
             }
         }
+    },
+    {
+        "timestamp": "2025-10-14 09:27:38",
+        "TotalRecords": 12354,
+        "RecordsScraped": 12354,
+        "Number of rows in combined_dataframe": 563119,
+        "Number of rows in updated_combined_dataframe": 563120,
+        "Differences found": {
+            "00-368880": {
+                "price_regular_value": {
+                    "historical": "18.99",
+                    "scraped": "nan"
+                }
+            }
+        }
     }
 ]
