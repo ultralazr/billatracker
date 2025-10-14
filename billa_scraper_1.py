@@ -168,6 +168,10 @@ def extract_product_data(product_list):
             new_price_history_entries[col] = pd.to_numeric(new_price_history_entries[col], errors='coerce')
             new_price_history_entries[col] = (new_price_history_entries[col] / 100).round(2)
     
+    # Convert inPromotion to boolean for consistency
+    if 'inPromotion' in new_price_history_entries.columns:
+        new_price_history_entries['inPromotion'] = new_price_history_entries['inPromotion'].astype(bool)
+    
     return new_price_history_entries
 
 
