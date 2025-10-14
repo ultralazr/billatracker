@@ -220,8 +220,8 @@ def find_differences(latest_historical_data, new_scraped_data):
             # Compare values
             if hist_value_compare != scrap_value_compare:
                 sku_differences[col] = {
-                    'historical': row[col],
-                    'scraped': scraped_row[col]
+                    'historical': str(row[col]),
+                    'scraped': str(scraped_row[col])
                 }
         
         if sku_differences:
