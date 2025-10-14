@@ -3,7 +3,7 @@ name: Billa Price Scraper
 on:
   schedule:
     
-    #- cron: '0 */6 * * *' # Run Every 6 hours:
+    - cron: '0 */6 * * *' # Run Every 6 hours:
   workflow_dispatch:  # Allows manual trigger from GitHub UI
 
 permissions:
