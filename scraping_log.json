@@ -98048,5 +98048,308 @@
                 }
             }
         }
+    },
+    {
+        "timestamp": "2025-10-15 12:24:34",
+        "TotalRecords": 12345,
+        "RecordsScraped": 12345,
+        "Number of rows in combined_dataframe": 563134,
+        "Number of rows in updated_combined_dataframe": 563147,
+        "Differences found": {
+            "00-368880": {
+                "price_regular_value": {
+                    "historical": "18.99",
+                    "scraped": "nan"
+                }
+            },
+            "00-405595": {
+                "price_regular_value": {
+                    "historical": "1.87",
+                    "scraped": "2.49"
+                },
+                "inPromotion": {
+                    "historical": "nan",
+                    "scraped": "False"
+                },
+                "amount": {
+                    "historical": "nan",
+                    "scraped": "1"
+                },
+                "volumeLabelShort": {
+                    "historical": "None",
+                    "scraped": "stk"
+                },
+                "packageLabel": {
+                    "historical": "None",
+                    "scraped": "St\u00fcck"
+                },
+                "conversionFactor": {
+                    "historical": "nan",
+                    "scraped": "1.0"
+                },
+                "price_regular_perStandardizedQuantity": {
+                    "historical": "nan",
+                    "scraped": "2.49"
+                },
+                "price_regular_tags": {
+                    "historical": "None",
+                    "scraped": "[]"
+                }
+            },
+            "00-409218": {
+                "inPromotion": {
+                    "historical": "nan",
+                    "scraped": "False"
+                },
+                "amount": {
+                    "historical": "nan",
+                    "scraped": "1"
+                },
+                "volumeLabelShort": {
+                    "historical": "None",
+                    "scraped": "stk"
+                },
+                "packageLabel": {
+                    "historical": "None",
+                    "scraped": "St\u00fcck"
+                },
+                "conversionFactor": {
+                    "historical": "nan",
+                    "scraped": "1.0"
+                },
+                "price_regular_perStandardizedQuantity": {
+                    "historical": "nan",
+                    "scraped": "1.99"
+                },
+                "price_regular_tags": {
+                    "historical": "None",
+                    "scraped": "[]"
+                }
+            },
+            "00-489719": {
+                "amount": {
+                    "historical": "172.0",
+                    "scraped": "172.5"
+                },
+                "price_regular_perStandardizedQuantity": {
+                    "historical": "1.74",
+                    "scraped": "1.73"
+                }
+            },
+            "00-514719": {
+                "price_regular_value": {
+                    "historical": "3.49",
+                    "scraped": "3.69"
+                },
+                "inPromotion": {
+                    "historical": "nan",
+                    "scraped": "False"
+                },
+                "amount": {
+                    "historical": "nan",
+                    "scraped": "200"
+                },
+                "volumeLabelShort": {
+                    "historical": "None",
+                    "scraped": "g"
+                },
+                "packageLabel": {
+                    "historical": "None",
+                    "scraped": "Packung"
+                },
+                "conversionFactor": {
+                    "historical": "nan",
+                    "scraped": "1000.0"
+                },
+                "price_regular_perStandardizedQuantity": {
+                    "historical": "nan",
+                    "scraped": "18.45"
+                },
+                "price_regular_tags": {
+                    "historical": "None",
+                    "scraped": "[]"
+                }
+            },
+            "00-648579": {
+                "price_regular_perStandardizedQuantity": {
+                    "historical": "6.6",
+                    "scraped": "6.88"
+                }
+            },
+            "00-744704": {
+                "inPromotion": {
+                    "historical": "nan",
+                    "scraped": "False"
+                },
+                "amount": {
+                    "historical": "nan",
+                    "scraped": "125"
+                },
+                "volumeLabelShort": {
+                    "historical": "None",
+                    "scraped": "g"
+                },
+                "packageLabel": {
+                    "historical": "None",
+                    "scraped": "Packung"
+                },
+                "conversionFactor": {
+                    "historical": "nan",
+                    "scraped": "1000.0"
+                },
+                "price_regular_perStandardizedQuantity": {
+                    "historical": "nan",
+                    "scraped": "19.92"
+                },
+                "price_regular_tags": {
+                    "historical": "None",
+                    "scraped": "[]"
+                }
+            },
+            "00-762694": {
+                "price_regular_promotionQuantity": {
+                    "historical": "2.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionText": {
+                    "historical": "je 2 Packungen",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionType": {
+                    "historical": "PER_SET_OF",
+                    "scraped": "nan"
+                },
+                "price_crossed": {
+                    "historical": "2.99",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-49.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "2.99",
+                    "scraped": "nan"
+                }
+            },
+            "00-762698": {
+                "price_regular_promotionQuantity": {
+                    "historical": "2.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionText": {
+                    "historical": "je 2 Packungen",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionType": {
+                    "historical": "PER_SET_OF",
+                    "scraped": "nan"
+                },
+                "price_crossed": {
+                    "historical": "2.99",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-49.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "2.99",
+                    "scraped": "nan"
+                }
+            },
+            "00-801269": {
+                "inPromotion": {
+                    "historical": "nan",
+                    "scraped": "False"
+                },
+                "amount": {
+                    "historical": "nan",
+                    "scraped": "0.5"
+                },
+                "volumeLabelShort": {
+                    "historical": "None",
+                    "scraped": "liter"
+                },
+                "packageLabel": {
+                    "historical": "None",
+                    "scraped": "Flasche"
+                },
+                "conversionFactor": {
+                    "historical": "nan",
+                    "scraped": "1.0"
+                },
+                "price_regular_perStandardizedQuantity": {
+                    "historical": "nan",
+                    "scraped": "15.98"
+                },
+                "price_regular_tags": {
+                    "historical": "None",
+                    "scraped": "[]"
+                }
+            },
+            "00-872277": {
+                "volumeLabelShort": {
+                    "historical": "g",
+                    "scraped": "ml"
+                }
+            },
+            "00-89188": {
+                "inPromotion": {
+                    "historical": "nan",
+                    "scraped": "False"
+                },
+                "amount": {
+                    "historical": "nan",
+                    "scraped": "1"
+                },
+                "volumeLabelShort": {
+                    "historical": "None",
+                    "scraped": "kg"
+                },
+                "packageLabel": {
+                    "historical": "None",
+                    "scraped": "Tasse"
+                },
+                "conversionFactor": {
+                    "historical": "nan",
+                    "scraped": "1.0"
+                },
+                "price_regular_perStandardizedQuantity": {
+                    "historical": "nan",
+                    "scraped": "3.49"
+                },
+                "price_regular_tags": {
+                    "historical": "None",
+                    "scraped": "[]"
+                }
+            },
+            "00-89593": {
+                "inPromotion": {
+                    "historical": "nan",
+                    "scraped": "False"
+                },
+                "amount": {
+                    "historical": "nan",
+                    "scraped": "1"
+                },
+                "packageLabel": {
+                    "historical": "None",
+                    "scraped": "Bund"
+                },
+                "conversionFactor": {
+                    "historical": "nan",
+                    "scraped": "1.0"
+                },
+                "price_regular_perStandardizedQuantity": {
+                    "historical": "nan",
+                    "scraped": "2.49"
+                },
+                "price_regular_tags": {
+                    "historical": "None",
+                    "scraped": "[]"
+                }
+            }
+        }
     }
 ]
