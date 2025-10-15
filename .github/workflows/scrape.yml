@@ -43,7 +43,7 @@ jobs:
       # Step 6: Check for changes and commit
       - name: Commit and push changes
         run: |
-          git add updated_combined_dataframe.csv scraping_log.json scraping_summary.html scraper.log
+          git add updated_combined_dataframe.csv flattened_product_data.csv scraping_log.json scraping_summary.html scraper.log
           git commit -m "chore: update price data - $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
           git push
       
