@@ -330,7 +330,7 @@ def main():
     logger.info("=" * 60)
     
     # Configuration
-    START_URL = 'https://shop.billa.at/api/products?sortBy=relevance&page=0&pageSize=100'
+    START_URL = 'https://shop.billa.at/api/product-discovery/products?sortBy=relevance&page=0&pageSize=100'
     CSV_FILE = 'updated_combined_dataframe.csv'
     LOG_FILE = 'scraping_log.json'
     
