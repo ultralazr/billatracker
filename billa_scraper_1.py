@@ -355,6 +355,11 @@ def main():
     print(f"New Entries Created: {len(new_price_history_entries)}")
     print(new_price_history_entries.head())
     
+    # Save flattened product data (overwrites existing file)
+    flattened_product_df = pd.json_normalize(product_list, sep='_')
+    flattened_product_df.to_csv('flattened_product_data.csv', index=False)
+    print(f"Flattened product data saved to flattened_product_data.csv")
+    
     # Step 4: Load combined dataframe
     print("\n[4/7] Loading combined dataframe...")
     combined_dataframe = load_combined_dataframe(CSV_FILE)
