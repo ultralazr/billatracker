@@ -97799,5 +97799,254 @@
                 }
             }
         }
+    },
+    {
+        "timestamp": "2025-10-15 03:49:37",
+        "TotalRecords": 12344,
+        "RecordsScraped": 12344,
+        "Number of rows in combined_dataframe": 563120,
+        "Number of rows in updated_combined_dataframe": 563134,
+        "Differences found": {
+            "00-312703": {
+                "price_regular_value": {
+                    "historical": "2.59",
+                    "scraped": "2.79"
+                },
+                "price_regular_perStandardizedQuantity": {
+                    "historical": "0.26",
+                    "scraped": "0.28"
+                }
+            },
+            "00-368880": {
+                "price_regular_value": {
+                    "historical": "18.99",
+                    "scraped": "nan"
+                }
+            },
+            "00-462165": {
+                "price_regular_value": {
+                    "historical": "2.79",
+                    "scraped": "2.99"
+                },
+                "price_regular_perStandardizedQuantity": {
+                    "historical": "22.32",
+                    "scraped": "23.92"
+                }
+            },
+            "00-521912": {
+                "price_regular_value": {
+                    "historical": "1.99",
+                    "scraped": "1.89"
+                },
+                "price_regular_perStandardizedQuantity": {
+                    "historical": "1.99",
+                    "scraped": "1.89"
+                }
+            },
+            "00-715623": {
+                "price_regular_value": {
+                    "historical": "1.49",
+                    "scraped": "1.79"
+                },
+                "price_regular_perStandardizedQuantity": {
+                    "historical": "9.93",
+                    "scraped": "11.93"
+                }
+            },
+            "00-727454": {
+                "price_regular_value": {
+                    "historical": "2.49",
+                    "scraped": "1.87"
+                },
+                "inPromotion": {
+                    "historical": "0.0",
+                    "scraped": "True"
+                },
+                "price_crossed": {
+                    "historical": "nan",
+                    "scraped": "2.49"
+                },
+                "price_discountPercentage": {
+                    "historical": "nan",
+                    "scraped": "-24.0"
+                },
+                "price_regular_perStandardizedQuantity": {
+                    "historical": "41.5",
+                    "scraped": "31.17"
+                },
+                "price_regular_tags": {
+                    "historical": "[]",
+                    "scraped": "['pt-satterrabatt']"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "nan",
+                    "scraped": "2.49"
+                }
+            },
+            "00-728329": {
+                "price_regular_value": {
+                    "historical": "29.99",
+                    "scraped": "34.99"
+                },
+                "price_regular_perStandardizedQuantity": {
+                    "historical": "29.99",
+                    "scraped": "34.99"
+                }
+            },
+            "00-762694": {
+                "price_regular_value": {
+                    "historical": "1.5",
+                    "scraped": "2.99"
+                },
+                "inPromotion": {
+                    "historical": "1.0",
+                    "scraped": "False"
+                },
+                "price_regular_promotionQuantity": {
+                    "historical": "2.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionText": {
+                    "historical": "je 2 Packungen",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionType": {
+                    "historical": "PER_SET_OF",
+                    "scraped": "nan"
+                },
+                "price_crossed": {
+                    "historical": "2.99",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-49.0",
+                    "scraped": "nan"
+                },
+                "price_regular_perStandardizedQuantity": {
+                    "historical": "3.0",
+                    "scraped": "5.98"
+                },
+                "price_regular_tags": {
+                    "historical": "['pt-multi', 'pt-1plus1']",
+                    "scraped": "[]"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "2.99",
+                    "scraped": "nan"
+                }
+            },
+            "00-762698": {
+                "price_regular_value": {
+                    "historical": "1.5",
+                    "scraped": "2.99"
+                },
+                "inPromotion": {
+                    "historical": "1.0",
+                    "scraped": "False"
+                },
+                "price_regular_promotionQuantity": {
+                    "historical": "2.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionText": {
+                    "historical": "je 2 Packungen",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionType": {
+                    "historical": "PER_SET_OF",
+                    "scraped": "nan"
+                },
+                "price_crossed": {
+                    "historical": "2.99",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-49.0",
+                    "scraped": "nan"
+                },
+                "price_regular_perStandardizedQuantity": {
+                    "historical": "3.0",
+                    "scraped": "5.98"
+                },
+                "price_regular_tags": {
+                    "historical": "['pt-multi', 'pt-1plus1']",
+                    "scraped": "[]"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "2.99",
+                    "scraped": "nan"
+                }
+            },
+            "00-767177": {
+                "price_regular_value": {
+                    "historical": "4.99",
+                    "scraped": "3.74"
+                },
+                "inPromotion": {
+                    "historical": "0.0",
+                    "scraped": "True"
+                },
+                "price_crossed": {
+                    "historical": "nan",
+                    "scraped": "4.99"
+                },
+                "price_discountPercentage": {
+                    "historical": "nan",
+                    "scraped": "-25.0"
+                },
+                "price_regular_perStandardizedQuantity": {
+                    "historical": "26.26",
+                    "scraped": "19.68"
+                },
+                "price_regular_tags": {
+                    "historical": "[]",
+                    "scraped": "['pt-satterrabatt']"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "nan",
+                    "scraped": "4.99"
+                }
+            },
+            "00-773808": {
+                "price_regular_value": {
+                    "historical": "2.99",
+                    "scraped": "2.49"
+                },
+                "price_regular_perStandardizedQuantity": {
+                    "historical": "2.99",
+                    "scraped": "2.49"
+                }
+            },
+            "00-820829": {
+                "price_regular_value": {
+                    "historical": "4.79",
+                    "scraped": "4.99"
+                },
+                "price_regular_perStandardizedQuantity": {
+                    "historical": "0.48",
+                    "scraped": "0.5"
+                }
+            },
+            "00-89521": {
+                "price_regular_value": {
+                    "historical": "1.99",
+                    "scraped": "1.89"
+                },
+                "price_regular_perStandardizedQuantity": {
+                    "historical": "1.99",
+                    "scraped": "1.89"
+                }
+            },
+            "00-89533": {
+                "price_regular_value": {
+                    "historical": "1.99",
+                    "scraped": "1.89"
+                },
+                "price_regular_perStandardizedQuantity": {
+                    "historical": "1.99",
+                    "scraped": "1.89"
+                }
+            }
+        }
     }
 ]
