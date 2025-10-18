@@ -108903,5 +108903,2990 @@
                 }
             }
         }
+    },
+    {
+        "timestamp": "2025-10-18 03:27:06",
+        "TotalRecords": 12297,
+        "RecordsScraped": 12297,
+        "Number of rows in combined_dataframe": 563542,
+        "Number of rows in updated_combined_dataframe": 563856,
+        "Differences found": {
+            "00-10907": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-13851": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-14294": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Dosen",
+                    "scraped": "Bei 3 Dosen je"
+                }
+            },
+            "00-14446": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-16395": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Dosen",
+                    "scraped": "Bei 3 Dosen je"
+                }
+            },
+            "00-168013": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Dosen",
+                    "scraped": "Bei 3 Dosen je"
+                }
+            },
+            "00-17013": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-17803": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-17804": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-18090": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-200001": {
+                "price_regular_promotionText": {
+                    "historical": "je 5 Dosen",
+                    "scraped": "Bei 5 Dosen je"
+                }
+            },
+            "00-200094": {
+                "price_regular_promotionQuantity": {
+                    "historical": "2.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionText": {
+                    "historical": "ab 2 Packungen",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionType": {
+                    "historical": "FROM",
+                    "scraped": "nan"
+                },
+                "price_crossed": {
+                    "historical": "3.29",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-24.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "3.29",
+                    "scraped": "nan"
+                }
+            },
+            "00-202785": {
+                "price_regular_promotionQuantity": {
+                    "historical": "2.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionText": {
+                    "historical": "ab 2 Packungen",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionType": {
+                    "historical": "FROM",
+                    "scraped": "nan"
+                },
+                "price_crossed": {
+                    "historical": "3.29",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-24.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "3.29",
+                    "scraped": "nan"
+                }
+            },
+            "00-23598": {
+                "price_regular_promotionQuantity": {
+                    "historical": "2.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionText": {
+                    "historical": "ab 2 Packungen",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionType": {
+                    "historical": "FROM",
+                    "scraped": "nan"
+                },
+                "price_crossed": {
+                    "historical": "2.19",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-18.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "2.19",
+                    "scraped": "nan"
+                }
+            },
+            "00-242928": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-242934": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-242938": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-254703": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Dosen",
+                    "scraped": "Bei 3 Dosen je"
+                }
+            },
+            "00-257588": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Flaschen",
+                    "scraped": "Bei 3 Flaschen je"
+                }
+            },
+            "00-292944": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-294601": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Rollen",
+                    "scraped": "Bei 3 Rollen je"
+                }
+            },
+            "00-295782": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Stk",
+                    "scraped": "Bei 3 Stk je"
+                }
+            },
+            "00-297713": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Flaschen",
+                    "scraped": "Bei 3 Flaschen je"
+                }
+            },
+            "00-299050": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Stk",
+                    "scraped": "Bei 3 Stk je"
+                }
+            },
+            "00-30152": {
+                "price_crossed": {
+                    "historical": "1.69",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-11.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "1.69",
+                    "scraped": "nan"
+                }
+            },
+            "00-302965": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Tafeln",
+                    "scraped": "Bei 3 Tafeln je"
+                }
+            },
+            "00-303008": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Tafeln",
+                    "scraped": "Bei 3 Tafeln je"
+                }
+            },
+            "00-303016": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Tafeln",
+                    "scraped": "Bei 3 Tafeln je"
+                }
+            },
+            "00-303086": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Tafeln",
+                    "scraped": "Bei 3 Tafeln je"
+                }
+            },
+            "00-303091": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Tafeln",
+                    "scraped": "Bei 3 Tafeln je"
+                }
+            },
+            "00-303260": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Becher",
+                    "scraped": "Bei 3 Becher je"
+                }
+            },
+            "00-303278": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Becher",
+                    "scraped": "Bei 3 Becher je"
+                }
+            },
+            "00-303315": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Becher",
+                    "scraped": "Bei 3 Becher je"
+                }
+            },
+            "00-303607": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-30388": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-3046": {
+                "price_regular_promotionQuantity": {
+                    "historical": "3.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionType": {
+                    "historical": "PER_SET_OF",
+                    "scraped": "nan"
+                },
+                "price_crossed": {
+                    "historical": "5.29",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-33.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "5.29",
+                    "scraped": "nan"
+                }
+            },
+            "00-315441": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Beutel",
+                    "scraped": "Bei 3 Beutel je"
+                }
+            },
+            "00-3227": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Dosen",
+                    "scraped": "Bei 3 Dosen je"
+                }
+            },
+            "00-3459": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Dosen",
+                    "scraped": "Bei 3 Dosen je"
+                }
+            },
+            "00-346427": {
+                "price_crossed": {
+                    "historical": "1.99",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-10.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "1.99",
+                    "scraped": "nan"
+                }
+            },
+            "00-3496": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Dosen",
+                    "scraped": "Bei 3 Dosen je"
+                }
+            },
+            "00-349612": {
+                "price_regular_promotionQuantity": {
+                    "historical": "3.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionType": {
+                    "historical": "PER_SET_OF",
+                    "scraped": "nan"
+                },
+                "price_crossed": {
+                    "historical": "5.29",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-33.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "5.29",
+                    "scraped": "nan"
+                }
+            },
+            "00-354064": {
+                "price_regular_promotionQuantity": {
+                    "historical": "2.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionText": {
+                    "historical": "ab 2 Packungen",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionType": {
+                    "historical": "FROM",
+                    "scraped": "nan"
+                },
+                "price_crossed": {
+                    "historical": "2.19",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-18.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "2.19",
+                    "scraped": "nan"
+                }
+            },
+            "00-356386": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Dosen",
+                    "scraped": "Bei 3 Dosen je"
+                }
+            },
+            "00-358440": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Dosen",
+                    "scraped": "Bei 3 Dosen je"
+                }
+            },
+            "00-359979": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-359981": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-368880": {
+                "price_regular_value": {
+                    "historical": "18.99",
+                    "scraped": "nan"
+                }
+            },
+            "00-370118": {
+                "price_regular_value": {
+                    "historical": "2.19",
+                    "scraped": "2.59"
+                },
+                "inPromotion": {
+                    "historical": "1.0",
+                    "scraped": "False"
+                },
+                "price_crossed": {
+                    "historical": "2.59",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-15.0",
+                    "scraped": "nan"
+                },
+                "price_regular_perStandardizedQuantity": {
+                    "historical": "1.1",
+                    "scraped": "1.3"
+                },
+                "price_regular_tags": {
+                    "historical": "['pt-aktion']",
+                    "scraped": "[]"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "2.59",
+                    "scraped": "nan"
+                }
+            },
+            "00-370136": {
+                "price_regular_value": {
+                    "historical": "2.19",
+                    "scraped": "2.59"
+                },
+                "inPromotion": {
+                    "historical": "1.0",
+                    "scraped": "False"
+                },
+                "price_crossed": {
+                    "historical": "2.59",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-15.0",
+                    "scraped": "nan"
+                },
+                "price_regular_perStandardizedQuantity": {
+                    "historical": "1.1",
+                    "scraped": "1.3"
+                },
+                "price_regular_tags": {
+                    "historical": "['pt-aktion']",
+                    "scraped": "[]"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "2.59",
+                    "scraped": "nan"
+                }
+            },
+            "00-381674": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Becher",
+                    "scraped": "Bei 3 Becher je"
+                }
+            },
+            "00-381679": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Becher",
+                    "scraped": "Bei 3 Becher je"
+                }
+            },
+            "00-381684": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Becher",
+                    "scraped": "Bei 3 Becher je"
+                }
+            },
+            "00-387378": {
+                "price_crossed": {
+                    "historical": "1.69",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-11.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "1.69",
+                    "scraped": "nan"
+                }
+            },
+            "00-3881": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Dosen",
+                    "scraped": "Bei 3 Dosen je"
+                }
+            },
+            "00-388559": {
+                "price_regular_promotionQuantity": {
+                    "historical": "2.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionText": {
+                    "historical": "ab 2 Becher",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionType": {
+                    "historical": "FROM",
+                    "scraped": "nan"
+                }
+            },
+            "00-388605": {
+                "price_crossed": {
+                    "historical": "1.99",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-10.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "1.99",
+                    "scraped": "nan"
+                }
+            },
+            "00-389250": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-389406": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Becher",
+                    "scraped": "Bei 3 Becher je"
+                }
+            },
+            "00-392364": {
+                "price_crossed": {
+                    "historical": "14.99",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-13.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "14.99",
+                    "scraped": "nan"
+                }
+            },
+            "00-400193": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-401486": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Dosen",
+                    "scraped": "Bei 3 Dosen je"
+                }
+            },
+            "00-402708": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Dosen",
+                    "scraped": "Bei 3 Dosen je"
+                }
+            },
+            "00-402759": {
+                "price_regular_promotionQuantity": {
+                    "historical": "2.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionText": {
+                    "historical": "ab 2 Beutel",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionType": {
+                    "historical": "FROM",
+                    "scraped": "nan"
+                }
+            },
+            "00-402776": {
+                "price_regular_promotionQuantity": {
+                    "historical": "2.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionText": {
+                    "historical": "ab 2 Beutel",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionType": {
+                    "historical": "FROM",
+                    "scraped": "nan"
+                }
+            },
+            "00-404091": {
+                "price_regular_promotionQuantity": {
+                    "historical": "2.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionText": {
+                    "historical": "ab 2 Packungen",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionType": {
+                    "historical": "FROM",
+                    "scraped": "nan"
+                },
+                "price_crossed": {
+                    "historical": "2.19",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-18.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "2.19",
+                    "scraped": "nan"
+                }
+            },
+            "00-406786": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Stk",
+                    "scraped": "Bei 3 Stk je"
+                }
+            },
+            "00-406800": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Stk",
+                    "scraped": "Bei 3 Stk je"
+                }
+            },
+            "00-406802": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Stk",
+                    "scraped": "Bei 3 Stk je"
+                }
+            },
+            "00-406837": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-407139": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-407678": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-407773": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Pakete",
+                    "scraped": "Bei 3 Pakete je"
+                }
+            },
+            "00-408644": {
+                "price_regular_promotionText": {
+                    "historical": "je 5 Dosen",
+                    "scraped": "Bei 5 Dosen je"
+                }
+            },
+            "00-408645": {
+                "price_regular_promotionText": {
+                    "historical": "je 5 Dosen",
+                    "scraped": "Bei 5 Dosen je"
+                }
+            },
+            "00-408653": {
+                "price_regular_promotionText": {
+                    "historical": "je 5 Dosen",
+                    "scraped": "Bei 5 Dosen je"
+                }
+            },
+            "00-410636": {
+                "price_crossed": {
+                    "historical": "1.39",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-14.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "1.39",
+                    "scraped": "nan"
+                }
+            },
+            "00-412220": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Beutel",
+                    "scraped": "Bei 3 Beutel je"
+                }
+            },
+            "00-412222": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Beutel",
+                    "scraped": "Bei 3 Beutel je"
+                }
+            },
+            "00-412232": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Beutel",
+                    "scraped": "Bei 3 Beutel je"
+                }
+            },
+            "00-412233": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Beutel",
+                    "scraped": "Bei 3 Beutel je"
+                }
+            },
+            "00-414166": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Dosen",
+                    "scraped": "Bei 3 Dosen je"
+                }
+            },
+            "00-414401": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-414990": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-416251": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-417945": {
+                "price_crossed": {
+                    "historical": "6.49",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-7.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "6.49",
+                    "scraped": "nan"
+                }
+            },
+            "00-418572": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-420529": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-420797": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-421646": {
+                "price_regular_promotionText": {
+                    "historical": "je 5 Dosen",
+                    "scraped": "Bei 5 Dosen je"
+                }
+            },
+            "00-422074": {
+                "price_crossed": {
+                    "historical": "0.99",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-20.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "0.99",
+                    "scraped": "nan"
+                }
+            },
+            "00-422444": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-423164": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Beutel",
+                    "scraped": "Bei 3 Beutel je"
+                }
+            },
+            "00-423194": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Beutel",
+                    "scraped": "Bei 3 Beutel je"
+                }
+            },
+            "00-425425": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Becher",
+                    "scraped": "Bei 3 Becher je"
+                }
+            },
+            "00-426155": {
+                "price_crossed": {
+                    "historical": "3.29",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-15.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "3.29",
+                    "scraped": "nan"
+                }
+            },
+            "00-426547": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-426548": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-427222": {
+                "price_crossed": {
+                    "historical": "0.99",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-20.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "0.99",
+                    "scraped": "nan"
+                }
+            },
+            "00-427523": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-428294": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-428926": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-429423": {
+                "price_regular_promotionText": {
+                    "historical": "je 5 Dosen",
+                    "scraped": "Bei 5 Dosen je"
+                }
+            },
+            "00-429996": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Becher",
+                    "scraped": "Bei 3 Becher je"
+                }
+            },
+            "00-431939": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Beutel",
+                    "scraped": "Bei 3 Beutel je"
+                }
+            },
+            "00-432274": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Flaschen",
+                    "scraped": "Bei 3 Flaschen je"
+                }
+            },
+            "00-432919": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Becher",
+                    "scraped": "Bei 3 Becher je"
+                }
+            },
+            "00-436600": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Becher",
+                    "scraped": "Bei 3 Becher je"
+                }
+            },
+            "00-437683": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Beutel",
+                    "scraped": "Bei 3 Beutel je"
+                }
+            },
+            "00-437684": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Beutel",
+                    "scraped": "Bei 3 Beutel je"
+                }
+            },
+            "00-438048": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-439239": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-439465": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Dosen",
+                    "scraped": "Bei 3 Dosen je"
+                }
+            },
+            "00-439664": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Stk",
+                    "scraped": "Bei 3 Stk je"
+                }
+            },
+            "00-439742": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Stk",
+                    "scraped": "Bei 3 Stk je"
+                }
+            },
+            "00-439995": {
+                "price_crossed": {
+                    "historical": "31.9",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-40.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "31.9",
+                    "scraped": "nan"
+                }
+            },
+            "00-440804": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Flaschen",
+                    "scraped": "Bei 3 Flaschen je"
+                }
+            },
+            "00-440805": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Flaschen",
+                    "scraped": "Bei 3 Flaschen je"
+                }
+            },
+            "00-440806": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Flaschen",
+                    "scraped": "Bei 3 Flaschen je"
+                }
+            },
+            "00-441228": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Becher",
+                    "scraped": "Bei 3 Becher je"
+                }
+            },
+            "00-44721": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Dosen",
+                    "scraped": "Bei 3 Dosen je"
+                }
+            },
+            "00-44725": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Dosen",
+                    "scraped": "Bei 3 Dosen je"
+                }
+            },
+            "00-44729": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Dosen",
+                    "scraped": "Bei 3 Dosen je"
+                }
+            },
+            "00-44747": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Dosen",
+                    "scraped": "Bei 3 Dosen je"
+                }
+            },
+            "00-450003": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-452747": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-466694": {
+                "price_regular_value": {
+                    "historical": "1.49",
+                    "scraped": "1.79"
+                },
+                "inPromotion": {
+                    "historical": "1.0",
+                    "scraped": "False"
+                },
+                "price_crossed": {
+                    "historical": "1.79",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-16.0",
+                    "scraped": "nan"
+                },
+                "price_regular_perStandardizedQuantity": {
+                    "historical": "1.2",
+                    "scraped": "1.44"
+                },
+                "price_regular_tags": {
+                    "historical": "['pt-aktion']",
+                    "scraped": "[]"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "1.79",
+                    "scraped": "nan"
+                }
+            },
+            "00-469743": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-471816": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-472112": {
+                "price_regular_promotionQuantity": {
+                    "historical": "2.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionText": {
+                    "historical": "ab 2 Becher",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionType": {
+                    "historical": "FROM",
+                    "scraped": "nan"
+                }
+            },
+            "00-477739": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Rollen",
+                    "scraped": "Bei 3 Rollen je"
+                }
+            },
+            "00-478384": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Becher",
+                    "scraped": "Bei 3 Becher je"
+                }
+            },
+            "00-478385": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Becher",
+                    "scraped": "Bei 3 Becher je"
+                }
+            },
+            "00-479675": {
+                "price_regular_promotionText": {
+                    "historical": "je 5 Dosen",
+                    "scraped": "Bei 5 Dosen je"
+                }
+            },
+            "00-479785": {
+                "price_regular_promotionText": {
+                    "historical": "je 5 Dosen",
+                    "scraped": "Bei 5 Dosen je"
+                }
+            },
+            "00-480679": {
+                "price_regular_promotionText": {
+                    "historical": "je 5 Dosen",
+                    "scraped": "Bei 5 Dosen je"
+                }
+            },
+            "00-481469": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Flaschen",
+                    "scraped": "Bei 3 Flaschen je"
+                }
+            },
+            "00-500413": {
+                "price_crossed": {
+                    "historical": "0.99",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-20.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "0.99",
+                    "scraped": "nan"
+                }
+            },
+            "00-501158": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-501771": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Flaschen",
+                    "scraped": "Bei 3 Flaschen je"
+                }
+            },
+            "00-502370": {
+                "price_regular_promotionText": {
+                    "historical": "je 2 Flaschen",
+                    "scraped": "Bei 2 Flaschen je"
+                }
+            },
+            "00-503254": {
+                "price_regular_promotionQuantity": {
+                    "historical": "3.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionType": {
+                    "historical": "PER_SET_OF",
+                    "scraped": "nan"
+                },
+                "price_crossed": {
+                    "historical": "5.29",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-33.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "5.29",
+                    "scraped": "nan"
+                }
+            },
+            "00-503670": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-503671": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-517509": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-528298": {
+                "price_regular_promotionQuantity": {
+                    "historical": "2.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionText": {
+                    "historical": "ab 2 Beutel",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionType": {
+                    "historical": "FROM",
+                    "scraped": "nan"
+                }
+            },
+            "00-543378": {
+                "price_crossed": {
+                    "historical": "1.99",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-10.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "1.99",
+                    "scraped": "nan"
+                }
+            },
+            "00-545622": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-546791": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-56224": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Beutel",
+                    "scraped": "Bei 3 Beutel je"
+                }
+            },
+            "00-56234": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-567411": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Rollen",
+                    "scraped": "Bei 3 Rollen je"
+                }
+            },
+            "00-568506": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-574248": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Becher",
+                    "scraped": "Bei 3 Becher je"
+                }
+            },
+            "00-580791": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Dosen",
+                    "scraped": "Bei 3 Dosen je"
+                }
+            },
+            "00-583699": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-586959": {
+                "price_regular_value": {
+                    "historical": "4.99",
+                    "scraped": "3.89"
+                },
+                "inPromotion": {
+                    "historical": "nan",
+                    "scraped": "True"
+                },
+                "price_crossed": {
+                    "historical": "nan",
+                    "scraped": "5.19"
+                },
+                "amount": {
+                    "historical": "nan",
+                    "scraped": "650"
+                },
+                "volumeLabelShort": {
+                    "historical": "None",
+                    "scraped": "g"
+                },
+                "packageLabel": {
+                    "historical": "None",
+                    "scraped": "St\u00fcck"
+                },
+                "conversionFactor": {
+                    "historical": "nan",
+                    "scraped": "1000.0"
+                },
+                "price_discountPercentage": {
+                    "historical": "nan",
+                    "scraped": "-25.0"
+                },
+                "price_regular_perStandardizedQuantity": {
+                    "historical": "nan",
+                    "scraped": "5.99"
+                },
+                "price_regular_tags": {
+                    "historical": "None",
+                    "scraped": "['pt-satterrabatt']"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "nan",
+                    "scraped": "5.19"
+                }
+            },
+            "00-599253": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Becher",
+                    "scraped": "Bei 3 Becher je"
+                }
+            },
+            "00-605740": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-605837": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-607428": {
+                "price_regular_promotionQuantity": {
+                    "historical": "2.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionText": {
+                    "historical": "ab 2 Packungen",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionType": {
+                    "historical": "FROM",
+                    "scraped": "nan"
+                },
+                "price_crossed": {
+                    "historical": "3.09",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-25.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "3.09",
+                    "scraped": "nan"
+                }
+            },
+            "00-612335": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-615908": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-618535": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Flaschen",
+                    "scraped": "Bei 3 Flaschen je"
+                }
+            },
+            "00-618613": {
+                "price_crossed": {
+                    "historical": "12.99",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-9.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "12.99",
+                    "scraped": "nan"
+                }
+            },
+            "00-6191": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Beutel",
+                    "scraped": "Bei 3 Beutel je"
+                }
+            },
+            "00-632215": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-633140": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Flaschen",
+                    "scraped": "Bei 3 Flaschen je"
+                }
+            },
+            "00-639801": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Dosen",
+                    "scraped": "Bei 3 Dosen je"
+                }
+            },
+            "00-64303": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-646295": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Flaschen",
+                    "scraped": "Bei 3 Flaschen je"
+                }
+            },
+            "00-648894": {
+                "price_crossed": {
+                    "historical": "2.49",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-20.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "2.49",
+                    "scraped": "nan"
+                }
+            },
+            "00-661094": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-664171": {
+                "price_regular_promotionText": {
+                    "historical": "je 2 Flaschen",
+                    "scraped": "Bei 2 Flaschen je"
+                }
+            },
+            "00-664813": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-665879": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-665881": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-665887": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-672236": {
+                "price_crossed": {
+                    "historical": "12.99",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-9.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "12.99",
+                    "scraped": "nan"
+                }
+            },
+            "00-679137": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-680559": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-691265": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-699205": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-700531": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-702583": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-703849": {
+                "price_crossed": {
+                    "historical": "4.76",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-15.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "4.76",
+                    "scraped": "nan"
+                }
+            },
+            "00-705631": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Dosen",
+                    "scraped": "Bei 3 Dosen je"
+                }
+            },
+            "00-706773": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Kisten",
+                    "scraped": "Bei 3 Kisten je"
+                }
+            },
+            "00-707151": {
+                "price_regular_promotionText": {
+                    "historical": "je 2 Flaschen",
+                    "scraped": "Bei 2 Flaschen je"
+                }
+            },
+            "00-714610": {
+                "price_regular_promotionQuantity": {
+                    "historical": "2.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionText": {
+                    "historical": "ab 2 Beutel",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionType": {
+                    "historical": "FROM",
+                    "scraped": "nan"
+                }
+            },
+            "00-716174": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Dosen",
+                    "scraped": "Bei 3 Dosen je"
+                }
+            },
+            "00-718352": {
+                "price_crossed": {
+                    "historical": "2.49",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-20.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "2.49",
+                    "scraped": "nan"
+                }
+            },
+            "00-718644": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-720240": {
+                "price_regular_promotionQuantity": {
+                    "historical": "2.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionText": {
+                    "historical": "ab 2 Stk",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionType": {
+                    "historical": "FROM",
+                    "scraped": "nan"
+                },
+                "price_crossed": {
+                    "historical": "1.35",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-11.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "1.35",
+                    "scraped": "nan"
+                }
+            },
+            "00-720688": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Stk",
+                    "scraped": "Bei 3 Stk je"
+                }
+            },
+            "00-721409": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-7215": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-722700": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Becher",
+                    "scraped": "Bei 3 Becher je"
+                }
+            },
+            "00-723236": {
+                "price_crossed": {
+                    "historical": "0.99",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-10.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "0.99",
+                    "scraped": "nan"
+                }
+            },
+            "00-724604": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-724605": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-724606": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-725379": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Stk",
+                    "scraped": "Bei 3 Stk je"
+                }
+            },
+            "00-7275": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-727792": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Flaschen",
+                    "scraped": "Bei 3 Flaschen je"
+                }
+            },
+            "00-728135": {
+                "price_regular_promotionQuantity": {
+                    "historical": "2.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionText": {
+                    "historical": "ab 2 Becher",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionType": {
+                    "historical": "FROM",
+                    "scraped": "nan"
+                }
+            },
+            "00-728222": {
+                "price_regular_promotionQuantity": {
+                    "historical": "2.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionText": {
+                    "historical": "ab 2 Becher",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionType": {
+                    "historical": "FROM",
+                    "scraped": "nan"
+                }
+            },
+            "00-728225": {
+                "price_regular_promotionQuantity": {
+                    "historical": "2.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionText": {
+                    "historical": "ab 2 Becher",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionType": {
+                    "historical": "FROM",
+                    "scraped": "nan"
+                }
+            },
+            "00-728228": {
+                "price_regular_promotionQuantity": {
+                    "historical": "2.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionText": {
+                    "historical": "ab 2 Becher",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionType": {
+                    "historical": "FROM",
+                    "scraped": "nan"
+                }
+            },
+            "00-728233": {
+                "price_regular_promotionQuantity": {
+                    "historical": "2.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionText": {
+                    "historical": "ab 2 Becher",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionType": {
+                    "historical": "FROM",
+                    "scraped": "nan"
+                }
+            },
+            "00-728253": {
+                "price_regular_promotionQuantity": {
+                    "historical": "2.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionText": {
+                    "historical": "ab 2 Becher",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionType": {
+                    "historical": "FROM",
+                    "scraped": "nan"
+                }
+            },
+            "00-728969": {
+                "price_crossed": {
+                    "historical": "22.9",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-17.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "22.9",
+                    "scraped": "nan"
+                }
+            },
+            "00-730501": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-731790": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-731938": {
+                "price_crossed": {
+                    "historical": "4.76",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-15.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "4.76",
+                    "scraped": "nan"
+                }
+            },
+            "00-732433": {
+                "price_crossed": {
+                    "historical": "2.79",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-7.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "2.79",
+                    "scraped": "nan"
+                }
+            },
+            "00-734424": {
+                "price_regular_promotionQuantity": {
+                    "historical": "2.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionText": {
+                    "historical": "ab 2 Becher",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionType": {
+                    "historical": "FROM",
+                    "scraped": "nan"
+                }
+            },
+            "00-737917": {
+                "price_regular_promotionQuantity": {
+                    "historical": "2.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionText": {
+                    "historical": "ab 2 Beutel",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionType": {
+                    "historical": "FROM",
+                    "scraped": "nan"
+                },
+                "price_crossed": {
+                    "historical": "3.19",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-12.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "3.19",
+                    "scraped": "nan"
+                }
+            },
+            "00-738754": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-739101": {
+                "price_crossed": {
+                    "historical": "0.77",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-10.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "0.77",
+                    "scraped": "nan"
+                }
+            },
+            "00-745529": {
+                "price_crossed": {
+                    "historical": "2.99",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-6.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "2.99",
+                    "scraped": "nan"
+                }
+            },
+            "00-747930": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Kartons",
+                    "scraped": "Bei 3 Kartons je"
+                }
+            },
+            "00-747931": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Kartons",
+                    "scraped": "Bei 3 Kartons je"
+                }
+            },
+            "00-747932": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Kartons",
+                    "scraped": "Bei 3 Kartons je"
+                }
+            },
+            "00-747933": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Kartons",
+                    "scraped": "Bei 3 Kartons je"
+                }
+            },
+            "00-747934": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Kartons",
+                    "scraped": "Bei 3 Kartons je"
+                }
+            },
+            "00-749840": {
+                "price_regular_value": {
+                    "historical": "1.49",
+                    "scraped": "1.12"
+                },
+                "inPromotion": {
+                    "historical": "0.0",
+                    "scraped": "True"
+                },
+                "price_crossed": {
+                    "historical": "nan",
+                    "scraped": "1.49"
+                },
+                "price_discountPercentage": {
+                    "historical": "nan",
+                    "scraped": "-24.0"
+                },
+                "price_regular_perStandardizedQuantity": {
+                    "historical": "0.08",
+                    "scraped": "0.06"
+                },
+                "price_regular_tags": {
+                    "historical": "[]",
+                    "scraped": "['pt-abverkauf']"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "nan",
+                    "scraped": "1.49"
+                }
+            },
+            "00-754130": {
+                "price_regular_promotionQuantity": {
+                    "historical": "2.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionText": {
+                    "historical": "ab 2 Stk",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionType": {
+                    "historical": "FROM",
+                    "scraped": "nan"
+                }
+            },
+            "00-754621": {
+                "price_regular_promotionQuantity": {
+                    "historical": "2.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionText": {
+                    "historical": "ab 2 Packungen",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionType": {
+                    "historical": "FROM",
+                    "scraped": "nan"
+                }
+            },
+            "00-754639": {
+                "price_regular_promotionQuantity": {
+                    "historical": "2.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionText": {
+                    "historical": "ab 2 Packungen",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionType": {
+                    "historical": "FROM",
+                    "scraped": "nan"
+                }
+            },
+            "00-754649": {
+                "price_regular_promotionQuantity": {
+                    "historical": "2.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionText": {
+                    "historical": "ab 2 Packungen",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionType": {
+                    "historical": "FROM",
+                    "scraped": "nan"
+                }
+            },
+            "00-756840": {
+                "price_regular_promotionQuantity": {
+                    "historical": "2.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionText": {
+                    "historical": "ab 2 Packungen",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionType": {
+                    "historical": "FROM",
+                    "scraped": "nan"
+                },
+                "price_crossed": {
+                    "historical": "3.99",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-20.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "3.99",
+                    "scraped": "nan"
+                }
+            },
+            "00-757298": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Flaschen",
+                    "scraped": "Bei 3 Flaschen je"
+                }
+            },
+            "00-762665": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Beutel",
+                    "scraped": "Bei 3 Beutel je"
+                }
+            },
+            "00-762666": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Beutel",
+                    "scraped": "Bei 3 Beutel je"
+                }
+            },
+            "00-762667": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Beutel",
+                    "scraped": "Bei 3 Beutel je"
+                }
+            },
+            "00-762694": {
+                "price_regular_promotionQuantity": {
+                    "historical": "2.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionText": {
+                    "historical": "je 2 Packungen",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionType": {
+                    "historical": "PER_SET_OF",
+                    "scraped": "nan"
+                },
+                "price_crossed": {
+                    "historical": "2.99",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-49.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "2.99",
+                    "scraped": "nan"
+                }
+            },
+            "00-762698": {
+                "price_regular_promotionQuantity": {
+                    "historical": "2.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionText": {
+                    "historical": "je 2 Packungen",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionType": {
+                    "historical": "PER_SET_OF",
+                    "scraped": "nan"
+                },
+                "price_crossed": {
+                    "historical": "2.99",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-49.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "2.99",
+                    "scraped": "nan"
+                }
+            },
+            "00-762756": {
+                "price_regular_promotionText": {
+                    "historical": "je 6 Flaschen",
+                    "scraped": "Bei 6 Flaschen je"
+                }
+            },
+            "00-762913": {
+                "price_regular_promotionText": {
+                    "historical": "je 6 Flaschen",
+                    "scraped": "Bei 6 Flaschen je"
+                }
+            },
+            "00-765071": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-767124": {
+                "price_regular_promotionQuantity": {
+                    "historical": "2.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionText": {
+                    "historical": "ab 2 Dosen",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionType": {
+                    "historical": "FROM",
+                    "scraped": "nan"
+                },
+                "price_crossed": {
+                    "historical": "1.35",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-19.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "1.35",
+                    "scraped": "nan"
+                }
+            },
+            "00-767141": {
+                "price_crossed": {
+                    "historical": "1.98",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-19.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "1.98",
+                    "scraped": "nan"
+                }
+            },
+            "00-767149": {
+                "price_crossed": {
+                    "historical": "1.98",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-19.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "1.98",
+                    "scraped": "nan"
+                }
+            },
+            "00-767153": {
+                "price_crossed": {
+                    "historical": "1.98",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-19.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "1.98",
+                    "scraped": "nan"
+                }
+            },
+            "00-767903": {
+                "price_crossed": {
+                    "historical": "2.99",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-6.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "2.99",
+                    "scraped": "nan"
+                }
+            },
+            "00-768950": {
+                "price_regular_promotionQuantity": {
+                    "historical": "6.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionText": {
+                    "historical": "je 6 Flaschen",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionType": {
+                    "historical": "PER_SET_OF",
+                    "scraped": "nan"
+                },
+                "price_crossed": {
+                    "historical": "0.49",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-34.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "0.49",
+                    "scraped": "nan"
+                }
+            },
+            "00-769927": {
+                "price_regular_promotionQuantity": {
+                    "historical": "6.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionText": {
+                    "historical": "ab 6 Dosen",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionType": {
+                    "historical": "FROM",
+                    "scraped": "nan"
+                },
+                "price_crossed": {
+                    "historical": "1.39",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-28.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "1.39",
+                    "scraped": "nan"
+                }
+            },
+            "00-770238": {
+                "price_regular_promotionQuantity": {
+                    "historical": "2.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionText": {
+                    "historical": "ab 2 Dosen",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionType": {
+                    "historical": "FROM",
+                    "scraped": "nan"
+                },
+                "price_crossed": {
+                    "historical": "1.35",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-19.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "1.35",
+                    "scraped": "nan"
+                }
+            },
+            "00-770290": {
+                "price_regular_promotionQuantity": {
+                    "historical": "6.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionText": {
+                    "historical": "ab 6 Dosen",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionType": {
+                    "historical": "FROM",
+                    "scraped": "nan"
+                },
+                "price_crossed": {
+                    "historical": "1.39",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-28.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "1.39",
+                    "scraped": "nan"
+                }
+            },
+            "00-772450": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Beutel",
+                    "scraped": "Bei 3 Beutel je"
+                }
+            },
+            "00-773394": {
+                "price_crossed": {
+                    "historical": "2.79",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-7.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "2.79",
+                    "scraped": "nan"
+                }
+            },
+            "00-773471": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Beutel",
+                    "scraped": "Bei 3 Beutel je"
+                }
+            },
+            "00-774428": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Beutel",
+                    "scraped": "Bei 3 Beutel je"
+                }
+            },
+            "00-774589": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-774591": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-774595": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-774952": {
+                "price_regular_promotionQuantity": {
+                    "historical": "2.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionText": {
+                    "historical": "ab 2 Dosen",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionType": {
+                    "historical": "FROM",
+                    "scraped": "nan"
+                },
+                "price_crossed": {
+                    "historical": "1.35",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-19.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "1.35",
+                    "scraped": "nan"
+                }
+            },
+            "00-776081": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Flaschen",
+                    "scraped": "Bei 3 Flaschen je"
+                }
+            },
+            "00-777936": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Dosen",
+                    "scraped": "Bei 3 Dosen je"
+                }
+            },
+            "00-778726": {
+                "price_regular_promotionQuantity": {
+                    "historical": "6.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionText": {
+                    "historical": "je 6 Flaschen",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionType": {
+                    "historical": "PER_SET_OF",
+                    "scraped": "nan"
+                },
+                "price_crossed": {
+                    "historical": "0.49",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-34.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "0.49",
+                    "scraped": "nan"
+                }
+            },
+            "00-779215": {
+                "price_regular_promotionQuantity": {
+                    "historical": "2.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionText": {
+                    "historical": "ab 2 Beutel",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionType": {
+                    "historical": "FROM",
+                    "scraped": "nan"
+                },
+                "price_crossed": {
+                    "historical": "3.19",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-12.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "3.19",
+                    "scraped": "nan"
+                }
+            },
+            "00-779261": {
+                "price_regular_promotionQuantity": {
+                    "historical": "2.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionText": {
+                    "historical": "ab 2 Beutel",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionType": {
+                    "historical": "FROM",
+                    "scraped": "nan"
+                }
+            },
+            "00-781927": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Beutel",
+                    "scraped": "Bei 3 Beutel je"
+                }
+            },
+            "00-788311": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-791": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-791008": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-791010": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-791012": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-794200": {
+                "price_regular_value": {
+                    "historical": "3.49",
+                    "scraped": "3.99"
+                },
+                "inPromotion": {
+                    "historical": "1.0",
+                    "scraped": "False"
+                },
+                "price_crossed": {
+                    "historical": "3.99",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-12.0",
+                    "scraped": "nan"
+                },
+                "price_regular_perStandardizedQuantity": {
+                    "historical": "0.35",
+                    "scraped": "0.4"
+                },
+                "price_regular_tags": {
+                    "historical": "['pt-aktion']",
+                    "scraped": "[]"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "3.99",
+                    "scraped": "nan"
+                }
+            },
+            "00-797611": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-818028": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Dosen",
+                    "scraped": "Bei 3 Dosen je"
+                }
+            },
+            "00-82529": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-825921": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-82931": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-830021": {
+                "price_crossed": {
+                    "historical": "1.49",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-33.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "1.49",
+                    "scraped": "nan"
+                }
+            },
+            "00-83956": {
+                "price_regular_promotionQuantity": {
+                    "historical": "3.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionText": {
+                    "historical": "je 3 Pakete",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionType": {
+                    "historical": "PER_SET_OF",
+                    "scraped": "nan"
+                }
+            },
+            "00-845133": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-856051": {
+                "price_regular_promotionText": {
+                    "historical": "je 2 Flaschen",
+                    "scraped": "Bei 2 Flaschen je"
+                }
+            },
+            "00-858304": {
+                "price_regular_promotionText": {
+                    "historical": "je 2 Flaschen",
+                    "scraped": "Bei 2 Flaschen je"
+                }
+            },
+            "00-858306": {
+                "price_regular_promotionText": {
+                    "historical": "je 2 Flaschen",
+                    "scraped": "Bei 2 Flaschen je"
+                }
+            },
+            "00-859240": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-862306": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-862454": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-864266": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-867105": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-867874": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Dosen",
+                    "scraped": "Bei 3 Dosen je"
+                }
+            },
+            "00-869289": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-869290": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-871104": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-871483": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-871595": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-871596": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-882279": {
+                "price_regular_promotionQuantity": {
+                    "historical": "2.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionText": {
+                    "historical": "ab 2 Packungen",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionType": {
+                    "historical": "FROM",
+                    "scraped": "nan"
+                },
+                "price_crossed": {
+                    "historical": "1.99",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-25.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "1.99",
+                    "scraped": "nan"
+                }
+            },
+            "00-885548": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Stk",
+                    "scraped": "Bei 3 Stk je"
+                }
+            },
+            "00-886976": {
+                "price_regular_value": {
+                    "historical": "1.49",
+                    "scraped": "1.79"
+                },
+                "inPromotion": {
+                    "historical": "1.0",
+                    "scraped": "False"
+                },
+                "price_crossed": {
+                    "historical": "1.79",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-16.0",
+                    "scraped": "nan"
+                },
+                "price_regular_perStandardizedQuantity": {
+                    "historical": "1.2",
+                    "scraped": "1.44"
+                },
+                "price_regular_tags": {
+                    "historical": "['pt-aktion']",
+                    "scraped": "[]"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "1.79",
+                    "scraped": "nan"
+                }
+            },
+            "00-886977": {
+                "price_regular_value": {
+                    "historical": "1.49",
+                    "scraped": "1.79"
+                },
+                "inPromotion": {
+                    "historical": "1.0",
+                    "scraped": "False"
+                },
+                "price_crossed": {
+                    "historical": "1.79",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-16.0",
+                    "scraped": "nan"
+                },
+                "price_regular_perStandardizedQuantity": {
+                    "historical": "1.2",
+                    "scraped": "1.44"
+                },
+                "price_regular_tags": {
+                    "historical": "['pt-aktion']",
+                    "scraped": "[]"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "1.79",
+                    "scraped": "nan"
+                }
+            },
+            "00-887050": {
+                "price_regular_value": {
+                    "historical": "1.49",
+                    "scraped": "1.79"
+                },
+                "inPromotion": {
+                    "historical": "1.0",
+                    "scraped": "False"
+                },
+                "price_crossed": {
+                    "historical": "1.79",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-16.0",
+                    "scraped": "nan"
+                },
+                "price_regular_perStandardizedQuantity": {
+                    "historical": "1.2",
+                    "scraped": "1.44"
+                },
+                "price_regular_tags": {
+                    "historical": "['pt-aktion']",
+                    "scraped": "[]"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "1.79",
+                    "scraped": "nan"
+                }
+            },
+            "00-89480": {
+                "price_crossed": {
+                    "historical": "2.99",
+                    "scraped": "nan"
+                },
+                "price_discountPercentage": {
+                    "historical": "-6.0",
+                    "scraped": "nan"
+                },
+                "price_regular_promotionValue": {
+                    "historical": "2.99",
+                    "scraped": "nan"
+                }
+            },
+            "00-899608": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Stk",
+                    "scraped": "Bei 3 Stk je"
+                }
+            },
+            "00-901210": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-902594": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-902595": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-902979": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-905077": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-905515": {
+                "price_regular_promotionText": {
+                    "historical": "je 5 Dosen",
+                    "scraped": "Bei 5 Dosen je"
+                }
+            },
+            "00-906363": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-906851": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Beutel",
+                    "scraped": "Bei 3 Beutel je"
+                }
+            },
+            "00-913387": {
+                "price_regular_promotionText": {
+                    "historical": "je 5 Dosen",
+                    "scraped": "Bei 5 Dosen je"
+                }
+            },
+            "00-916835": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Packungen",
+                    "scraped": "Bei 3 Packungen je"
+                }
+            },
+            "00-924115": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Stk",
+                    "scraped": "Bei 3 Stk je"
+                }
+            },
+            "00-956890": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Flaschen",
+                    "scraped": "Bei 3 Flaschen je"
+                }
+            },
+            "00-963120": {
+                "price_regular_promotionText": {
+                    "historical": "je 3 Beutel",
+                    "scraped": "Bei 3 Beutel je"
+                }
+            },
+            "00-965583": {
+                "price_regular_promotionText": {
+                    "historical": "je 5 Dosen",
+                    "scraped": "Bei 5 Dosen je"
+                }
+            }
+        }
     }
 ]
