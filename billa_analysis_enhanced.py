@@ -457,15 +457,15 @@ html_content = f"""<!DOCTYPE html>
 <body>
     <div class="container">
         <header>
-            <h1>📊 Billa Price Tracker</h1>
+            <h1>Die Teuerung trifft – BILLA hilft</h1>
             <div class="subtitle">Top 10 Products with Biggest Price Increases</div>
             <div class="update-time">Last updated: {datetime.now().strftime('%B %d, %Y at %H:%M')}</div>
         </header>
         
         <div class="tabs">
-            <button class="tab active" onclick="switchView('1yr')">1 Year Comparison</button>
-            <button class="tab" onclick="switchView('2yr')">2 Year Comparison</button>
-            <button class="tab" onclick="switchView('3yr')">3 Year Comparison</button>
+            <button class="tab active" onclick="switchView('1yr')">Top 10 over 1 Year</button>
+            <button class="tab" onclick="switchView('2yr')">Top 10 over 2 Years</button>
+            <button class="tab" onclick="switchView('3yr')">Top 10 over 3 Years</button>
         </div>
         
         <div id="view-1yr" class="view active">
