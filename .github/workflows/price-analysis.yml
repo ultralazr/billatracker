@@ -35,7 +35,7 @@ jobs:
     
     - name: Run price analysis
       run: |
-        python billa_analysis_for_claude.py
+        python billa_analysis_enhanced.py
     
     - name: Commit and push results
       run: |
