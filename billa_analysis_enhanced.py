@@ -371,26 +371,43 @@ html_content = f"""<!DOCTYPE html>
         }}
         
         .stat {{
-            text-align: center;
-            padding: 10px;
+            padding: 15px;
             background: #f8f9fa;
             border-radius: 8px;
         }}
         
         .stat-label {{
-            font-size: 0.75em;
+            font-size: 0.8em;
             color: #888;
-            margin-bottom: 5px;
             font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-bottom: 8px;
         }}
         
         .stat-value {{
-            font-size: 1.1em;
+            font-size: 1.2em;
             font-weight: bold;
+        }}
+        
+        .stat-row {{
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+        }}
+        
+        .stat-change {{
+            font-size: 0.9em;
+            font-weight: 600;
+            margin-left: 10px;
         }}
         
         .price-increase {{
             color: #e74c3c;
+        }}
+        
+        .price-decrease {{
+            color: #27ae60;
         }}
         
         .price-current {{
@@ -503,10 +520,11 @@ html_content = f"""<!DOCTYPE html>
                 canvas.id = `chart-${{period}}-${{sku}}`;
                 card.appendChild(canvas);
                 
-                // Create stats
+                // Create stats with compact layout
                 const stats = document.createElement('div');
                 stats.className = 'price-stats';
                 
+                // Current Price (always shown)
                 let statsHTML = `
                     <div class="stat">
                         <div class="stat-label">Current Price</div>
@@ -514,41 +532,47 @@ html_content = f"""<!DOCTYPE html>
                     </div>
                 `;
                 
-                if (product.price_1yr !== null) {{
+                // 1 Year Ago (price + change in same tile)
+                if (product.price_1yr !== null && product.change_1yr !== null) {{
+                    const changeClass = product.change_1yr >= 0 ? 'price-increase' : 'price-decrease';
+                    const changeText = product.change_1yr >= 0 ? `+${{product.change_1yr.toFixed(2)}}%` : `${{product.change_1yr.toFixed(2)}}%`;
                     statsHTML += `
                         <div class="stat">
-                            <div class="stat-label">Price 1 Year Ago</div>
-                            <div class="stat-value price-old">€${{product.price_1yr.toFixed(2)}}</div>
-                        </div>
-                        <div class="stat">
-                            <div class="stat-label">1 Year Change</div>
-                            <div class="stat-value price-increase">+${{product.change_1yr.toFixed(2)}}%</div>
+                            <div class="stat-label">1 Year Ago</div>
+                            <div class="stat-row">
+                                <span class="stat-value price-old">€${{product.price_1yr.toFixed(2)}}</span>
+                                <span class="stat-change ${{changeClass}}">${{changeText}}</span>
+                            </div>
                         </div>
                     `;
                 }}
                 
-                if (product.price_2yr !== null) {{
+                // 2 Years Ago (price + change in same tile)
+                if (product.price_2yr !== null && product.change_2yr !== null) {{
+                    const changeClass = product.change_2yr >= 0 ? 'price-increase' : 'price-decrease';
+                    const changeText = product.change_2yr >= 0 ? `+${{product.change_2yr.toFixed(2)}}%` : `${{product.change_2yr.toFixed(2)}}%`;
                     statsHTML += `
                         <div class="stat">
-                            <div class="stat-label">Price 2 Years Ago</div>
-                            <div class="stat-value price-old">€${{product.price_2yr.toFixed(2)}}</div>
-                        </div>
-                        <div class="stat">
-                            <div class="stat-label">2 Year Change</div>
-                            <div class="stat-value price-increase">+${{product.change_2yr.toFixed(2)}}%</div>
+                            <div class="stat-label">2 Years Ago</div>
+                            <div class="stat-row">
+                                <span class="stat-value price-old">€${{product.price_2yr.toFixed(2)}}</span>
+                                <span class="stat-change ${{changeClass}}">${{changeText}}</span>
+                            </div>
                         </div>
                     `;
                 }}
                 
-                if (product.price_3yr !== null) {{
+                // 3 Years Ago (price + change in same tile)
+                if (product.price_3yr !== null && product.change_3yr !== null) {{
+                    const changeClass = product.change_3yr >= 0 ? 'price-increase' : 'price-decrease';
+                    const changeText = product.change_3yr >= 0 ? `+${{product.change_3yr.toFixed(2)}}%` : `${{product.change_3yr.toFixed(2)}}%`;
                     statsHTML += `
                         <div class="stat">
-                            <div class="stat-label">Price 3 Years Ago</div>
-                            <div class="stat-value price-old">€${{product.price_3yr.toFixed(2)}}</div>
-                        </div>
-                        <div class="stat">
-                            <div class="stat-label">3 Year Change</div>
-                            <div class="stat-value price-increase">+${{product.change_3yr.toFixed(2)}}%</div>
+                            <div class="stat-label">3 Years Ago</div>
+                            <div class="stat-row">
+                                <span class="stat-value price-old">€${{product.price_3yr.toFixed(2)}}</span>
+                                <span class="stat-change ${{changeClass}}">${{changeText}}</span>
+                            </div>
                         </div>
                     `;
                 }}
@@ -558,7 +582,7 @@ html_content = f"""<!DOCTYPE html>
                 
                 grid.appendChild(card);
                 
-                // Create chart
+                // Create chart with step plot
                 const ctx = canvas.getContext('2d');
                 charts[`${{period}}-${{sku}}`] = new Chart(ctx, {{
                     type: 'line',
