@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Enhanced Billa Analysis for GitHub Actions"""
+"""Enhanced Billa Analysis for GitHub Actions - Fixed Version"""
 
 import pandas as pd
 from datetime import datetime, timedelta
@@ -127,11 +127,15 @@ price_analysis = price_analysis.merge(closest_data_3yr, left_on='SKU', right_on=
 price_analysis['price_change_3yr (%)'] = ((price_analysis['price_today'] - price_analysis['price_3yr_ago']) / price_analysis['price_3yr_ago']) * 100
 price_analysis['price_change_3yr (%)'] = price_analysis['price_change_3yr (%)'].round(2)
 
-# Get top 10 for each time period
-print("\n8. Identifying top 10 products for each time period...")
-top_10_1yr = price_analysis.nlargest(10, 'price_change_1yr (%)')
-top_10_2yr = price_analysis.nlargest(10, 'price_change_2yr (%)')
-top_10_3yr = price_analysis.nlargest(10, 'price_change_3yr (%)')
+# Filter out products with zero or null historical prices before selecting top 10
+print("\n8. Identifying top 10 products for each time period (excluding zero prices)...")
+valid_1yr = price_analysis[(price_analysis['price_1yr'] > 0) & (price_analysis['price_1yr'].notna())]
+valid_2yr = price_analysis[(price_analysis['price_2yr_ago'] > 0) & (price_analysis['price_2yr_ago'].notna())]
+valid_3yr = price_analysis[(price_analysis['price_3yr_ago'] > 0) & (price_analysis['price_3yr_ago'].notna())]
+
+top_10_1yr = valid_1yr.nlargest(10, 'price_change_1yr (%)')
+top_10_2yr = valid_2yr.nlargest(10, 'price_change_2yr (%)')
+top_10_3yr = valid_3yr.nlargest(10, 'price_change_3yr (%)')
 
 print("\nTop 10 products with biggest 1-year price increases:")
 print(top_10_1yr[['SKU', 'price_1yr', 'price_today', 'price_change_1yr (%)']].to_string())
@@ -566,7 +570,7 @@ html_content = f"""<!DOCTYPE html>
                             borderColor: index % 2 === 0 ? '#667eea' : '#e74c3c',
                             backgroundColor: index % 2 === 0 ? 'rgba(102, 126, 234, 0.1)' : 'rgba(231, 76, 60, 0.1)',
                             borderWidth: 3,
-                            tension: 0.4,
+                            stepped: true,
                             fill: true,
                             pointRadius: 2,
                             pointHoverRadius: 6,
@@ -644,7 +648,9 @@ print("✅ Top 10 lists saved to CSV files")
 print("\n✅ Analysis complete!")
 print(f"Analyzed {len(price_analysis)} products")
 print(f"Generated report for top 10 products across 1, 2, and 3 year periods")
-print(f"Report date: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}") #HTML file
+print(f"Report date: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+
+# Save HTML file
 with open('price_analysis_report.html', 'w', encoding='utf-8') as f:
     f.write(html_content)
 
@@ -653,5 +659,3 @@ print("✅ HTML report saved as 'price_analysis_report.html'")
 # Save price_analysis to CSV
 price_analysis.to_csv('price_analysis.csv', index=False)
 print("✅ Price analysis saved as 'price_analysis.csv'")
-
-# Save
