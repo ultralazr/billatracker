@@ -644,7 +644,7 @@ print("✅ Top 10 lists saved to CSV files")
 print("\n✅ Analysis complete!")
 print(f"Analyzed {len(price_analysis)} products")
 print(f"Generated report for top 10 products across 1, 2, and 3 year periods")
-print(f"Report date: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}") HTML file
+print(f"Report date: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}") #HTML file
 with open('price_analysis_report.html', 'w', encoding='utf-8') as f:
     f.write(html_content)
 
