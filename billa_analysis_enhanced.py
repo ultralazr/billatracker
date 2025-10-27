@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Enhanced Billa Analysis for GitHub Actions - Fixed Version"""
+"""Enhanced Billa Analysis for GitHub Actions - Fixed Version with 3-year plot window"""
 
 import pandas as pd
 from datetime import datetime, timedelta
@@ -158,9 +158,13 @@ top_products_with_names = price_analysis[price_analysis['SKU'].isin(all_top_skus
     how='left'
 ).drop('sku', axis=1)
 
-# Get complete price history for all top products
-print("\n10. Extracting complete price history...")
-price_history_all = comparison_reference[comparison_reference['sku'].isin(all_top_skus)].copy()
+# Get complete price history for all top products - LIMITED TO LAST 3 YEARS
+print("\n10. Extracting price history (last 3 years only)...")
+three_years_ago_cutoff = datetime.now().date() - timedelta(days=3 * 365.25)
+price_history_all = comparison_reference[
+    (comparison_reference['sku'].isin(all_top_skus)) & 
+    (comparison_reference['date'].dt.date >= three_years_ago_cutoff)
+].copy()
 price_history_all = price_history_all.sort_values(['sku', 'date'])
 
 # Add product names to price history
@@ -170,7 +174,7 @@ price_history_all = price_history_all.merge(
     how='left'
 )
 
-print(f"Extracted {len(price_history_all)} price history records")
+print(f"Extracted {len(price_history_all)} price history records (last 3 years)")
 
 # Prepare data structure for visualization
 print("\n11. Preparing data for visualization...")
@@ -458,7 +462,7 @@ html_content = f"""<!DOCTYPE html>
     <div class="container">
         <header>
             <h1>Die Teuerung trifft – BILLA hilft</h1>
-            <div class="subtitle">Top 10 Products with Biggest Price Increases</div>
+            <div class="subtitle">Top 10 Products with Biggest Price Increases (Last 3 Years)</div>
             <div class="update-time">Last updated: {datetime.now().strftime('%B %d, %Y at %H:%M')}</div>
         </header>
         
@@ -672,6 +676,7 @@ print("✅ Top 10 lists saved to CSV files")
 print("\n✅ Analysis complete!")
 print(f"Analyzed {len(price_analysis)} products")
 print(f"Generated report for top 10 products across 1, 2, and 3 year periods")
+print(f"Charts showing price history limited to last 3 years")
 print(f"Report date: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
 
 # Save HTML file
