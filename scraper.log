@@ -4019,3 +4019,2013 @@
 2025-10-26 03:53:53,509 - INFO - Completed: 12279 / To go: 0
 2025-10-26 03:53:53,509 - INFO - Records in product_list: 12279
 2025-10-26 03:53:56,779 - INFO - Loading combined dataframe from local file: updated_combined_dataframe.csv
+2025-10-27 04:01:46,028 - INFO - ============================================================
+2025-10-27 04:01:46,029 - INFO - Billa Price Scraper - Starting
+2025-10-27 04:01:46,029 - INFO - ============================================================
+2025-10-27 04:01:47,570 - INFO - Completed: 100 / To go: 12179
+2025-10-27 04:01:47,570 - INFO - Records in product_list: 100
+2025-10-27 04:01:50,822 - INFO - Completed: 200 / To go: 12079
+2025-10-27 04:01:50,822 - INFO - Records in product_list: 200
+2025-10-27 04:01:54,116 - INFO - Completed: 300 / To go: 11979
+2025-10-27 04:01:54,116 - INFO - Records in product_list: 300
+2025-10-27 04:01:57,245 - INFO - Completed: 400 / To go: 11879
+2025-10-27 04:01:57,245 - INFO - Records in product_list: 400
+2025-10-27 04:02:00,326 - INFO - Completed: 500 / To go: 11779
+2025-10-27 04:02:00,326 - INFO - Records in product_list: 500
+2025-10-27 04:02:03,516 - INFO - Completed: 600 / To go: 11679
+2025-10-27 04:02:03,516 - INFO - Records in product_list: 600
+2025-10-27 04:02:06,606 - INFO - Completed: 700 / To go: 11579
+2025-10-27 04:02:06,606 - INFO - Records in product_list: 700
+2025-10-27 04:02:09,824 - INFO - Completed: 800 / To go: 11479
+2025-10-27 04:02:09,824 - INFO - Records in product_list: 800
+2025-10-27 04:02:12,885 - INFO - Completed: 900 / To go: 11379
+2025-10-27 04:02:12,885 - INFO - Records in product_list: 900
+2025-10-27 04:02:16,194 - INFO - Completed: 1000 / To go: 11279
+2025-10-27 04:02:16,194 - INFO - Records in product_list: 1000
+2025-10-27 04:02:19,190 - INFO - Completed: 1100 / To go: 11179
+2025-10-27 04:02:19,191 - INFO - Records in product_list: 1100
+2025-10-27 04:02:22,419 - INFO - Completed: 1200 / To go: 11079
+2025-10-27 04:02:22,419 - INFO - Records in product_list: 1200
+2025-10-27 04:02:25,338 - INFO - Completed: 1300 / To go: 10979
+2025-10-27 04:02:25,338 - INFO - Records in product_list: 1300
+2025-10-27 04:02:28,301 - INFO - Completed: 1400 / To go: 10879
+2025-10-27 04:02:28,301 - INFO - Records in product_list: 1400
+2025-10-27 04:02:31,443 - INFO - Completed: 1500 / To go: 10779
+2025-10-27 04:02:31,443 - INFO - Records in product_list: 1500
+2025-10-27 04:02:34,555 - INFO - Completed: 1600 / To go: 10679
+2025-10-27 04:02:34,556 - INFO - Records in product_list: 1600
+2025-10-27 04:02:37,469 - INFO - Completed: 1700 / To go: 10579
+2025-10-27 04:02:37,469 - INFO - Records in product_list: 1700
+2025-10-27 04:02:40,454 - INFO - Completed: 1800 / To go: 10479
+2025-10-27 04:02:40,455 - INFO - Records in product_list: 1800
+2025-10-27 04:02:43,576 - INFO - Completed: 1900 / To go: 10379
+2025-10-27 04:02:43,577 - INFO - Records in product_list: 1900
+2025-10-27 04:02:46,803 - INFO - Completed: 2000 / To go: 10279
+2025-10-27 04:02:46,803 - INFO - Records in product_list: 2000
+2025-10-27 04:02:49,766 - INFO - Completed: 2100 / To go: 10179
+2025-10-27 04:02:49,766 - INFO - Records in product_list: 2100
+2025-10-27 04:02:52,829 - INFO - Completed: 2200 / To go: 10079
+2025-10-27 04:02:52,829 - INFO - Records in product_list: 2200
+2025-10-27 04:02:56,003 - INFO - Completed: 2300 / To go: 9979
+2025-10-27 04:02:56,003 - INFO - Records in product_list: 2300
+2025-10-27 04:02:59,060 - INFO - Completed: 2400 / To go: 9879
+2025-10-27 04:02:59,060 - INFO - Records in product_list: 2400
+2025-10-27 04:03:02,103 - INFO - Completed: 2500 / To go: 9779
+2025-10-27 04:03:02,103 - INFO - Records in product_list: 2500
+2025-10-27 04:03:05,226 - INFO - Completed: 2600 / To go: 9679
+2025-10-27 04:03:05,226 - INFO - Records in product_list: 2600
+2025-10-27 04:03:08,109 - INFO - Completed: 2700 / To go: 9579
+2025-10-27 04:03:08,109 - INFO - Records in product_list: 2700
+2025-10-27 04:03:11,068 - INFO - Completed: 2800 / To go: 9479
+2025-10-27 04:03:11,068 - INFO - Records in product_list: 2800
+2025-10-27 04:03:14,275 - INFO - Completed: 2900 / To go: 9379
+2025-10-27 04:03:14,275 - INFO - Records in product_list: 2900
+2025-10-27 04:03:17,321 - INFO - Completed: 3000 / To go: 9279
+2025-10-27 04:03:17,321 - INFO - Records in product_list: 3000
+2025-10-27 04:03:20,202 - INFO - Completed: 3100 / To go: 9179
+2025-10-27 04:03:20,202 - INFO - Records in product_list: 3100
+2025-10-27 04:03:23,204 - INFO - Completed: 3200 / To go: 9079
+2025-10-27 04:03:23,204 - INFO - Records in product_list: 3200
+2025-10-27 04:03:26,040 - INFO - Completed: 3300 / To go: 8979
+2025-10-27 04:03:26,040 - INFO - Records in product_list: 3300
+2025-10-27 04:03:29,038 - INFO - Completed: 3400 / To go: 8879
+2025-10-27 04:03:29,038 - INFO - Records in product_list: 3400
+2025-10-27 04:03:32,000 - INFO - Completed: 3500 / To go: 8779
+2025-10-27 04:03:32,000 - INFO - Records in product_list: 3500
+2025-10-27 04:03:35,032 - INFO - Completed: 3600 / To go: 8679
+2025-10-27 04:03:35,032 - INFO - Records in product_list: 3600
+2025-10-27 04:03:37,876 - INFO - Completed: 3700 / To go: 8579
+2025-10-27 04:03:37,876 - INFO - Records in product_list: 3700
+2025-10-27 04:03:40,834 - INFO - Completed: 3800 / To go: 8479
+2025-10-27 04:03:40,834 - INFO - Records in product_list: 3800
+2025-10-27 04:03:43,703 - INFO - Completed: 3900 / To go: 8379
+2025-10-27 04:03:43,703 - INFO - Records in product_list: 3900
+2025-10-27 04:03:46,815 - INFO - Completed: 4000 / To go: 8279
+2025-10-27 04:03:46,815 - INFO - Records in product_list: 4000
+2025-10-27 04:03:49,745 - INFO - Completed: 4100 / To go: 8179
+2025-10-27 04:03:49,745 - INFO - Records in product_list: 4100
+2025-10-27 04:03:52,559 - INFO - Completed: 4200 / To go: 8079
+2025-10-27 04:03:52,559 - INFO - Records in product_list: 4200
+2025-10-27 04:03:55,463 - INFO - Completed: 4300 / To go: 7979
+2025-10-27 04:03:55,463 - INFO - Records in product_list: 4300
+2025-10-27 04:03:58,306 - INFO - Completed: 4400 / To go: 7879
+2025-10-27 04:03:58,306 - INFO - Records in product_list: 4400
+2025-10-27 04:04:01,474 - INFO - Completed: 4500 / To go: 7779
+2025-10-27 04:04:01,474 - INFO - Records in product_list: 4500
+2025-10-27 04:04:04,395 - INFO - Completed: 4600 / To go: 7679
+2025-10-27 04:04:04,395 - INFO - Records in product_list: 4600
+2025-10-27 04:04:07,269 - INFO - Completed: 4700 / To go: 7579
+2025-10-27 04:04:07,269 - INFO - Records in product_list: 4700
+2025-10-27 04:04:10,003 - INFO - Completed: 4800 / To go: 7479
+2025-10-27 04:04:10,003 - INFO - Records in product_list: 4800
+2025-10-27 04:04:12,818 - INFO - Completed: 4900 / To go: 7379
+2025-10-27 04:04:12,819 - INFO - Records in product_list: 4900
+2025-10-27 04:04:15,830 - INFO - Completed: 5000 / To go: 7279
+2025-10-27 04:04:15,831 - INFO - Records in product_list: 5000
+2025-10-27 04:04:18,621 - INFO - Completed: 5100 / To go: 7179
+2025-10-27 04:04:18,621 - INFO - Records in product_list: 5100
+2025-10-27 04:04:21,592 - INFO - Completed: 5200 / To go: 7079
+2025-10-27 04:04:21,592 - INFO - Records in product_list: 5200
+2025-10-27 04:04:24,375 - INFO - Completed: 5300 / To go: 6979
+2025-10-27 04:04:24,375 - INFO - Records in product_list: 5300
+2025-10-27 04:04:27,530 - INFO - Completed: 5400 / To go: 6879
+2025-10-27 04:04:27,530 - INFO - Records in product_list: 5400
+2025-10-27 04:04:30,526 - INFO - Completed: 5500 / To go: 6779
+2025-10-27 04:04:30,526 - INFO - Records in product_list: 5500
+2025-10-27 04:04:33,524 - INFO - Completed: 5600 / To go: 6679
+2025-10-27 04:04:33,524 - INFO - Records in product_list: 5600
+2025-10-27 04:04:36,358 - INFO - Completed: 5700 / To go: 6579
+2025-10-27 04:04:36,358 - INFO - Records in product_list: 5700
+2025-10-27 04:04:39,230 - INFO - Completed: 5800 / To go: 6479
+2025-10-27 04:04:39,230 - INFO - Records in product_list: 5800
+2025-10-27 04:04:42,123 - INFO - Completed: 5900 / To go: 6379
+2025-10-27 04:04:42,124 - INFO - Records in product_list: 5900
+2025-10-27 04:04:44,962 - INFO - Completed: 6000 / To go: 6279
+2025-10-27 04:04:44,962 - INFO - Records in product_list: 6000
+2025-10-27 04:04:47,718 - INFO - Completed: 6100 / To go: 6179
+2025-10-27 04:04:47,718 - INFO - Records in product_list: 6100
+2025-10-27 04:04:50,522 - INFO - Completed: 6200 / To go: 6079
+2025-10-27 04:04:50,522 - INFO - Records in product_list: 6200
+2025-10-27 04:04:53,334 - INFO - Completed: 6300 / To go: 5979
+2025-10-27 04:04:53,334 - INFO - Records in product_list: 6300
+2025-10-27 04:04:56,321 - INFO - Completed: 6400 / To go: 5879
+2025-10-27 04:04:56,321 - INFO - Records in product_list: 6400
+2025-10-27 04:04:59,077 - INFO - Completed: 6500 / To go: 5779
+2025-10-27 04:04:59,077 - INFO - Records in product_list: 6500
+2025-10-27 04:05:02,261 - INFO - Completed: 6600 / To go: 5679
+2025-10-27 04:05:02,261 - INFO - Records in product_list: 6600
+2025-10-27 04:05:04,980 - INFO - Completed: 6700 / To go: 5579
+2025-10-27 04:05:04,980 - INFO - Records in product_list: 6700
+2025-10-27 04:05:07,784 - INFO - Completed: 6800 / To go: 5479
+2025-10-27 04:05:07,784 - INFO - Records in product_list: 6800
+2025-10-27 04:05:10,501 - INFO - Completed: 6900 / To go: 5379
+2025-10-27 04:05:10,501 - INFO - Records in product_list: 6900
+2025-10-27 04:05:13,488 - INFO - Completed: 7000 / To go: 5279
+2025-10-27 04:05:13,488 - INFO - Records in product_list: 7000
+2025-10-27 04:05:16,297 - INFO - Completed: 7100 / To go: 5179
+2025-10-27 04:05:16,297 - INFO - Records in product_list: 7100
+2025-10-27 04:05:19,007 - INFO - Completed: 7200 / To go: 5079
+2025-10-27 04:05:19,007 - INFO - Records in product_list: 7200
+2025-10-27 04:05:21,869 - INFO - Completed: 7300 / To go: 4979
+2025-10-27 04:05:21,870 - INFO - Records in product_list: 7300
+2025-10-27 04:05:24,556 - INFO - Completed: 7400 / To go: 4879
+2025-10-27 04:05:24,556 - INFO - Records in product_list: 7400
+2025-10-27 04:05:27,349 - INFO - Completed: 7500 / To go: 4779
+2025-10-27 04:05:27,349 - INFO - Records in product_list: 7500
+2025-10-27 04:05:30,051 - INFO - Completed: 7600 / To go: 4679
+2025-10-27 04:05:30,051 - INFO - Records in product_list: 7600
+2025-10-27 04:05:32,751 - INFO - Completed: 7700 / To go: 4579
+2025-10-27 04:05:32,751 - INFO - Records in product_list: 7700
+2025-10-27 04:05:35,559 - INFO - Completed: 7800 / To go: 4479
+2025-10-27 04:05:35,559 - INFO - Records in product_list: 7800
+2025-10-27 04:05:38,240 - INFO - Completed: 7900 / To go: 4379
+2025-10-27 04:05:38,241 - INFO - Records in product_list: 7900
+2025-10-27 04:05:40,940 - INFO - Completed: 8000 / To go: 4279
+2025-10-27 04:05:40,940 - INFO - Records in product_list: 8000
+2025-10-27 04:05:43,730 - INFO - Completed: 8100 / To go: 4179
+2025-10-27 04:05:43,730 - INFO - Records in product_list: 8100
+2025-10-27 04:05:46,462 - INFO - Completed: 8200 / To go: 4079
+2025-10-27 04:05:46,462 - INFO - Records in product_list: 8200
+2025-10-27 04:05:49,154 - INFO - Completed: 8300 / To go: 3979
+2025-10-27 04:05:49,154 - INFO - Records in product_list: 8300
+2025-10-27 04:05:51,853 - INFO - Completed: 8400 / To go: 3879
+2025-10-27 04:05:51,853 - INFO - Records in product_list: 8400
+2025-10-27 04:05:54,470 - INFO - Completed: 8500 / To go: 3779
+2025-10-27 04:05:54,470 - INFO - Records in product_list: 8500
+2025-10-27 04:05:57,099 - INFO - Completed: 8600 / To go: 3679
+2025-10-27 04:05:57,100 - INFO - Records in product_list: 8600
+2025-10-27 04:05:59,754 - INFO - Completed: 8700 / To go: 3579
+2025-10-27 04:05:59,754 - INFO - Records in product_list: 8700
+2025-10-27 04:06:02,431 - INFO - Completed: 8800 / To go: 3479
+2025-10-27 04:06:02,431 - INFO - Records in product_list: 8800
+2025-10-27 04:06:05,106 - INFO - Completed: 8900 / To go: 3379
+2025-10-27 04:06:05,106 - INFO - Records in product_list: 8900
+2025-10-27 04:06:07,802 - INFO - Completed: 9000 / To go: 3279
+2025-10-27 04:06:07,802 - INFO - Records in product_list: 9000
+2025-10-27 04:06:10,554 - INFO - Completed: 9100 / To go: 3179
+2025-10-27 04:06:10,555 - INFO - Records in product_list: 9100
+2025-10-27 04:06:13,185 - INFO - Completed: 9200 / To go: 3079
+2025-10-27 04:06:13,185 - INFO - Records in product_list: 9200
+2025-10-27 04:06:15,835 - INFO - Completed: 9300 / To go: 2979
+2025-10-27 04:06:15,835 - INFO - Records in product_list: 9300
+2025-10-27 04:06:18,514 - INFO - Completed: 9400 / To go: 2879
+2025-10-27 04:06:18,514 - INFO - Records in product_list: 9400
+2025-10-27 04:06:21,156 - INFO - Completed: 9500 / To go: 2779
+2025-10-27 04:06:21,156 - INFO - Records in product_list: 9500
+2025-10-27 04:06:23,863 - INFO - Completed: 9600 / To go: 2679
+2025-10-27 04:06:23,863 - INFO - Records in product_list: 9600
+2025-10-27 04:06:26,605 - INFO - Completed: 9700 / To go: 2579
+2025-10-27 04:06:26,605 - INFO - Records in product_list: 9700
+2025-10-27 04:06:29,252 - INFO - Completed: 9800 / To go: 2479
+2025-10-27 04:06:29,252 - INFO - Records in product_list: 9800
+2025-10-27 04:06:32,188 - INFO - Completed: 9900 / To go: 2379
+2025-10-27 04:06:32,188 - INFO - Records in product_list: 9900
+2025-10-27 04:06:34,915 - INFO - Completed: 10000 / To go: 2279
+2025-10-27 04:06:34,915 - INFO - Records in product_list: 10000
+2025-10-27 04:06:37,677 - INFO - Completed: 10100 / To go: 2179
+2025-10-27 04:06:37,677 - INFO - Records in product_list: 10100
+2025-10-27 04:06:40,325 - INFO - Completed: 10200 / To go: 2079
+2025-10-27 04:06:40,325 - INFO - Records in product_list: 10200
+2025-10-27 04:06:43,008 - INFO - Completed: 10300 / To go: 1979
+2025-10-27 04:06:43,008 - INFO - Records in product_list: 10300
+2025-10-27 04:06:45,722 - INFO - Completed: 10400 / To go: 1879
+2025-10-27 04:06:45,722 - INFO - Records in product_list: 10400
+2025-10-27 04:06:48,410 - INFO - Completed: 10500 / To go: 1779
+2025-10-27 04:06:48,410 - INFO - Records in product_list: 10500
+2025-10-27 04:06:51,330 - INFO - Completed: 10600 / To go: 1679
+2025-10-27 04:06:51,330 - INFO - Records in product_list: 10600
+2025-10-27 04:06:54,086 - INFO - Completed: 10700 / To go: 1579
+2025-10-27 04:06:54,086 - INFO - Records in product_list: 10700
+2025-10-27 04:06:56,906 - INFO - Completed: 10800 / To go: 1479
+2025-10-27 04:06:56,906 - INFO - Records in product_list: 10800
+2025-10-27 04:06:59,716 - INFO - Completed: 10900 / To go: 1379
+2025-10-27 04:06:59,716 - INFO - Records in product_list: 10900
+2025-10-27 04:07:02,667 - INFO - Completed: 11000 / To go: 1279
+2025-10-27 04:07:02,667 - INFO - Records in product_list: 11000
+2025-10-27 04:07:05,495 - INFO - Completed: 11100 / To go: 1179
+2025-10-27 04:07:05,495 - INFO - Records in product_list: 11100
+2025-10-27 04:07:08,258 - INFO - Completed: 11200 / To go: 1079
+2025-10-27 04:07:08,259 - INFO - Records in product_list: 11200
+2025-10-27 04:07:10,996 - INFO - Completed: 11300 / To go: 979
+2025-10-27 04:07:10,996 - INFO - Records in product_list: 11300
+2025-10-27 04:07:14,133 - INFO - Completed: 11400 / To go: 879
+2025-10-27 04:07:14,133 - INFO - Records in product_list: 11400
+2025-10-27 04:07:16,890 - INFO - Completed: 11500 / To go: 779
+2025-10-27 04:07:16,890 - INFO - Records in product_list: 11500
+2025-10-27 04:07:19,697 - INFO - Completed: 11600 / To go: 679
+2025-10-27 04:07:19,697 - INFO - Records in product_list: 11600
+2025-10-27 04:07:22,394 - INFO - Completed: 11700 / To go: 579
+2025-10-27 04:07:22,394 - INFO - Records in product_list: 11700
+2025-10-27 04:07:25,141 - INFO - Completed: 11800 / To go: 479
+2025-10-27 04:07:25,141 - INFO - Records in product_list: 11800
+2025-10-27 04:07:27,892 - INFO - Completed: 11900 / To go: 379
+2025-10-27 04:07:27,892 - INFO - Records in product_list: 11900
+2025-10-27 04:07:30,609 - INFO - Completed: 12000 / To go: 279
+2025-10-27 04:07:30,610 - INFO - Records in product_list: 12000
+2025-10-27 04:07:33,343 - INFO - Completed: 12100 / To go: 179
+2025-10-27 04:07:33,343 - INFO - Records in product_list: 12100
+2025-10-27 04:07:36,184 - INFO - Completed: 12200 / To go: 79
+2025-10-27 04:07:36,184 - INFO - Records in product_list: 12200
+2025-10-27 04:07:38,698 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:07:38,699 - INFO - Records in product_list: 12277
+2025-10-27 04:07:40,976 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:07:40,976 - INFO - Records in product_list: 12277
+2025-10-27 04:07:43,245 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:07:43,245 - INFO - Records in product_list: 12277
+2025-10-27 04:07:45,531 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:07:45,531 - INFO - Records in product_list: 12277
+2025-10-27 04:07:47,848 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:07:47,848 - INFO - Records in product_list: 12277
+2025-10-27 04:07:50,172 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:07:50,172 - INFO - Records in product_list: 12277
+2025-10-27 04:07:52,443 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:07:52,444 - INFO - Records in product_list: 12277
+2025-10-27 04:07:54,812 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:07:54,813 - INFO - Records in product_list: 12277
+2025-10-27 04:07:57,081 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:07:57,081 - INFO - Records in product_list: 12277
+2025-10-27 04:07:59,346 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:07:59,346 - INFO - Records in product_list: 12277
+2025-10-27 04:08:01,609 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:08:01,609 - INFO - Records in product_list: 12277
+2025-10-27 04:08:03,869 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:08:03,869 - INFO - Records in product_list: 12277
+2025-10-27 04:08:06,145 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:08:06,145 - INFO - Records in product_list: 12277
+2025-10-27 04:08:08,417 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:08:08,417 - INFO - Records in product_list: 12277
+2025-10-27 04:08:10,688 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:08:10,689 - INFO - Records in product_list: 12277
+2025-10-27 04:08:12,965 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:08:12,965 - INFO - Records in product_list: 12277
+2025-10-27 04:08:15,231 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:08:15,231 - INFO - Records in product_list: 12277
+2025-10-27 04:08:17,515 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:08:17,515 - INFO - Records in product_list: 12277
+2025-10-27 04:08:19,791 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:08:19,791 - INFO - Records in product_list: 12277
+2025-10-27 04:08:22,048 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:08:22,048 - INFO - Records in product_list: 12277
+2025-10-27 04:08:24,376 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:08:24,376 - INFO - Records in product_list: 12277
+2025-10-27 04:08:26,659 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:08:26,659 - INFO - Records in product_list: 12277
+2025-10-27 04:08:28,923 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:08:28,923 - INFO - Records in product_list: 12277
+2025-10-27 04:08:31,277 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:08:31,277 - INFO - Records in product_list: 12277
+2025-10-27 04:08:33,544 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:08:33,544 - INFO - Records in product_list: 12277
+2025-10-27 04:08:35,813 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:08:35,813 - INFO - Records in product_list: 12277
+2025-10-27 04:08:38,142 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:08:38,142 - INFO - Records in product_list: 12277
+2025-10-27 04:08:40,407 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:08:40,407 - INFO - Records in product_list: 12277
+2025-10-27 04:08:42,674 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:08:42,674 - INFO - Records in product_list: 12277
+2025-10-27 04:08:44,948 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:08:44,948 - INFO - Records in product_list: 12277
+2025-10-27 04:08:47,210 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:08:47,210 - INFO - Records in product_list: 12277
+2025-10-27 04:08:49,464 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:08:49,464 - INFO - Records in product_list: 12277
+2025-10-27 04:08:51,752 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:08:51,753 - INFO - Records in product_list: 12277
+2025-10-27 04:08:54,069 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:08:54,069 - INFO - Records in product_list: 12277
+2025-10-27 04:08:56,348 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:08:56,348 - INFO - Records in product_list: 12277
+2025-10-27 04:08:58,619 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:08:58,619 - INFO - Records in product_list: 12277
+2025-10-27 04:09:00,889 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:09:00,889 - INFO - Records in product_list: 12277
+2025-10-27 04:09:03,208 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:09:03,209 - INFO - Records in product_list: 12277
+2025-10-27 04:09:05,492 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:09:05,493 - INFO - Records in product_list: 12277
+2025-10-27 04:09:07,796 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:09:07,796 - INFO - Records in product_list: 12277
+2025-10-27 04:09:10,079 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:09:10,079 - INFO - Records in product_list: 12277
+2025-10-27 04:09:12,351 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:09:12,351 - INFO - Records in product_list: 12277
+2025-10-27 04:09:14,629 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:09:14,629 - INFO - Records in product_list: 12277
+2025-10-27 04:09:16,894 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:09:16,894 - INFO - Records in product_list: 12277
+2025-10-27 04:09:19,167 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:09:19,167 - INFO - Records in product_list: 12277
+2025-10-27 04:09:21,448 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:09:21,448 - INFO - Records in product_list: 12277
+2025-10-27 04:09:23,717 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:09:23,717 - INFO - Records in product_list: 12277
+2025-10-27 04:09:25,979 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:09:25,979 - INFO - Records in product_list: 12277
+2025-10-27 04:09:28,237 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:09:28,237 - INFO - Records in product_list: 12277
+2025-10-27 04:09:30,508 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:09:30,509 - INFO - Records in product_list: 12277
+2025-10-27 04:09:32,891 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:09:32,891 - INFO - Records in product_list: 12277
+2025-10-27 04:09:35,162 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:09:35,162 - INFO - Records in product_list: 12277
+2025-10-27 04:09:37,441 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:09:37,441 - INFO - Records in product_list: 12277
+2025-10-27 04:09:39,854 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:09:39,854 - INFO - Records in product_list: 12277
+2025-10-27 04:09:42,146 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:09:42,146 - INFO - Records in product_list: 12277
+2025-10-27 04:09:44,418 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:09:44,418 - INFO - Records in product_list: 12277
+2025-10-27 04:09:46,696 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:09:46,696 - INFO - Records in product_list: 12277
+2025-10-27 04:09:48,970 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:09:48,970 - INFO - Records in product_list: 12277
+2025-10-27 04:09:51,248 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:09:51,249 - INFO - Records in product_list: 12277
+2025-10-27 04:09:53,513 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:09:53,514 - INFO - Records in product_list: 12277
+2025-10-27 04:09:55,843 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:09:55,843 - INFO - Records in product_list: 12277
+2025-10-27 04:09:58,107 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:09:58,107 - INFO - Records in product_list: 12277
+2025-10-27 04:10:00,382 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:10:00,382 - INFO - Records in product_list: 12277
+2025-10-27 04:10:02,645 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:10:02,645 - INFO - Records in product_list: 12277
+2025-10-27 04:10:04,924 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:10:04,924 - INFO - Records in product_list: 12277
+2025-10-27 04:10:07,245 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:10:07,245 - INFO - Records in product_list: 12277
+2025-10-27 04:10:09,531 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:10:09,531 - INFO - Records in product_list: 12277
+2025-10-27 04:10:11,791 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:10:11,792 - INFO - Records in product_list: 12277
+2025-10-27 04:10:14,080 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:10:14,080 - INFO - Records in product_list: 12277
+2025-10-27 04:10:16,344 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:10:16,344 - INFO - Records in product_list: 12277
+2025-10-27 04:10:18,607 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:10:18,608 - INFO - Records in product_list: 12277
+2025-10-27 04:10:20,881 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:10:20,881 - INFO - Records in product_list: 12277
+2025-10-27 04:10:23,193 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:10:23,193 - INFO - Records in product_list: 12277
+2025-10-27 04:10:25,457 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:10:25,457 - INFO - Records in product_list: 12277
+2025-10-27 04:10:27,801 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:10:27,801 - INFO - Records in product_list: 12277
+2025-10-27 04:10:30,099 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:10:30,099 - INFO - Records in product_list: 12277
+2025-10-27 04:10:32,367 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:10:32,367 - INFO - Records in product_list: 12277
+2025-10-27 04:10:34,647 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:10:34,647 - INFO - Records in product_list: 12277
+2025-10-27 04:10:36,925 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:10:36,925 - INFO - Records in product_list: 12277
+2025-10-27 04:10:39,188 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:10:39,188 - INFO - Records in product_list: 12277
+2025-10-27 04:10:41,456 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:10:41,456 - INFO - Records in product_list: 12277
+2025-10-27 04:10:43,722 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:10:43,722 - INFO - Records in product_list: 12277
+2025-10-27 04:10:45,990 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:10:45,991 - INFO - Records in product_list: 12277
+2025-10-27 04:10:48,315 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:10:48,315 - INFO - Records in product_list: 12277
+2025-10-27 04:10:50,590 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:10:50,590 - INFO - Records in product_list: 12277
+2025-10-27 04:10:52,860 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:10:52,860 - INFO - Records in product_list: 12277
+2025-10-27 04:10:55,134 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:10:55,134 - INFO - Records in product_list: 12277
+2025-10-27 04:10:57,463 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:10:57,463 - INFO - Records in product_list: 12277
+2025-10-27 04:10:59,738 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:10:59,738 - INFO - Records in product_list: 12277
+2025-10-27 04:11:02,009 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:11:02,009 - INFO - Records in product_list: 12277
+2025-10-27 04:11:04,279 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:11:04,279 - INFO - Records in product_list: 12277
+2025-10-27 04:11:06,577 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:11:06,577 - INFO - Records in product_list: 12277
+2025-10-27 04:11:08,843 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:11:08,843 - INFO - Records in product_list: 12277
+2025-10-27 04:11:11,115 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:11:11,115 - INFO - Records in product_list: 12277
+2025-10-27 04:11:13,382 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:11:13,382 - INFO - Records in product_list: 12277
+2025-10-27 04:11:15,675 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:11:15,675 - INFO - Records in product_list: 12277
+2025-10-27 04:11:17,945 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:11:17,945 - INFO - Records in product_list: 12277
+2025-10-27 04:11:20,219 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:11:20,219 - INFO - Records in product_list: 12277
+2025-10-27 04:11:22,487 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:11:22,487 - INFO - Records in product_list: 12277
+2025-10-27 04:11:24,776 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:11:24,776 - INFO - Records in product_list: 12277
+2025-10-27 04:11:27,038 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:11:27,038 - INFO - Records in product_list: 12277
+2025-10-27 04:11:29,335 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:11:29,336 - INFO - Records in product_list: 12277
+2025-10-27 04:11:31,857 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:11:31,857 - INFO - Records in product_list: 12277
+2025-10-27 04:11:34,121 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:11:34,121 - INFO - Records in product_list: 12277
+2025-10-27 04:11:36,396 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:11:36,396 - INFO - Records in product_list: 12277
+2025-10-27 04:11:38,666 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:11:38,666 - INFO - Records in product_list: 12277
+2025-10-27 04:11:40,941 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:11:40,941 - INFO - Records in product_list: 12277
+2025-10-27 04:11:43,246 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:11:43,246 - INFO - Records in product_list: 12277
+2025-10-27 04:11:45,515 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:11:45,515 - INFO - Records in product_list: 12277
+2025-10-27 04:11:47,789 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:11:47,789 - INFO - Records in product_list: 12277
+2025-10-27 04:11:50,054 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:11:50,054 - INFO - Records in product_list: 12277
+2025-10-27 04:11:52,317 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:11:52,317 - INFO - Records in product_list: 12277
+2025-10-27 04:11:54,577 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:11:54,577 - INFO - Records in product_list: 12277
+2025-10-27 04:11:56,846 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:11:56,846 - INFO - Records in product_list: 12277
+2025-10-27 04:11:59,154 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:11:59,154 - INFO - Records in product_list: 12277
+2025-10-27 04:12:01,417 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:12:01,417 - INFO - Records in product_list: 12277
+2025-10-27 04:12:03,676 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:12:03,676 - INFO - Records in product_list: 12277
+2025-10-27 04:12:05,949 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:12:05,949 - INFO - Records in product_list: 12277
+2025-10-27 04:12:08,212 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:12:08,212 - INFO - Records in product_list: 12277
+2025-10-27 04:12:10,480 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:12:10,480 - INFO - Records in product_list: 12277
+2025-10-27 04:12:12,749 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:12:12,749 - INFO - Records in product_list: 12277
+2025-10-27 04:12:15,044 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:12:15,044 - INFO - Records in product_list: 12277
+2025-10-27 04:12:17,309 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:12:17,310 - INFO - Records in product_list: 12277
+2025-10-27 04:12:19,577 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:12:19,577 - INFO - Records in product_list: 12277
+2025-10-27 04:12:21,841 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:12:21,841 - INFO - Records in product_list: 12277
+2025-10-27 04:12:24,109 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:12:24,110 - INFO - Records in product_list: 12277
+2025-10-27 04:12:26,380 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:12:26,380 - INFO - Records in product_list: 12277
+2025-10-27 04:12:28,652 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:12:28,653 - INFO - Records in product_list: 12277
+2025-10-27 04:12:30,920 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:12:30,920 - INFO - Records in product_list: 12277
+2025-10-27 04:12:33,225 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:12:33,226 - INFO - Records in product_list: 12277
+2025-10-27 04:12:35,511 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:12:35,511 - INFO - Records in product_list: 12277
+2025-10-27 04:12:37,784 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:12:37,784 - INFO - Records in product_list: 12277
+2025-10-27 04:12:40,071 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:12:40,071 - INFO - Records in product_list: 12277
+2025-10-27 04:12:42,335 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:12:42,336 - INFO - Records in product_list: 12277
+2025-10-27 04:12:44,601 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:12:44,601 - INFO - Records in product_list: 12277
+2025-10-27 04:12:46,862 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:12:46,862 - INFO - Records in product_list: 12277
+2025-10-27 04:12:49,127 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:12:49,127 - INFO - Records in product_list: 12277
+2025-10-27 04:12:51,402 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:12:51,402 - INFO - Records in product_list: 12277
+2025-10-27 04:12:53,684 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:12:53,684 - INFO - Records in product_list: 12277
+2025-10-27 04:12:56,000 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:12:56,000 - INFO - Records in product_list: 12277
+2025-10-27 04:12:58,268 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:12:58,268 - INFO - Records in product_list: 12277
+2025-10-27 04:13:00,544 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:13:00,544 - INFO - Records in product_list: 12277
+2025-10-27 04:13:02,841 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:13:02,841 - INFO - Records in product_list: 12277
+2025-10-27 04:13:05,112 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:13:05,112 - INFO - Records in product_list: 12277
+2025-10-27 04:13:07,381 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:13:07,381 - INFO - Records in product_list: 12277
+2025-10-27 04:13:09,663 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:13:09,663 - INFO - Records in product_list: 12277
+2025-10-27 04:13:11,944 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:13:11,944 - INFO - Records in product_list: 12277
+2025-10-27 04:13:14,209 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:13:14,209 - INFO - Records in product_list: 12277
+2025-10-27 04:13:16,475 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:13:16,475 - INFO - Records in product_list: 12277
+2025-10-27 04:13:18,758 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:13:18,758 - INFO - Records in product_list: 12277
+2025-10-27 04:13:21,109 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:13:21,109 - INFO - Records in product_list: 12277
+2025-10-27 04:13:23,370 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:13:23,370 - INFO - Records in product_list: 12277
+2025-10-27 04:13:25,639 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:13:25,639 - INFO - Records in product_list: 12277
+2025-10-27 04:13:27,934 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:13:27,934 - INFO - Records in product_list: 12277
+2025-10-27 04:13:30,207 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:13:30,208 - INFO - Records in product_list: 12277
+2025-10-27 04:13:32,491 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:13:32,491 - INFO - Records in product_list: 12277
+2025-10-27 04:13:34,755 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:13:34,755 - INFO - Records in product_list: 12277
+2025-10-27 04:13:37,016 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:13:37,016 - INFO - Records in product_list: 12277
+2025-10-27 04:13:39,283 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:13:39,284 - INFO - Records in product_list: 12277
+2025-10-27 04:13:41,575 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:13:41,575 - INFO - Records in product_list: 12277
+2025-10-27 04:13:43,856 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:13:43,856 - INFO - Records in product_list: 12277
+2025-10-27 04:13:46,191 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:13:46,191 - INFO - Records in product_list: 12277
+2025-10-27 04:13:48,460 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:13:48,460 - INFO - Records in product_list: 12277
+2025-10-27 04:13:50,720 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:13:50,720 - INFO - Records in product_list: 12277
+2025-10-27 04:13:52,990 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:13:52,990 - INFO - Records in product_list: 12277
+2025-10-27 04:13:55,265 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:13:55,265 - INFO - Records in product_list: 12277
+2025-10-27 04:13:57,542 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:13:57,542 - INFO - Records in product_list: 12277
+2025-10-27 04:13:59,815 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:13:59,815 - INFO - Records in product_list: 12277
+2025-10-27 04:14:02,081 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:14:02,081 - INFO - Records in product_list: 12277
+2025-10-27 04:14:04,396 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:14:04,396 - INFO - Records in product_list: 12277
+2025-10-27 04:14:06,660 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:14:06,660 - INFO - Records in product_list: 12277
+2025-10-27 04:14:08,927 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:14:08,927 - INFO - Records in product_list: 12277
+2025-10-27 04:14:11,275 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:14:11,275 - INFO - Records in product_list: 12277
+2025-10-27 04:14:13,554 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:14:13,554 - INFO - Records in product_list: 12277
+2025-10-27 04:14:15,832 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:14:15,832 - INFO - Records in product_list: 12277
+2025-10-27 04:14:18,119 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:14:18,119 - INFO - Records in product_list: 12277
+2025-10-27 04:14:20,393 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:14:20,393 - INFO - Records in product_list: 12277
+2025-10-27 04:14:22,665 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:14:22,666 - INFO - Records in product_list: 12277
+2025-10-27 04:14:24,934 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:14:24,934 - INFO - Records in product_list: 12277
+2025-10-27 04:14:27,221 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:14:27,221 - INFO - Records in product_list: 12277
+2025-10-27 04:14:29,498 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:14:29,498 - INFO - Records in product_list: 12277
+2025-10-27 04:14:31,774 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:14:31,774 - INFO - Records in product_list: 12277
+2025-10-27 04:14:34,047 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:14:34,047 - INFO - Records in product_list: 12277
+2025-10-27 04:14:36,325 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:14:36,325 - INFO - Records in product_list: 12277
+2025-10-27 04:14:38,618 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:14:38,618 - INFO - Records in product_list: 12277
+2025-10-27 04:14:40,916 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:14:40,916 - INFO - Records in product_list: 12277
+2025-10-27 04:14:43,199 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:14:43,199 - INFO - Records in product_list: 12277
+2025-10-27 04:14:45,467 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:14:45,467 - INFO - Records in product_list: 12277
+2025-10-27 04:14:47,900 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:14:47,900 - INFO - Records in product_list: 12277
+2025-10-27 04:14:50,170 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:14:50,171 - INFO - Records in product_list: 12277
+2025-10-27 04:14:52,451 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:14:52,451 - INFO - Records in product_list: 12277
+2025-10-27 04:14:54,730 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:14:54,731 - INFO - Records in product_list: 12277
+2025-10-27 04:14:56,985 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:14:56,985 - INFO - Records in product_list: 12277
+2025-10-27 04:14:59,256 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:14:59,256 - INFO - Records in product_list: 12277
+2025-10-27 04:15:01,532 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:15:01,532 - INFO - Records in product_list: 12277
+2025-10-27 04:15:03,809 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:15:03,809 - INFO - Records in product_list: 12277
+2025-10-27 04:15:06,075 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:15:06,076 - INFO - Records in product_list: 12277
+2025-10-27 04:15:08,407 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:15:08,407 - INFO - Records in product_list: 12277
+2025-10-27 04:15:10,673 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:15:10,673 - INFO - Records in product_list: 12277
+2025-10-27 04:15:12,942 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:15:12,942 - INFO - Records in product_list: 12277
+2025-10-27 04:15:15,211 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:15:15,211 - INFO - Records in product_list: 12277
+2025-10-27 04:15:17,486 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:15:17,486 - INFO - Records in product_list: 12277
+2025-10-27 04:15:19,766 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:15:19,766 - INFO - Records in product_list: 12277
+2025-10-27 04:15:22,036 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:15:22,036 - INFO - Records in product_list: 12277
+2025-10-27 04:15:24,325 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:15:24,325 - INFO - Records in product_list: 12277
+2025-10-27 04:15:26,598 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:15:26,598 - INFO - Records in product_list: 12277
+2025-10-27 04:15:28,878 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:15:28,878 - INFO - Records in product_list: 12277
+2025-10-27 04:15:31,152 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:15:31,152 - INFO - Records in product_list: 12277
+2025-10-27 04:15:33,434 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:15:33,434 - INFO - Records in product_list: 12277
+2025-10-27 04:15:35,709 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:15:35,709 - INFO - Records in product_list: 12277
+2025-10-27 04:15:38,001 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:15:38,001 - INFO - Records in product_list: 12277
+2025-10-27 04:15:40,273 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:15:40,273 - INFO - Records in product_list: 12277
+2025-10-27 04:15:42,535 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:15:42,535 - INFO - Records in product_list: 12277
+2025-10-27 04:15:44,807 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:15:44,807 - INFO - Records in product_list: 12277
+2025-10-27 04:15:47,113 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:15:47,113 - INFO - Records in product_list: 12277
+2025-10-27 04:15:49,399 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:15:49,399 - INFO - Records in product_list: 12277
+2025-10-27 04:15:51,672 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:15:51,672 - INFO - Records in product_list: 12277
+2025-10-27 04:15:53,933 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:15:53,933 - INFO - Records in product_list: 12277
+2025-10-27 04:15:56,208 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:15:56,208 - INFO - Records in product_list: 12277
+2025-10-27 04:15:58,480 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:15:58,480 - INFO - Records in product_list: 12277
+2025-10-27 04:16:00,747 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:16:00,747 - INFO - Records in product_list: 12277
+2025-10-27 04:16:03,008 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:16:03,009 - INFO - Records in product_list: 12277
+2025-10-27 04:16:05,341 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:16:05,341 - INFO - Records in product_list: 12277
+2025-10-27 04:16:07,609 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:16:07,609 - INFO - Records in product_list: 12277
+2025-10-27 04:16:09,868 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:16:09,868 - INFO - Records in product_list: 12277
+2025-10-27 04:16:12,205 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:16:12,205 - INFO - Records in product_list: 12277
+2025-10-27 04:16:14,496 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:16:14,496 - INFO - Records in product_list: 12277
+2025-10-27 04:16:16,825 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:16:16,825 - INFO - Records in product_list: 12277
+2025-10-27 04:16:19,087 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:16:19,087 - INFO - Records in product_list: 12277
+2025-10-27 04:16:21,346 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:16:21,346 - INFO - Records in product_list: 12277
+2025-10-27 04:16:23,616 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:16:23,616 - INFO - Records in product_list: 12277
+2025-10-27 04:16:25,883 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:16:25,883 - INFO - Records in product_list: 12277
+2025-10-27 04:16:28,163 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:16:28,163 - INFO - Records in product_list: 12277
+2025-10-27 04:16:30,435 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:16:30,436 - INFO - Records in product_list: 12277
+2025-10-27 04:16:32,762 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:16:32,762 - INFO - Records in product_list: 12277
+2025-10-27 04:16:35,082 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:16:35,082 - INFO - Records in product_list: 12277
+2025-10-27 04:16:37,349 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:16:37,349 - INFO - Records in product_list: 12277
+2025-10-27 04:16:39,641 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:16:39,641 - INFO - Records in product_list: 12277
+2025-10-27 04:16:41,911 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:16:41,911 - INFO - Records in product_list: 12277
+2025-10-27 04:16:44,202 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:16:44,202 - INFO - Records in product_list: 12277
+2025-10-27 04:16:46,476 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:16:46,477 - INFO - Records in product_list: 12277
+2025-10-27 04:16:48,749 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:16:48,749 - INFO - Records in product_list: 12277
+2025-10-27 04:16:51,028 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:16:51,028 - INFO - Records in product_list: 12277
+2025-10-27 04:16:53,296 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:16:53,296 - INFO - Records in product_list: 12277
+2025-10-27 04:16:55,580 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:16:55,580 - INFO - Records in product_list: 12277
+2025-10-27 04:16:57,874 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:16:57,874 - INFO - Records in product_list: 12277
+2025-10-27 04:17:00,148 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:17:00,148 - INFO - Records in product_list: 12277
+2025-10-27 04:17:02,430 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:17:02,430 - INFO - Records in product_list: 12277
+2025-10-27 04:17:04,703 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:17:04,703 - INFO - Records in product_list: 12277
+2025-10-27 04:17:06,976 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:17:06,976 - INFO - Records in product_list: 12277
+2025-10-27 04:17:09,248 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:17:09,248 - INFO - Records in product_list: 12277
+2025-10-27 04:17:11,537 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:17:11,537 - INFO - Records in product_list: 12277
+2025-10-27 04:17:13,814 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:17:13,814 - INFO - Records in product_list: 12277
+2025-10-27 04:17:16,078 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:17:16,078 - INFO - Records in product_list: 12277
+2025-10-27 04:17:18,370 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:17:18,370 - INFO - Records in product_list: 12277
+2025-10-27 04:17:20,648 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:17:20,648 - INFO - Records in product_list: 12277
+2025-10-27 04:17:22,917 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:17:22,917 - INFO - Records in product_list: 12277
+2025-10-27 04:17:25,191 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:17:25,191 - INFO - Records in product_list: 12277
+2025-10-27 04:17:27,537 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:17:27,537 - INFO - Records in product_list: 12277
+2025-10-27 04:17:29,799 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:17:29,799 - INFO - Records in product_list: 12277
+2025-10-27 04:17:32,091 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:17:32,091 - INFO - Records in product_list: 12277
+2025-10-27 04:17:34,354 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:17:34,354 - INFO - Records in product_list: 12277
+2025-10-27 04:17:36,616 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:17:36,616 - INFO - Records in product_list: 12277
+2025-10-27 04:17:38,902 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:17:38,903 - INFO - Records in product_list: 12277
+2025-10-27 04:17:41,191 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:17:41,191 - INFO - Records in product_list: 12277
+2025-10-27 04:17:43,460 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:17:43,460 - INFO - Records in product_list: 12277
+2025-10-27 04:17:45,742 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:17:45,742 - INFO - Records in product_list: 12277
+2025-10-27 04:17:48,012 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:17:48,012 - INFO - Records in product_list: 12277
+2025-10-27 04:17:50,283 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:17:50,284 - INFO - Records in product_list: 12277
+2025-10-27 04:17:53,000 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:17:53,000 - INFO - Records in product_list: 12277
+2025-10-27 04:17:55,269 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:17:55,269 - INFO - Records in product_list: 12277
+2025-10-27 04:17:57,581 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:17:57,581 - INFO - Records in product_list: 12277
+2025-10-27 04:17:59,838 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:17:59,838 - INFO - Records in product_list: 12277
+2025-10-27 04:18:02,181 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:18:02,181 - INFO - Records in product_list: 12277
+2025-10-27 04:18:04,507 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:18:04,507 - INFO - Records in product_list: 12277
+2025-10-27 04:18:06,802 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:18:06,802 - INFO - Records in product_list: 12277
+2025-10-27 04:18:09,092 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:18:09,092 - INFO - Records in product_list: 12277
+2025-10-27 04:18:11,363 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:18:11,363 - INFO - Records in product_list: 12277
+2025-10-27 04:18:13,627 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:18:13,627 - INFO - Records in product_list: 12277
+2025-10-27 04:18:15,901 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:18:15,901 - INFO - Records in product_list: 12277
+2025-10-27 04:18:18,183 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:18:18,183 - INFO - Records in product_list: 12277
+2025-10-27 04:18:20,468 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:18:20,468 - INFO - Records in product_list: 12277
+2025-10-27 04:18:22,731 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:18:22,731 - INFO - Records in product_list: 12277
+2025-10-27 04:18:25,057 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:18:25,058 - INFO - Records in product_list: 12277
+2025-10-27 04:18:27,312 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:18:27,312 - INFO - Records in product_list: 12277
+2025-10-27 04:18:29,589 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:18:29,590 - INFO - Records in product_list: 12277
+2025-10-27 04:18:31,912 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:18:31,912 - INFO - Records in product_list: 12277
+2025-10-27 04:18:34,189 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:18:34,189 - INFO - Records in product_list: 12277
+2025-10-27 04:18:36,458 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:18:36,459 - INFO - Records in product_list: 12277
+2025-10-27 04:18:38,728 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:18:38,728 - INFO - Records in product_list: 12277
+2025-10-27 04:18:40,995 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:18:40,995 - INFO - Records in product_list: 12277
+2025-10-27 04:18:43,274 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:18:43,274 - INFO - Records in product_list: 12277
+2025-10-27 04:18:45,542 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:18:45,542 - INFO - Records in product_list: 12277
+2025-10-27 04:18:47,817 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:18:47,817 - INFO - Records in product_list: 12277
+2025-10-27 04:18:50,092 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:18:50,092 - INFO - Records in product_list: 12277
+2025-10-27 04:18:52,399 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:18:52,399 - INFO - Records in product_list: 12277
+2025-10-27 04:18:54,722 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:18:54,722 - INFO - Records in product_list: 12277
+2025-10-27 04:18:57,223 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:18:57,223 - INFO - Records in product_list: 12277
+2025-10-27 04:18:59,509 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:18:59,509 - INFO - Records in product_list: 12277
+2025-10-27 04:19:01,776 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:19:01,777 - INFO - Records in product_list: 12277
+2025-10-27 04:19:04,047 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:19:04,047 - INFO - Records in product_list: 12277
+2025-10-27 04:19:06,737 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:19:06,737 - INFO - Records in product_list: 12277
+2025-10-27 04:19:09,039 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:19:09,039 - INFO - Records in product_list: 12277
+2025-10-27 04:19:11,314 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:19:11,314 - INFO - Records in product_list: 12277
+2025-10-27 04:19:13,593 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:19:13,593 - INFO - Records in product_list: 12277
+2025-10-27 04:19:15,858 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:19:15,858 - INFO - Records in product_list: 12277
+2025-10-27 04:19:18,135 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:19:18,135 - INFO - Records in product_list: 12277
+2025-10-27 04:19:20,403 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:19:20,403 - INFO - Records in product_list: 12277
+2025-10-27 04:19:22,669 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:19:22,669 - INFO - Records in product_list: 12277
+2025-10-27 04:19:24,948 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:19:24,949 - INFO - Records in product_list: 12277
+2025-10-27 04:19:27,214 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:19:27,214 - INFO - Records in product_list: 12277
+2025-10-27 04:19:29,484 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:19:29,484 - INFO - Records in product_list: 12277
+2025-10-27 04:19:31,751 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:19:31,751 - INFO - Records in product_list: 12277
+2025-10-27 04:19:34,071 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:19:34,071 - INFO - Records in product_list: 12277
+2025-10-27 04:19:36,360 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:19:36,360 - INFO - Records in product_list: 12277
+2025-10-27 04:19:38,634 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:19:38,634 - INFO - Records in product_list: 12277
+2025-10-27 04:19:40,894 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:19:40,894 - INFO - Records in product_list: 12277
+2025-10-27 04:19:43,273 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:19:43,274 - INFO - Records in product_list: 12277
+2025-10-27 04:19:45,555 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:19:45,555 - INFO - Records in product_list: 12277
+2025-10-27 04:19:47,828 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:19:47,828 - INFO - Records in product_list: 12277
+2025-10-27 04:19:50,109 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:19:50,110 - INFO - Records in product_list: 12277
+2025-10-27 04:19:52,447 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:19:52,447 - INFO - Records in product_list: 12277
+2025-10-27 04:19:54,898 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:19:54,898 - INFO - Records in product_list: 12277
+2025-10-27 04:19:57,208 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:19:57,208 - INFO - Records in product_list: 12277
+2025-10-27 04:19:59,481 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:19:59,481 - INFO - Records in product_list: 12277
+2025-10-27 04:20:01,764 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:20:01,764 - INFO - Records in product_list: 12277
+2025-10-27 04:20:04,038 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:20:04,038 - INFO - Records in product_list: 12277
+2025-10-27 04:20:06,310 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:20:06,310 - INFO - Records in product_list: 12277
+2025-10-27 04:20:08,583 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:20:08,583 - INFO - Records in product_list: 12277
+2025-10-27 04:20:10,851 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:20:10,851 - INFO - Records in product_list: 12277
+2025-10-27 04:20:13,134 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:20:13,134 - INFO - Records in product_list: 12277
+2025-10-27 04:20:15,423 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:20:15,423 - INFO - Records in product_list: 12277
+2025-10-27 04:20:17,697 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:20:17,698 - INFO - Records in product_list: 12277
+2025-10-27 04:20:19,959 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:20:19,959 - INFO - Records in product_list: 12277
+2025-10-27 04:20:22,245 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:20:22,245 - INFO - Records in product_list: 12277
+2025-10-27 04:20:24,512 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:20:24,512 - INFO - Records in product_list: 12277
+2025-10-27 04:20:26,834 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:20:26,834 - INFO - Records in product_list: 12277
+2025-10-27 04:20:29,102 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:20:29,102 - INFO - Records in product_list: 12277
+2025-10-27 04:20:31,365 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:20:31,365 - INFO - Records in product_list: 12277
+2025-10-27 04:20:33,640 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:20:33,640 - INFO - Records in product_list: 12277
+2025-10-27 04:20:35,939 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:20:35,939 - INFO - Records in product_list: 12277
+2025-10-27 04:20:38,218 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:20:38,218 - INFO - Records in product_list: 12277
+2025-10-27 04:20:40,495 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:20:40,495 - INFO - Records in product_list: 12277
+2025-10-27 04:20:42,765 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:20:42,765 - INFO - Records in product_list: 12277
+2025-10-27 04:20:45,036 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:20:45,036 - INFO - Records in product_list: 12277
+2025-10-27 04:20:47,309 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:20:47,310 - INFO - Records in product_list: 12277
+2025-10-27 04:20:49,640 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:20:49,640 - INFO - Records in product_list: 12277
+2025-10-27 04:20:51,910 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:20:51,910 - INFO - Records in product_list: 12277
+2025-10-27 04:20:54,194 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:20:54,194 - INFO - Records in product_list: 12277
+2025-10-27 04:20:56,524 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:20:56,524 - INFO - Records in product_list: 12277
+2025-10-27 04:20:58,795 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:20:58,795 - INFO - Records in product_list: 12277
+2025-10-27 04:21:01,065 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:21:01,065 - INFO - Records in product_list: 12277
+2025-10-27 04:21:03,332 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:21:03,332 - INFO - Records in product_list: 12277
+2025-10-27 04:21:05,598 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:21:05,598 - INFO - Records in product_list: 12277
+2025-10-27 04:21:07,870 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:21:07,870 - INFO - Records in product_list: 12277
+2025-10-27 04:21:10,154 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:21:10,154 - INFO - Records in product_list: 12277
+2025-10-27 04:21:12,416 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:21:12,416 - INFO - Records in product_list: 12277
+2025-10-27 04:21:14,688 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:21:14,688 - INFO - Records in product_list: 12277
+2025-10-27 04:21:16,971 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:21:16,971 - INFO - Records in product_list: 12277
+2025-10-27 04:21:19,247 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:21:19,247 - INFO - Records in product_list: 12277
+2025-10-27 04:21:21,526 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:21:21,526 - INFO - Records in product_list: 12277
+2025-10-27 04:21:23,805 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:21:23,805 - INFO - Records in product_list: 12277
+2025-10-27 04:21:26,077 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:21:26,078 - INFO - Records in product_list: 12277
+2025-10-27 04:21:28,365 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:21:28,365 - INFO - Records in product_list: 12277
+2025-10-27 04:21:30,663 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:21:30,664 - INFO - Records in product_list: 12277
+2025-10-27 04:21:32,932 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:21:32,932 - INFO - Records in product_list: 12277
+2025-10-27 04:21:35,213 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:21:35,214 - INFO - Records in product_list: 12277
+2025-10-27 04:21:37,477 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:21:37,477 - INFO - Records in product_list: 12277
+2025-10-27 04:21:39,758 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:21:39,758 - INFO - Records in product_list: 12277
+2025-10-27 04:21:42,034 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:21:42,035 - INFO - Records in product_list: 12277
+2025-10-27 04:21:44,308 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:21:44,308 - INFO - Records in product_list: 12277
+2025-10-27 04:21:46,644 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:21:46,644 - INFO - Records in product_list: 12277
+2025-10-27 04:21:48,925 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:21:48,925 - INFO - Records in product_list: 12277
+2025-10-27 04:21:51,193 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:21:51,193 - INFO - Records in product_list: 12277
+2025-10-27 04:21:53,551 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:21:53,551 - INFO - Records in product_list: 12277
+2025-10-27 04:21:55,817 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:21:55,817 - INFO - Records in product_list: 12277
+2025-10-27 04:21:58,081 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:21:58,081 - INFO - Records in product_list: 12277
+2025-10-27 04:22:01,035 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:22:01,035 - INFO - Records in product_list: 12277
+2025-10-27 04:22:03,539 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:22:03,540 - INFO - Records in product_list: 12277
+2025-10-27 04:22:05,815 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:22:05,815 - INFO - Records in product_list: 12277
+2025-10-27 04:22:08,082 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:22:08,082 - INFO - Records in product_list: 12277
+2025-10-27 04:22:10,365 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:22:10,366 - INFO - Records in product_list: 12277
+2025-10-27 04:22:12,683 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:22:12,684 - INFO - Records in product_list: 12277
+2025-10-27 04:22:14,954 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:22:14,954 - INFO - Records in product_list: 12277
+2025-10-27 04:22:17,220 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:22:17,220 - INFO - Records in product_list: 12277
+2025-10-27 04:22:19,491 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:22:19,491 - INFO - Records in product_list: 12277
+2025-10-27 04:22:21,757 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:22:21,757 - INFO - Records in product_list: 12277
+2025-10-27 04:22:24,021 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:22:24,021 - INFO - Records in product_list: 12277
+2025-10-27 04:22:26,288 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:22:26,288 - INFO - Records in product_list: 12277
+2025-10-27 04:22:28,563 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:22:28,564 - INFO - Records in product_list: 12277
+2025-10-27 04:22:30,839 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:22:30,840 - INFO - Records in product_list: 12277
+2025-10-27 04:22:33,131 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:22:33,131 - INFO - Records in product_list: 12277
+2025-10-27 04:22:35,405 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:22:35,406 - INFO - Records in product_list: 12277
+2025-10-27 04:22:37,711 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:22:37,711 - INFO - Records in product_list: 12277
+2025-10-27 04:22:40,043 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:22:40,043 - INFO - Records in product_list: 12277
+2025-10-27 04:22:42,321 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:22:42,322 - INFO - Records in product_list: 12277
+2025-10-27 04:22:44,584 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:22:44,584 - INFO - Records in product_list: 12277
+2025-10-27 04:22:46,860 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:22:46,860 - INFO - Records in product_list: 12277
+2025-10-27 04:22:49,142 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:22:49,142 - INFO - Records in product_list: 12277
+2025-10-27 04:22:51,421 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:22:51,422 - INFO - Records in product_list: 12277
+2025-10-27 04:22:53,753 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:22:53,753 - INFO - Records in product_list: 12277
+2025-10-27 04:22:56,023 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:22:56,023 - INFO - Records in product_list: 12277
+2025-10-27 04:22:58,457 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:22:58,457 - INFO - Records in product_list: 12277
+2025-10-27 04:23:00,739 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:23:00,739 - INFO - Records in product_list: 12277
+2025-10-27 04:23:03,020 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:23:03,020 - INFO - Records in product_list: 12277
+2025-10-27 04:23:05,313 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:23:05,313 - INFO - Records in product_list: 12277
+2025-10-27 04:23:07,651 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:23:07,651 - INFO - Records in product_list: 12277
+2025-10-27 04:23:09,925 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:23:09,925 - INFO - Records in product_list: 12277
+2025-10-27 04:23:12,190 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:23:12,191 - INFO - Records in product_list: 12277
+2025-10-27 04:23:14,470 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:23:14,470 - INFO - Records in product_list: 12277
+2025-10-27 04:23:16,736 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:23:16,736 - INFO - Records in product_list: 12277
+2025-10-27 04:23:19,013 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:23:19,013 - INFO - Records in product_list: 12277
+2025-10-27 04:23:21,288 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:23:21,288 - INFO - Records in product_list: 12277
+2025-10-27 04:23:23,612 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:23:23,612 - INFO - Records in product_list: 12277
+2025-10-27 04:23:25,973 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:23:25,973 - INFO - Records in product_list: 12277
+2025-10-27 04:23:28,248 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:23:28,248 - INFO - Records in product_list: 12277
+2025-10-27 04:23:30,521 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:23:30,522 - INFO - Records in product_list: 12277
+2025-10-27 04:23:32,795 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:23:32,795 - INFO - Records in product_list: 12277
+2025-10-27 04:23:35,076 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:23:35,076 - INFO - Records in product_list: 12277
+2025-10-27 04:23:37,352 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:23:37,352 - INFO - Records in product_list: 12277
+2025-10-27 04:23:39,624 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:23:39,624 - INFO - Records in product_list: 12277
+2025-10-27 04:23:41,907 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:23:41,908 - INFO - Records in product_list: 12277
+2025-10-27 04:23:44,178 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:23:44,178 - INFO - Records in product_list: 12277
+2025-10-27 04:23:46,450 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:23:46,450 - INFO - Records in product_list: 12277
+2025-10-27 04:23:48,722 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:23:48,722 - INFO - Records in product_list: 12277
+2025-10-27 04:23:50,997 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:23:50,997 - INFO - Records in product_list: 12277
+2025-10-27 04:23:53,269 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:23:53,269 - INFO - Records in product_list: 12277
+2025-10-27 04:23:55,568 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:23:55,568 - INFO - Records in product_list: 12277
+2025-10-27 04:23:57,835 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:23:57,835 - INFO - Records in product_list: 12277
+2025-10-27 04:24:00,101 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:24:00,101 - INFO - Records in product_list: 12277
+2025-10-27 04:24:02,386 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:24:02,386 - INFO - Records in product_list: 12277
+2025-10-27 04:24:04,655 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:24:04,655 - INFO - Records in product_list: 12277
+2025-10-27 04:24:06,972 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:24:06,972 - INFO - Records in product_list: 12277
+2025-10-27 04:24:09,329 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:24:09,329 - INFO - Records in product_list: 12277
+2025-10-27 04:24:11,709 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:24:11,709 - INFO - Records in product_list: 12277
+2025-10-27 04:24:13,997 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:24:13,997 - INFO - Records in product_list: 12277
+2025-10-27 04:24:16,284 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:24:16,284 - INFO - Records in product_list: 12277
+2025-10-27 04:24:18,552 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:24:18,552 - INFO - Records in product_list: 12277
+2025-10-27 04:24:21,293 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:24:21,293 - INFO - Records in product_list: 12277
+2025-10-27 04:24:23,640 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:24:23,640 - INFO - Records in product_list: 12277
+2025-10-27 04:24:25,911 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:24:25,911 - INFO - Records in product_list: 12277
+2025-10-27 04:24:28,179 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:24:28,180 - INFO - Records in product_list: 12277
+2025-10-27 04:24:30,466 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:24:30,466 - INFO - Records in product_list: 12277
+2025-10-27 04:24:32,822 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:24:32,822 - INFO - Records in product_list: 12277
+2025-10-27 04:24:35,096 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:24:35,096 - INFO - Records in product_list: 12277
+2025-10-27 04:24:37,364 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:24:37,364 - INFO - Records in product_list: 12277
+2025-10-27 04:24:39,637 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:24:39,637 - INFO - Records in product_list: 12277
+2025-10-27 04:24:41,911 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:24:41,911 - INFO - Records in product_list: 12277
+2025-10-27 04:24:44,195 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:24:44,195 - INFO - Records in product_list: 12277
+2025-10-27 04:24:46,471 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:24:46,471 - INFO - Records in product_list: 12277
+2025-10-27 04:24:48,755 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:24:48,755 - INFO - Records in product_list: 12277
+2025-10-27 04:24:51,044 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:24:51,044 - INFO - Records in product_list: 12277
+2025-10-27 04:24:53,329 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:24:53,329 - INFO - Records in product_list: 12277
+2025-10-27 04:24:55,628 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:24:55,628 - INFO - Records in product_list: 12277
+2025-10-27 04:24:57,985 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:24:57,985 - INFO - Records in product_list: 12277
+2025-10-27 04:25:00,279 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:25:00,280 - INFO - Records in product_list: 12277
+2025-10-27 04:25:02,545 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:25:02,545 - INFO - Records in product_list: 12277
+2025-10-27 04:25:04,873 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:25:04,873 - INFO - Records in product_list: 12277
+2025-10-27 04:25:07,155 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:25:07,155 - INFO - Records in product_list: 12277
+2025-10-27 04:25:09,433 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:25:09,433 - INFO - Records in product_list: 12277
+2025-10-27 04:25:11,710 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:25:11,710 - INFO - Records in product_list: 12277
+2025-10-27 04:25:14,051 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:25:14,051 - INFO - Records in product_list: 12277
+2025-10-27 04:25:16,317 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:25:16,317 - INFO - Records in product_list: 12277
+2025-10-27 04:25:18,600 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:25:18,600 - INFO - Records in product_list: 12277
+2025-10-27 04:25:20,859 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:25:20,859 - INFO - Records in product_list: 12277
+2025-10-27 04:25:23,159 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:25:23,159 - INFO - Records in product_list: 12277
+2025-10-27 04:25:25,445 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:25:25,445 - INFO - Records in product_list: 12277
+2025-10-27 04:25:27,710 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:25:27,710 - INFO - Records in product_list: 12277
+2025-10-27 04:25:29,979 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:25:29,979 - INFO - Records in product_list: 12277
+2025-10-27 04:25:32,238 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:25:32,238 - INFO - Records in product_list: 12277
+2025-10-27 04:25:34,642 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:25:34,642 - INFO - Records in product_list: 12277
+2025-10-27 04:25:36,927 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:25:36,927 - INFO - Records in product_list: 12277
+2025-10-27 04:25:39,200 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:25:39,200 - INFO - Records in product_list: 12277
+2025-10-27 04:25:41,477 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:25:41,477 - INFO - Records in product_list: 12277
+2025-10-27 04:25:43,758 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:25:43,758 - INFO - Records in product_list: 12277
+2025-10-27 04:25:46,027 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:25:46,027 - INFO - Records in product_list: 12277
+2025-10-27 04:25:48,290 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:25:48,290 - INFO - Records in product_list: 12277
+2025-10-27 04:25:50,577 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:25:50,577 - INFO - Records in product_list: 12277
+2025-10-27 04:25:52,860 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:25:52,860 - INFO - Records in product_list: 12277
+2025-10-27 04:25:55,123 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:25:55,123 - INFO - Records in product_list: 12277
+2025-10-27 04:25:57,415 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:25:57,415 - INFO - Records in product_list: 12277
+2025-10-27 04:25:59,697 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:25:59,697 - INFO - Records in product_list: 12277
+2025-10-27 04:26:01,990 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:26:01,990 - INFO - Records in product_list: 12277
+2025-10-27 04:26:04,282 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:26:04,282 - INFO - Records in product_list: 12277
+2025-10-27 04:26:06,587 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:26:06,587 - INFO - Records in product_list: 12277
+2025-10-27 04:26:08,851 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:26:08,851 - INFO - Records in product_list: 12277
+2025-10-27 04:26:11,189 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:26:11,189 - INFO - Records in product_list: 12277
+2025-10-27 04:26:13,476 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:26:13,477 - INFO - Records in product_list: 12277
+2025-10-27 04:26:15,812 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:26:15,812 - INFO - Records in product_list: 12277
+2025-10-27 04:26:18,088 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:26:18,088 - INFO - Records in product_list: 12277
+2025-10-27 04:26:20,405 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:26:20,405 - INFO - Records in product_list: 12277
+2025-10-27 04:26:22,672 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:26:22,672 - INFO - Records in product_list: 12277
+2025-10-27 04:26:24,947 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:26:24,947 - INFO - Records in product_list: 12277
+2025-10-27 04:26:27,225 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:26:27,225 - INFO - Records in product_list: 12277
+2025-10-27 04:26:29,504 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:26:29,504 - INFO - Records in product_list: 12277
+2025-10-27 04:26:31,770 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:26:31,770 - INFO - Records in product_list: 12277
+2025-10-27 04:26:34,038 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:26:34,038 - INFO - Records in product_list: 12277
+2025-10-27 04:26:36,328 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:26:36,328 - INFO - Records in product_list: 12277
+2025-10-27 04:26:38,607 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:26:38,607 - INFO - Records in product_list: 12277
+2025-10-27 04:26:40,889 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:26:40,889 - INFO - Records in product_list: 12277
+2025-10-27 04:26:43,168 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:26:43,169 - INFO - Records in product_list: 12277
+2025-10-27 04:26:45,450 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:26:45,450 - INFO - Records in product_list: 12277
+2025-10-27 04:26:47,732 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:26:47,732 - INFO - Records in product_list: 12277
+2025-10-27 04:26:50,024 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:26:50,024 - INFO - Records in product_list: 12277
+2025-10-27 04:26:52,325 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:26:52,325 - INFO - Records in product_list: 12277
+2025-10-27 04:26:54,612 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:26:54,612 - INFO - Records in product_list: 12277
+2025-10-27 04:26:56,910 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:26:56,910 - INFO - Records in product_list: 12277
+2025-10-27 04:26:59,194 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:26:59,194 - INFO - Records in product_list: 12277
+2025-10-27 04:27:01,572 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:27:01,573 - INFO - Records in product_list: 12277
+2025-10-27 04:27:03,855 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:27:03,856 - INFO - Records in product_list: 12277
+2025-10-27 04:27:06,151 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:27:06,151 - INFO - Records in product_list: 12277
+2025-10-27 04:27:08,444 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:27:08,444 - INFO - Records in product_list: 12277
+2025-10-27 04:27:10,732 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:27:10,732 - INFO - Records in product_list: 12277
+2025-10-27 04:27:13,024 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:27:13,024 - INFO - Records in product_list: 12277
+2025-10-27 04:27:15,299 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:27:15,300 - INFO - Records in product_list: 12277
+2025-10-27 04:27:17,571 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:27:17,571 - INFO - Records in product_list: 12277
+2025-10-27 04:27:19,839 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:27:19,839 - INFO - Records in product_list: 12277
+2025-10-27 04:27:22,108 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:27:22,108 - INFO - Records in product_list: 12277
+2025-10-27 04:27:24,381 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:27:24,381 - INFO - Records in product_list: 12277
+2025-10-27 04:27:26,671 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:27:26,671 - INFO - Records in product_list: 12277
+2025-10-27 04:27:28,947 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:27:28,947 - INFO - Records in product_list: 12277
+2025-10-27 04:27:31,222 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:27:31,222 - INFO - Records in product_list: 12277
+2025-10-27 04:27:33,508 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:27:33,508 - INFO - Records in product_list: 12277
+2025-10-27 04:27:35,791 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:27:35,791 - INFO - Records in product_list: 12277
+2025-10-27 04:27:38,140 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:27:38,140 - INFO - Records in product_list: 12277
+2025-10-27 04:27:40,416 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:27:40,416 - INFO - Records in product_list: 12277
+2025-10-27 04:27:42,710 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:27:42,710 - INFO - Records in product_list: 12277
+2025-10-27 04:27:44,985 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:27:44,985 - INFO - Records in product_list: 12277
+2025-10-27 04:27:47,268 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:27:47,268 - INFO - Records in product_list: 12277
+2025-10-27 04:27:49,597 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:27:49,597 - INFO - Records in product_list: 12277
+2025-10-27 04:27:51,897 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:27:51,897 - INFO - Records in product_list: 12277
+2025-10-27 04:27:54,167 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:27:54,167 - INFO - Records in product_list: 12277
+2025-10-27 04:27:56,454 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:27:56,454 - INFO - Records in product_list: 12277
+2025-10-27 04:27:58,734 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:27:58,734 - INFO - Records in product_list: 12277
+2025-10-27 04:28:01,009 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:28:01,009 - INFO - Records in product_list: 12277
+2025-10-27 04:28:03,291 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:28:03,291 - INFO - Records in product_list: 12277
+2025-10-27 04:28:05,574 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:28:05,574 - INFO - Records in product_list: 12277
+2025-10-27 04:28:07,844 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:28:07,844 - INFO - Records in product_list: 12277
+2025-10-27 04:28:10,110 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:28:10,110 - INFO - Records in product_list: 12277
+2025-10-27 04:28:12,378 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:28:12,378 - INFO - Records in product_list: 12277
+2025-10-27 04:28:14,703 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:28:14,703 - INFO - Records in product_list: 12277
+2025-10-27 04:28:16,971 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:28:16,971 - INFO - Records in product_list: 12277
+2025-10-27 04:28:19,258 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:28:19,258 - INFO - Records in product_list: 12277
+2025-10-27 04:28:21,523 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:28:21,523 - INFO - Records in product_list: 12277
+2025-10-27 04:28:23,811 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:28:23,811 - INFO - Records in product_list: 12277
+2025-10-27 04:28:26,105 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:28:26,105 - INFO - Records in product_list: 12277
+2025-10-27 04:28:28,401 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:28:28,401 - INFO - Records in product_list: 12277
+2025-10-27 04:28:30,675 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:28:30,675 - INFO - Records in product_list: 12277
+2025-10-27 04:28:32,962 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:28:32,963 - INFO - Records in product_list: 12277
+2025-10-27 04:28:35,225 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:28:35,225 - INFO - Records in product_list: 12277
+2025-10-27 04:28:37,508 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:28:37,508 - INFO - Records in product_list: 12277
+2025-10-27 04:28:39,783 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:28:39,783 - INFO - Records in product_list: 12277
+2025-10-27 04:28:42,048 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:28:42,048 - INFO - Records in product_list: 12277
+2025-10-27 04:28:44,337 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:28:44,337 - INFO - Records in product_list: 12277
+2025-10-27 04:28:46,618 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:28:46,618 - INFO - Records in product_list: 12277
+2025-10-27 04:28:48,886 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:28:48,886 - INFO - Records in product_list: 12277
+2025-10-27 04:28:51,162 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:28:51,162 - INFO - Records in product_list: 12277
+2025-10-27 04:28:53,447 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:28:53,447 - INFO - Records in product_list: 12277
+2025-10-27 04:28:55,732 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:28:55,732 - INFO - Records in product_list: 12277
+2025-10-27 04:28:58,060 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:28:58,060 - INFO - Records in product_list: 12277
+2025-10-27 04:29:00,327 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:29:00,327 - INFO - Records in product_list: 12277
+2025-10-27 04:29:02,619 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:29:02,619 - INFO - Records in product_list: 12277
+2025-10-27 04:29:04,904 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:29:04,904 - INFO - Records in product_list: 12277
+2025-10-27 04:29:07,169 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:29:07,169 - INFO - Records in product_list: 12277
+2025-10-27 04:29:09,450 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:29:09,450 - INFO - Records in product_list: 12277
+2025-10-27 04:29:11,738 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:29:11,738 - INFO - Records in product_list: 12277
+2025-10-27 04:29:14,007 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:29:14,007 - INFO - Records in product_list: 12277
+2025-10-27 04:29:16,282 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:29:16,282 - INFO - Records in product_list: 12277
+2025-10-27 04:29:18,555 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:29:18,555 - INFO - Records in product_list: 12277
+2025-10-27 04:29:20,848 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:29:20,848 - INFO - Records in product_list: 12277
+2025-10-27 04:29:23,115 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:29:23,115 - INFO - Records in product_list: 12277
+2025-10-27 04:29:25,398 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:29:25,398 - INFO - Records in product_list: 12277
+2025-10-27 04:29:27,672 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:29:27,672 - INFO - Records in product_list: 12277
+2025-10-27 04:29:30,037 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:29:30,037 - INFO - Records in product_list: 12277
+2025-10-27 04:29:32,310 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:29:32,310 - INFO - Records in product_list: 12277
+2025-10-27 04:29:34,593 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:29:34,593 - INFO - Records in product_list: 12277
+2025-10-27 04:29:36,867 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:29:36,867 - INFO - Records in product_list: 12277
+2025-10-27 04:29:39,126 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:29:39,126 - INFO - Records in product_list: 12277
+2025-10-27 04:29:41,464 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:29:41,464 - INFO - Records in product_list: 12277
+2025-10-27 04:29:43,738 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:29:43,738 - INFO - Records in product_list: 12277
+2025-10-27 04:29:46,142 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:29:46,142 - INFO - Records in product_list: 12277
+2025-10-27 04:29:48,409 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:29:48,409 - INFO - Records in product_list: 12277
+2025-10-27 04:29:50,714 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:29:50,714 - INFO - Records in product_list: 12277
+2025-10-27 04:29:53,087 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:29:53,087 - INFO - Records in product_list: 12277
+2025-10-27 04:29:55,360 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:29:55,360 - INFO - Records in product_list: 12277
+2025-10-27 04:29:57,629 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:29:57,629 - INFO - Records in product_list: 12277
+2025-10-27 04:29:59,893 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:29:59,893 - INFO - Records in product_list: 12277
+2025-10-27 04:30:02,172 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:30:02,172 - INFO - Records in product_list: 12277
+2025-10-27 04:30:04,505 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:30:04,505 - INFO - Records in product_list: 12277
+2025-10-27 04:30:07,322 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:30:07,322 - INFO - Records in product_list: 12277
+2025-10-27 04:30:09,610 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:30:09,610 - INFO - Records in product_list: 12277
+2025-10-27 04:30:11,954 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:30:11,954 - INFO - Records in product_list: 12277
+2025-10-27 04:30:14,215 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:30:14,215 - INFO - Records in product_list: 12277
+2025-10-27 04:30:16,520 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:30:16,520 - INFO - Records in product_list: 12277
+2025-10-27 04:30:18,872 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:30:18,872 - INFO - Records in product_list: 12277
+2025-10-27 04:30:21,151 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:30:21,151 - INFO - Records in product_list: 12277
+2025-10-27 04:30:23,431 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:30:23,431 - INFO - Records in product_list: 12277
+2025-10-27 04:30:25,696 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:30:25,696 - INFO - Records in product_list: 12277
+2025-10-27 04:30:27,969 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:30:27,969 - INFO - Records in product_list: 12277
+2025-10-27 04:30:30,246 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:30:30,246 - INFO - Records in product_list: 12277
+2025-10-27 04:30:32,513 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:30:32,514 - INFO - Records in product_list: 12277
+2025-10-27 04:30:34,787 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:30:34,787 - INFO - Records in product_list: 12277
+2025-10-27 04:30:37,065 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:30:37,065 - INFO - Records in product_list: 12277
+2025-10-27 04:30:39,378 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:30:39,378 - INFO - Records in product_list: 12277
+2025-10-27 04:30:41,650 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:30:41,650 - INFO - Records in product_list: 12277
+2025-10-27 04:30:43,922 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:30:43,922 - INFO - Records in product_list: 12277
+2025-10-27 04:30:46,219 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:30:46,219 - INFO - Records in product_list: 12277
+2025-10-27 04:30:48,513 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:30:48,513 - INFO - Records in product_list: 12277
+2025-10-27 04:30:50,849 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:30:50,850 - INFO - Records in product_list: 12277
+2025-10-27 04:30:53,227 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:30:53,227 - INFO - Records in product_list: 12277
+2025-10-27 04:30:55,530 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:30:55,530 - INFO - Records in product_list: 12277
+2025-10-27 04:30:57,811 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:30:57,811 - INFO - Records in product_list: 12277
+2025-10-27 04:31:00,079 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:31:00,079 - INFO - Records in product_list: 12277
+2025-10-27 04:31:02,339 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:31:02,339 - INFO - Records in product_list: 12277
+2025-10-27 04:31:04,616 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:31:04,616 - INFO - Records in product_list: 12277
+2025-10-27 04:31:06,886 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:31:06,886 - INFO - Records in product_list: 12277
+2025-10-27 04:31:09,164 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:31:09,164 - INFO - Records in product_list: 12277
+2025-10-27 04:31:11,439 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:31:11,439 - INFO - Records in product_list: 12277
+2025-10-27 04:31:13,719 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:31:13,719 - INFO - Records in product_list: 12277
+2025-10-27 04:31:15,990 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:31:15,990 - INFO - Records in product_list: 12277
+2025-10-27 04:31:18,259 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:31:18,259 - INFO - Records in product_list: 12277
+2025-10-27 04:31:20,669 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:31:20,669 - INFO - Records in product_list: 12277
+2025-10-27 04:31:22,978 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:31:22,978 - INFO - Records in product_list: 12277
+2025-10-27 04:31:25,253 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:31:25,253 - INFO - Records in product_list: 12277
+2025-10-27 04:31:27,524 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:31:27,525 - INFO - Records in product_list: 12277
+2025-10-27 04:31:29,797 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:31:29,797 - INFO - Records in product_list: 12277
+2025-10-27 04:31:32,078 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:31:32,078 - INFO - Records in product_list: 12277
+2025-10-27 04:31:34,344 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:31:34,344 - INFO - Records in product_list: 12277
+2025-10-27 04:31:36,625 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:31:36,625 - INFO - Records in product_list: 12277
+2025-10-27 04:31:38,979 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:31:38,979 - INFO - Records in product_list: 12277
+2025-10-27 04:31:41,256 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:31:41,256 - INFO - Records in product_list: 12277
+2025-10-27 04:31:43,516 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:31:43,516 - INFO - Records in product_list: 12277
+2025-10-27 04:31:45,778 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:31:45,778 - INFO - Records in product_list: 12277
+2025-10-27 04:31:48,110 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:31:48,110 - INFO - Records in product_list: 12277
+2025-10-27 04:31:50,421 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:31:50,421 - INFO - Records in product_list: 12277
+2025-10-27 04:31:52,691 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:31:52,691 - INFO - Records in product_list: 12277
+2025-10-27 04:31:54,978 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:31:54,978 - INFO - Records in product_list: 12277
+2025-10-27 04:31:57,337 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:31:57,337 - INFO - Records in product_list: 12277
+2025-10-27 04:31:59,601 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:31:59,601 - INFO - Records in product_list: 12277
+2025-10-27 04:32:01,887 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:32:01,887 - INFO - Records in product_list: 12277
+2025-10-27 04:32:04,183 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:32:04,183 - INFO - Records in product_list: 12277
+2025-10-27 04:32:06,465 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:32:06,465 - INFO - Records in product_list: 12277
+2025-10-27 04:32:08,734 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:32:08,734 - INFO - Records in product_list: 12277
+2025-10-27 04:32:11,008 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:32:11,008 - INFO - Records in product_list: 12277
+2025-10-27 04:32:13,319 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:32:13,319 - INFO - Records in product_list: 12277
+2025-10-27 04:32:15,584 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:32:15,584 - INFO - Records in product_list: 12277
+2025-10-27 04:32:17,864 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:32:17,864 - INFO - Records in product_list: 12277
+2025-10-27 04:32:20,144 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:32:20,144 - INFO - Records in product_list: 12277
+2025-10-27 04:32:22,412 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:32:22,413 - INFO - Records in product_list: 12277
+2025-10-27 04:32:24,702 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:32:24,702 - INFO - Records in product_list: 12277
+2025-10-27 04:32:26,995 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:32:26,995 - INFO - Records in product_list: 12277
+2025-10-27 04:32:29,268 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:32:29,268 - INFO - Records in product_list: 12277
+2025-10-27 04:32:31,542 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:32:31,542 - INFO - Records in product_list: 12277
+2025-10-27 04:32:33,880 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:32:33,880 - INFO - Records in product_list: 12277
+2025-10-27 04:32:36,145 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:32:36,145 - INFO - Records in product_list: 12277
+2025-10-27 04:32:38,424 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:32:38,424 - INFO - Records in product_list: 12277
+2025-10-27 04:32:40,690 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:32:40,690 - INFO - Records in product_list: 12277
+2025-10-27 04:32:42,971 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:32:42,971 - INFO - Records in product_list: 12277
+2025-10-27 04:32:45,239 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:32:45,239 - INFO - Records in product_list: 12277
+2025-10-27 04:32:47,507 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:32:47,507 - INFO - Records in product_list: 12277
+2025-10-27 04:32:49,876 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:32:49,876 - INFO - Records in product_list: 12277
+2025-10-27 04:32:52,159 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:32:52,159 - INFO - Records in product_list: 12277
+2025-10-27 04:32:54,582 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:32:54,583 - INFO - Records in product_list: 12277
+2025-10-27 04:32:56,857 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:32:56,857 - INFO - Records in product_list: 12277
+2025-10-27 04:32:59,268 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:32:59,268 - INFO - Records in product_list: 12277
+2025-10-27 04:33:01,684 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:33:01,684 - INFO - Records in product_list: 12277
+2025-10-27 04:33:03,977 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:33:03,977 - INFO - Records in product_list: 12277
+2025-10-27 04:33:06,243 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:33:06,243 - INFO - Records in product_list: 12277
+2025-10-27 04:33:08,672 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:33:08,672 - INFO - Records in product_list: 12277
+2025-10-27 04:33:10,950 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:33:10,950 - INFO - Records in product_list: 12277
+2025-10-27 04:33:13,221 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:33:13,221 - INFO - Records in product_list: 12277
+2025-10-27 04:33:15,568 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:33:15,568 - INFO - Records in product_list: 12277
+2025-10-27 04:33:17,846 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:33:17,846 - INFO - Records in product_list: 12277
+2025-10-27 04:33:20,292 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:33:20,292 - INFO - Records in product_list: 12277
+2025-10-27 04:33:22,582 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:33:22,582 - INFO - Records in product_list: 12277
+2025-10-27 04:33:24,846 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:33:24,846 - INFO - Records in product_list: 12277
+2025-10-27 04:33:27,141 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:33:27,141 - INFO - Records in product_list: 12277
+2025-10-27 04:33:29,417 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:33:29,417 - INFO - Records in product_list: 12277
+2025-10-27 04:33:31,702 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:33:31,702 - INFO - Records in product_list: 12277
+2025-10-27 04:33:33,984 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:33:33,984 - INFO - Records in product_list: 12277
+2025-10-27 04:33:36,251 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:33:36,251 - INFO - Records in product_list: 12277
+2025-10-27 04:33:38,534 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:33:38,534 - INFO - Records in product_list: 12277
+2025-10-27 04:33:40,814 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:33:40,814 - INFO - Records in product_list: 12277
+2025-10-27 04:33:43,093 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:33:43,093 - INFO - Records in product_list: 12277
+2025-10-27 04:33:45,347 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:33:45,347 - INFO - Records in product_list: 12277
+2025-10-27 04:33:47,654 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:33:47,654 - INFO - Records in product_list: 12277
+2025-10-27 04:33:50,051 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:33:50,051 - INFO - Records in product_list: 12277
+2025-10-27 04:33:52,315 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:33:52,315 - INFO - Records in product_list: 12277
+2025-10-27 04:33:54,584 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:33:54,584 - INFO - Records in product_list: 12277
+2025-10-27 04:33:56,870 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:33:56,870 - INFO - Records in product_list: 12277
+2025-10-27 04:33:59,146 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:33:59,146 - INFO - Records in product_list: 12277
+2025-10-27 04:34:01,535 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:34:01,535 - INFO - Records in product_list: 12277
+2025-10-27 04:34:03,802 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:34:03,802 - INFO - Records in product_list: 12277
+2025-10-27 04:34:06,099 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:34:06,099 - INFO - Records in product_list: 12277
+2025-10-27 04:34:08,376 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:34:08,376 - INFO - Records in product_list: 12277
+2025-10-27 04:34:11,008 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:34:11,008 - INFO - Records in product_list: 12277
+2025-10-27 04:34:13,288 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:34:13,288 - INFO - Records in product_list: 12277
+2025-10-27 04:34:15,664 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:34:15,664 - INFO - Records in product_list: 12277
+2025-10-27 04:34:17,952 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:34:17,952 - INFO - Records in product_list: 12277
+2025-10-27 04:34:20,218 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:34:20,218 - INFO - Records in product_list: 12277
+2025-10-27 04:34:22,484 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:34:22,484 - INFO - Records in product_list: 12277
+2025-10-27 04:34:24,753 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:34:24,753 - INFO - Records in product_list: 12277
+2025-10-27 04:34:27,040 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:34:27,040 - INFO - Records in product_list: 12277
+2025-10-27 04:34:29,311 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:34:29,312 - INFO - Records in product_list: 12277
+2025-10-27 04:34:31,585 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:34:31,585 - INFO - Records in product_list: 12277
+2025-10-27 04:34:33,881 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:34:33,881 - INFO - Records in product_list: 12277
+2025-10-27 04:34:36,294 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:34:36,295 - INFO - Records in product_list: 12277
+2025-10-27 04:34:38,570 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:34:38,570 - INFO - Records in product_list: 12277
+2025-10-27 04:34:40,846 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:34:40,846 - INFO - Records in product_list: 12277
+2025-10-27 04:34:43,190 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:34:43,190 - INFO - Records in product_list: 12277
+2025-10-27 04:34:45,477 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:34:45,477 - INFO - Records in product_list: 12277
+2025-10-27 04:34:47,739 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:34:47,739 - INFO - Records in product_list: 12277
+2025-10-27 04:34:50,003 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:34:50,003 - INFO - Records in product_list: 12277
+2025-10-27 04:34:52,445 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:34:52,445 - INFO - Records in product_list: 12277
+2025-10-27 04:34:54,720 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:34:54,720 - INFO - Records in product_list: 12277
+2025-10-27 04:34:57,009 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:34:57,009 - INFO - Records in product_list: 12277
+2025-10-27 04:34:59,289 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:34:59,289 - INFO - Records in product_list: 12277
+2025-10-27 04:35:01,577 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:35:01,577 - INFO - Records in product_list: 12277
+2025-10-27 04:35:03,848 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:35:03,848 - INFO - Records in product_list: 12277
+2025-10-27 04:35:06,127 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:35:06,127 - INFO - Records in product_list: 12277
+2025-10-27 04:35:08,397 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:35:08,397 - INFO - Records in product_list: 12277
+2025-10-27 04:35:10,781 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:35:10,781 - INFO - Records in product_list: 12277
+2025-10-27 04:35:13,065 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:35:13,065 - INFO - Records in product_list: 12277
+2025-10-27 04:35:15,349 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:35:15,349 - INFO - Records in product_list: 12277
+2025-10-27 04:35:17,619 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:35:17,619 - INFO - Records in product_list: 12277
+2025-10-27 04:35:20,046 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:35:20,047 - INFO - Records in product_list: 12277
+2025-10-27 04:35:22,640 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:35:22,640 - INFO - Records in product_list: 12277
+2025-10-27 04:35:24,933 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:35:24,933 - INFO - Records in product_list: 12277
+2025-10-27 04:35:27,211 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:35:27,211 - INFO - Records in product_list: 12277
+2025-10-27 04:35:29,710 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:35:29,710 - INFO - Records in product_list: 12277
+2025-10-27 04:35:32,021 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:35:32,021 - INFO - Records in product_list: 12277
+2025-10-27 04:35:34,386 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:35:34,386 - INFO - Records in product_list: 12277
+2025-10-27 04:35:36,651 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:35:36,651 - INFO - Records in product_list: 12277
+2025-10-27 04:35:38,911 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:35:38,911 - INFO - Records in product_list: 12277
+2025-10-27 04:35:41,198 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:35:41,198 - INFO - Records in product_list: 12277
+2025-10-27 04:35:43,475 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:35:43,476 - INFO - Records in product_list: 12277
+2025-10-27 04:35:45,738 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:35:45,738 - INFO - Records in product_list: 12277
+2025-10-27 04:35:48,034 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:35:48,034 - INFO - Records in product_list: 12277
+2025-10-27 04:35:50,319 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:35:50,319 - INFO - Records in product_list: 12277
+2025-10-27 04:35:52,589 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:35:52,589 - INFO - Records in product_list: 12277
+2025-10-27 04:35:54,867 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:35:54,867 - INFO - Records in product_list: 12277
+2025-10-27 04:35:57,140 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:35:57,140 - INFO - Records in product_list: 12277
+2025-10-27 04:35:59,527 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:35:59,528 - INFO - Records in product_list: 12277
+2025-10-27 04:36:01,808 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:36:01,809 - INFO - Records in product_list: 12277
+2025-10-27 04:36:04,084 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:36:04,084 - INFO - Records in product_list: 12277
+2025-10-27 04:36:06,370 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:36:06,370 - INFO - Records in product_list: 12277
+2025-10-27 04:36:08,651 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:36:08,651 - INFO - Records in product_list: 12277
+2025-10-27 04:36:10,922 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:36:10,922 - INFO - Records in product_list: 12277
+2025-10-27 04:36:13,198 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:36:13,198 - INFO - Records in product_list: 12277
+2025-10-27 04:36:15,475 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:36:15,475 - INFO - Records in product_list: 12277
+2025-10-27 04:36:17,742 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:36:17,742 - INFO - Records in product_list: 12277
+2025-10-27 04:36:20,024 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:36:20,025 - INFO - Records in product_list: 12277
+2025-10-27 04:36:22,301 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:36:22,301 - INFO - Records in product_list: 12277
+2025-10-27 04:36:24,569 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:36:24,569 - INFO - Records in product_list: 12277
+2025-10-27 04:36:26,856 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:36:26,856 - INFO - Records in product_list: 12277
+2025-10-27 04:36:29,129 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:36:29,129 - INFO - Records in product_list: 12277
+2025-10-27 04:36:31,470 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:36:31,470 - INFO - Records in product_list: 12277
+2025-10-27 04:36:33,750 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:36:33,750 - INFO - Records in product_list: 12277
+2025-10-27 04:36:36,014 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:36:36,014 - INFO - Records in product_list: 12277
+2025-10-27 04:36:38,527 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:36:38,528 - INFO - Records in product_list: 12277
+2025-10-27 04:36:40,801 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:36:40,801 - INFO - Records in product_list: 12277
+2025-10-27 04:36:43,087 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:36:43,087 - INFO - Records in product_list: 12277
+2025-10-27 04:36:45,353 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:36:45,353 - INFO - Records in product_list: 12277
+2025-10-27 04:36:47,636 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:36:47,636 - INFO - Records in product_list: 12277
+2025-10-27 04:36:50,012 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:36:50,012 - INFO - Records in product_list: 12277
+2025-10-27 04:36:52,288 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:36:52,288 - INFO - Records in product_list: 12277
+2025-10-27 04:36:54,584 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:36:54,584 - INFO - Records in product_list: 12277
+2025-10-27 04:36:56,972 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:36:56,972 - INFO - Records in product_list: 12277
+2025-10-27 04:36:59,241 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:36:59,241 - INFO - Records in product_list: 12277
+2025-10-27 04:37:01,516 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:37:01,516 - INFO - Records in product_list: 12277
+2025-10-27 04:37:03,980 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:37:03,981 - INFO - Records in product_list: 12277
+2025-10-27 04:37:06,250 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:37:06,250 - INFO - Records in product_list: 12277
+2025-10-27 04:37:08,522 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:37:08,522 - INFO - Records in product_list: 12277
+2025-10-27 04:37:10,817 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:37:10,817 - INFO - Records in product_list: 12277
+2025-10-27 04:37:13,078 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:37:13,078 - INFO - Records in product_list: 12277
+2025-10-27 04:37:15,358 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:37:15,358 - INFO - Records in product_list: 12277
+2025-10-27 04:37:17,631 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:37:17,631 - INFO - Records in product_list: 12277
+2025-10-27 04:37:19,902 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:37:19,902 - INFO - Records in product_list: 12277
+2025-10-27 04:37:22,317 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:37:22,317 - INFO - Records in product_list: 12277
+2025-10-27 04:37:24,591 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:37:24,591 - INFO - Records in product_list: 12277
+2025-10-27 04:37:26,862 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:37:26,862 - INFO - Records in product_list: 12277
+2025-10-27 04:37:29,134 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:37:29,134 - INFO - Records in product_list: 12277
+2025-10-27 04:37:31,408 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:37:31,408 - INFO - Records in product_list: 12277
+2025-10-27 04:37:33,680 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:37:33,680 - INFO - Records in product_list: 12277
+2025-10-27 04:37:35,953 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:37:35,953 - INFO - Records in product_list: 12277
+2025-10-27 04:37:38,231 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:37:38,231 - INFO - Records in product_list: 12277
+2025-10-27 04:37:40,514 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:37:40,514 - INFO - Records in product_list: 12277
+2025-10-27 04:37:42,812 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:37:42,812 - INFO - Records in product_list: 12277
+2025-10-27 04:37:45,268 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:37:45,268 - INFO - Records in product_list: 12277
+2025-10-27 04:37:47,708 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:37:47,709 - INFO - Records in product_list: 12277
+2025-10-27 04:37:49,982 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:37:49,983 - INFO - Records in product_list: 12277
+2025-10-27 04:37:52,261 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:37:52,261 - INFO - Records in product_list: 12277
+2025-10-27 04:37:54,540 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:37:54,540 - INFO - Records in product_list: 12277
+2025-10-27 04:37:56,835 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:37:56,836 - INFO - Records in product_list: 12277
+2025-10-27 04:37:59,124 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:37:59,124 - INFO - Records in product_list: 12277
+2025-10-27 04:38:01,400 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:38:01,400 - INFO - Records in product_list: 12277
+2025-10-27 04:38:03,676 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:38:03,676 - INFO - Records in product_list: 12277
+2025-10-27 04:38:05,950 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:38:05,950 - INFO - Records in product_list: 12277
+2025-10-27 04:38:08,234 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:38:08,234 - INFO - Records in product_list: 12277
+2025-10-27 04:38:10,514 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:38:10,515 - INFO - Records in product_list: 12277
+2025-10-27 04:38:12,785 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:38:12,785 - INFO - Records in product_list: 12277
+2025-10-27 04:38:15,052 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:38:15,052 - INFO - Records in product_list: 12277
+2025-10-27 04:38:17,332 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:38:17,332 - INFO - Records in product_list: 12277
+2025-10-27 04:38:19,601 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:38:19,601 - INFO - Records in product_list: 12277
+2025-10-27 04:38:21,923 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:38:21,923 - INFO - Records in product_list: 12277
+2025-10-27 04:38:24,217 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:38:24,217 - INFO - Records in product_list: 12277
+2025-10-27 04:38:26,496 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:38:26,496 - INFO - Records in product_list: 12277
+2025-10-27 04:38:28,790 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:38:28,790 - INFO - Records in product_list: 12277
+2025-10-27 04:38:31,069 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:38:31,070 - INFO - Records in product_list: 12277
+2025-10-27 04:38:33,355 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:38:33,356 - INFO - Records in product_list: 12277
+2025-10-27 04:38:35,636 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:38:35,636 - INFO - Records in product_list: 12277
+2025-10-27 04:38:37,983 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:38:37,983 - INFO - Records in product_list: 12277
+2025-10-27 04:38:40,323 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:38:40,323 - INFO - Records in product_list: 12277
+2025-10-27 04:38:42,589 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:38:42,590 - INFO - Records in product_list: 12277
+2025-10-27 04:38:44,875 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:38:44,875 - INFO - Records in product_list: 12277
+2025-10-27 04:38:47,156 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:38:47,156 - INFO - Records in product_list: 12277
+2025-10-27 04:38:49,428 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:38:49,428 - INFO - Records in product_list: 12277
+2025-10-27 04:38:51,713 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:38:51,713 - INFO - Records in product_list: 12277
+2025-10-27 04:38:53,975 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:38:53,975 - INFO - Records in product_list: 12277
+2025-10-27 04:38:56,244 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:38:56,244 - INFO - Records in product_list: 12277
+2025-10-27 04:38:58,517 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:38:58,517 - INFO - Records in product_list: 12277
+2025-10-27 04:39:00,792 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:39:00,792 - INFO - Records in product_list: 12277
+2025-10-27 04:39:03,084 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:39:03,084 - INFO - Records in product_list: 12277
+2025-10-27 04:39:05,347 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:39:05,347 - INFO - Records in product_list: 12277
+2025-10-27 04:39:07,667 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:39:07,668 - INFO - Records in product_list: 12277
+2025-10-27 04:39:10,010 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:39:10,010 - INFO - Records in product_list: 12277
+2025-10-27 04:39:12,277 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:39:12,277 - INFO - Records in product_list: 12277
+2025-10-27 04:39:14,562 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:39:14,562 - INFO - Records in product_list: 12277
+2025-10-27 04:39:16,831 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:39:16,831 - INFO - Records in product_list: 12277
+2025-10-27 04:39:19,127 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:39:19,127 - INFO - Records in product_list: 12277
+2025-10-27 04:39:21,421 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:39:21,421 - INFO - Records in product_list: 12277
+2025-10-27 04:39:23,705 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:39:23,705 - INFO - Records in product_list: 12277
+2025-10-27 04:39:25,989 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:39:25,989 - INFO - Records in product_list: 12277
+2025-10-27 04:39:28,250 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:39:28,250 - INFO - Records in product_list: 12277
+2025-10-27 04:39:30,587 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:39:30,588 - INFO - Records in product_list: 12277
+2025-10-27 04:39:32,936 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:39:32,936 - INFO - Records in product_list: 12277
+2025-10-27 04:39:35,199 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:39:35,199 - INFO - Records in product_list: 12277
+2025-10-27 04:39:37,494 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:39:37,495 - INFO - Records in product_list: 12277
+2025-10-27 04:39:39,776 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:39:39,776 - INFO - Records in product_list: 12277
+2025-10-27 04:39:42,053 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:39:42,054 - INFO - Records in product_list: 12277
+2025-10-27 04:39:44,325 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:39:44,325 - INFO - Records in product_list: 12277
+2025-10-27 04:39:46,594 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:39:46,595 - INFO - Records in product_list: 12277
+2025-10-27 04:39:48,944 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:39:48,945 - INFO - Records in product_list: 12277
+2025-10-27 04:39:51,319 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:39:51,319 - INFO - Records in product_list: 12277
+2025-10-27 04:39:53,599 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:39:53,599 - INFO - Records in product_list: 12277
+2025-10-27 04:39:55,970 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:39:55,970 - INFO - Records in product_list: 12277
+2025-10-27 04:39:58,243 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:39:58,243 - INFO - Records in product_list: 12277
+2025-10-27 04:40:00,512 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:40:00,512 - INFO - Records in product_list: 12277
+2025-10-27 04:40:02,775 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:40:02,775 - INFO - Records in product_list: 12277
+2025-10-27 04:40:05,069 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:40:05,069 - INFO - Records in product_list: 12277
+2025-10-27 04:40:07,333 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:40:07,333 - INFO - Records in product_list: 12277
+2025-10-27 04:40:09,621 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:40:09,622 - INFO - Records in product_list: 12277
+2025-10-27 04:40:11,915 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:40:11,915 - INFO - Records in product_list: 12277
+2025-10-27 04:40:14,196 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:40:14,196 - INFO - Records in product_list: 12277
+2025-10-27 04:40:16,472 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:40:16,472 - INFO - Records in product_list: 12277
+2025-10-27 04:40:18,747 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:40:18,747 - INFO - Records in product_list: 12277
+2025-10-27 04:40:21,014 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:40:21,014 - INFO - Records in product_list: 12277
+2025-10-27 04:40:23,310 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:40:23,310 - INFO - Records in product_list: 12277
+2025-10-27 04:40:25,588 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:40:25,588 - INFO - Records in product_list: 12277
+2025-10-27 04:40:27,846 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:40:27,846 - INFO - Records in product_list: 12277
+2025-10-27 04:40:30,146 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:40:30,146 - INFO - Records in product_list: 12277
+2025-10-27 04:40:32,413 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:40:32,413 - INFO - Records in product_list: 12277
+2025-10-27 04:40:34,697 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:40:34,697 - INFO - Records in product_list: 12277
+2025-10-27 04:40:36,971 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:40:36,972 - INFO - Records in product_list: 12277
+2025-10-27 04:40:39,239 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:40:39,239 - INFO - Records in product_list: 12277
+2025-10-27 04:40:41,539 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:40:41,540 - INFO - Records in product_list: 12277
+2025-10-27 04:40:43,827 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:40:43,827 - INFO - Records in product_list: 12277
+2025-10-27 04:40:46,203 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:40:46,203 - INFO - Records in product_list: 12277
+2025-10-27 04:40:48,473 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:40:48,473 - INFO - Records in product_list: 12277
+2025-10-27 04:40:50,881 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:40:50,882 - INFO - Records in product_list: 12277
+2025-10-27 04:40:53,209 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:40:53,209 - INFO - Records in product_list: 12277
+2025-10-27 04:40:55,503 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:40:55,504 - INFO - Records in product_list: 12277
+2025-10-27 04:40:57,770 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:40:57,770 - INFO - Records in product_list: 12277
+2025-10-27 04:41:00,062 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:41:00,062 - INFO - Records in product_list: 12277
+2025-10-27 04:41:02,432 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:41:02,432 - INFO - Records in product_list: 12277
+2025-10-27 04:41:04,697 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:41:04,697 - INFO - Records in product_list: 12277
+2025-10-27 04:41:07,008 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:41:07,008 - INFO - Records in product_list: 12277
+2025-10-27 04:41:09,279 - INFO - Completed: 12277 / To go: 2
+2025-10-27 04:41:09,280 - INFO - Records in product_list: 12277
+2025-10-27 04:41:11,566 - WARNING - Error fetching data from https://shop.billa.at/api/product-discovery/products?sortBy=relevance&page=1000&pageSize=100: 500 Server Error: Internal Server Error for url: https://shop.billa.at/api/product-discovery/products?sortBy=relevance&page=1000&pageSize=100. Retrying in 3 seconds... (Attempt 1/5)
+2025-10-27 04:41:14,787 - WARNING - Error fetching data from https://shop.billa.at/api/product-discovery/products?sortBy=relevance&page=1000&pageSize=100: 500 Server Error: Internal Server Error for url: https://shop.billa.at/api/product-discovery/products?sortBy=relevance&page=1000&pageSize=100. Retrying in 3 seconds... (Attempt 2/5)
+2025-10-27 04:41:17,989 - WARNING - Error fetching data from https://shop.billa.at/api/product-discovery/products?sortBy=relevance&page=1000&pageSize=100: 500 Server Error: Internal Server Error for url: https://shop.billa.at/api/product-discovery/products?sortBy=relevance&page=1000&pageSize=100. Retrying in 3 seconds... (Attempt 3/5)
+2025-10-27 04:41:21,197 - WARNING - Error fetching data from https://shop.billa.at/api/product-discovery/products?sortBy=relevance&page=1000&pageSize=100: 500 Server Error: Internal Server Error for url: https://shop.billa.at/api/product-discovery/products?sortBy=relevance&page=1000&pageSize=100. Retrying in 3 seconds... (Attempt 4/5)
+2025-10-27 04:41:24,397 - WARNING - Error fetching data from https://shop.billa.at/api/product-discovery/products?sortBy=relevance&page=1000&pageSize=100: 500 Server Error: Internal Server Error for url: https://shop.billa.at/api/product-discovery/products?sortBy=relevance&page=1000&pageSize=100. Retrying in 3 seconds... (Attempt 5/5)
+2025-10-27 04:41:27,400 - ERROR - Failed to scrape page 1000 after 5 retries. Stopping scraping.
+2025-10-27 04:41:28,616 - INFO - Loading combined dataframe from local file: updated_combined_dataframe.csv
