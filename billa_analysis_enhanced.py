@@ -570,6 +570,13 @@ html_content = f"""<!DOCTYPE html>
                             </div>
                         </div>
                     `;
+                }} else {{
+                    statsHTML += `
+                        <div class="stat">
+                            <div class="stat-label">2 Years Ago</div>
+                            <div class="stat-value" style="color: #999;">N/A</div>
+                        </div>
+                    `;
                 }}
                 
                 // 3 Years Ago (price + change in same tile)
@@ -583,6 +590,13 @@ html_content = f"""<!DOCTYPE html>
                                 <span class="stat-value price-old">€${{product.price_3yr.toFixed(2)}}</span>
                                 <span class="stat-change ${{changeClass}}">${{changeText}}</span>
                             </div>
+                        </div>
+                    `;
+                }} else {{
+                    statsHTML += `
+                        <div class="stat">
+                            <div class="stat-label">3 Years Ago</div>
+                            <div class="stat-value" style="color: #999;">N/A</div>
                         </div>
                     `;
                 }}
