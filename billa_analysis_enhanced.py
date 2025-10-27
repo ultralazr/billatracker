@@ -72,7 +72,13 @@ if len(comparison_reference_before_1yr) > 0:
     # Get the LATEST price at or before the target date for each SKU
     comparison_reference_before_1yr = comparison_reference_before_1yr.sort_values(['sku', 'date'])
     latest_before_1yr = comparison_reference_before_1yr.groupby('sku').tail(1)[['sku', 'date', 'price_regular_value']].copy()
+    
+    # Only keep if the price is within 180 days (6 months) of the target date
+    latest_before_1yr['days_diff'] = (one_year_ago - latest_before_1yr['date'].dt.date).days
+    latest_before_1yr = latest_before_1yr[latest_before_1yr['days_diff'] <= 180].copy()
+    
     latest_before_1yr = latest_before_1yr.rename(columns={'date': 'date-1yr', 'price_regular_value': 'price_1yr'})
+    latest_before_1yr = latest_before_1yr[['sku', 'date-1yr', 'price_1yr']]
 else:
     latest_before_1yr = pd.DataFrame(columns=['sku', 'date-1yr', 'price_1yr'])
 
@@ -97,7 +103,13 @@ if len(comparison_reference_before_2yr) > 0:
     # Get the LATEST price at or before the target date for each SKU
     comparison_reference_before_2yr = comparison_reference_before_2yr.sort_values(['sku', 'date'])
     latest_before_2yr = comparison_reference_before_2yr.groupby('sku').tail(1)[['sku', 'date', 'price_regular_value']].copy()
+    
+    # Only keep if the price is within 180 days (6 months) of the target date
+    latest_before_2yr['days_diff'] = (two_years_ago - latest_before_2yr['date'].dt.date).days
+    latest_before_2yr = latest_before_2yr[latest_before_2yr['days_diff'] <= 180].copy()
+    
     latest_before_2yr = latest_before_2yr.rename(columns={'date': 'date-2yr', 'price_regular_value': 'price_2yr_ago'})
+    latest_before_2yr = latest_before_2yr[['sku', 'date-2yr', 'price_2yr_ago']]
 else:
     latest_before_2yr = pd.DataFrame(columns=['sku', 'date-2yr', 'price_2yr_ago'])
 
@@ -122,7 +134,13 @@ if len(comparison_reference_before_3yr) > 0:
     # Get the LATEST price at or before the target date for each SKU
     comparison_reference_before_3yr = comparison_reference_before_3yr.sort_values(['sku', 'date'])
     latest_before_3yr = comparison_reference_before_3yr.groupby('sku').tail(1)[['sku', 'date', 'price_regular_value']].copy()
+    
+    # Only keep if the price is within 180 days (6 months) of the target date
+    latest_before_3yr['days_diff'] = (three_years_ago - latest_before_3yr['date'].dt.date).days
+    latest_before_3yr = latest_before_3yr[latest_before_3yr['days_diff'] <= 180].copy()
+    
     latest_before_3yr = latest_before_3yr.rename(columns={'date': 'date-3yr', 'price_regular_value': 'price_3yr_ago'})
+    latest_before_3yr = latest_before_3yr[['sku', 'date-3yr', 'price_3yr_ago']]
 else:
     latest_before_3yr = pd.DataFrame(columns=['sku', 'date-3yr', 'price_3yr_ago'])
 
