@@ -190,16 +190,21 @@ for _, row in top_10_1yr.iterrows():
     sku_data = price_history_all[price_history_all['sku'] == sku].copy()
     product_name = sku_data['name'].iloc[0] if len(sku_data) > 0 else f"SKU {sku}"
     
+    # Only include price if it's valid (not null and not zero)
+    price_1yr = float(row['price_1yr']) if pd.notna(row['price_1yr']) and row['price_1yr'] > 0 else None
+    price_2yr = float(row['price_2yr_ago']) if pd.notna(row['price_2yr_ago']) and row['price_2yr_ago'] > 0 else None
+    price_3yr = float(row['price_3yr_ago']) if pd.notna(row['price_3yr_ago']) and row['price_3yr_ago'] > 0 else None
+    
     chart_data['1yr'][sku] = {
         'name': product_name,
         'sku': sku,
         'price_today': float(row['price_today']),
-        'price_1yr': float(row['price_1yr']) if pd.notna(row['price_1yr']) else None,
-        'price_2yr': float(row['price_2yr_ago']) if pd.notna(row['price_2yr_ago']) else None,
-        'price_3yr': float(row['price_3yr_ago']) if pd.notna(row['price_3yr_ago']) else None,
-        'change_1yr': float(row['price_change_1yr (%)']) if pd.notna(row['price_change_1yr (%)']) else None,
-        'change_2yr': float(row['price_change_2yr (%)']) if pd.notna(row['price_change_2yr (%)']) else None,
-        'change_3yr': float(row['price_change_3yr (%)']) if pd.notna(row['price_change_3yr (%)']) else None,
+        'price_1yr': price_1yr,
+        'price_2yr': price_2yr,
+        'price_3yr': price_3yr,
+        'change_1yr': float(row['price_change_1yr (%)']) if pd.notna(row['price_change_1yr (%)']) and price_1yr is not None else None,
+        'change_2yr': float(row['price_change_2yr (%)']) if pd.notna(row['price_change_2yr (%)']) and price_2yr is not None else None,
+        'change_3yr': float(row['price_change_3yr (%)']) if pd.notna(row['price_change_3yr (%)']) and price_3yr is not None else None,
         'dates': sku_data['date'].dt.strftime('%Y-%m-%d').tolist(),
         'prices': sku_data['price_regular_value'].tolist()
     }
@@ -210,16 +215,21 @@ for _, row in top_10_2yr.iterrows():
     sku_data = price_history_all[price_history_all['sku'] == sku].copy()
     product_name = sku_data['name'].iloc[0] if len(sku_data) > 0 else f"SKU {sku}"
     
+    # Only include price if it's valid (not null and not zero)
+    price_1yr = float(row['price_1yr']) if pd.notna(row['price_1yr']) and row['price_1yr'] > 0 else None
+    price_2yr = float(row['price_2yr_ago']) if pd.notna(row['price_2yr_ago']) and row['price_2yr_ago'] > 0 else None
+    price_3yr = float(row['price_3yr_ago']) if pd.notna(row['price_3yr_ago']) and row['price_3yr_ago'] > 0 else None
+    
     chart_data['2yr'][sku] = {
         'name': product_name,
         'sku': sku,
         'price_today': float(row['price_today']),
-        'price_1yr': float(row['price_1yr']) if pd.notna(row['price_1yr']) else None,
-        'price_2yr': float(row['price_2yr_ago']) if pd.notna(row['price_2yr_ago']) else None,
-        'price_3yr': float(row['price_3yr_ago']) if pd.notna(row['price_3yr_ago']) else None,
-        'change_1yr': float(row['price_change_1yr (%)']) if pd.notna(row['price_change_1yr (%)']) else None,
-        'change_2yr': float(row['price_change_2yr (%)']) if pd.notna(row['price_change_2yr (%)']) else None,
-        'change_3yr': float(row['price_change_3yr (%)']) if pd.notna(row['price_change_3yr (%)']) else None,
+        'price_1yr': price_1yr,
+        'price_2yr': price_2yr,
+        'price_3yr': price_3yr,
+        'change_1yr': float(row['price_change_1yr (%)']) if pd.notna(row['price_change_1yr (%)']) and price_1yr is not None else None,
+        'change_2yr': float(row['price_change_2yr (%)']) if pd.notna(row['price_change_2yr (%)']) and price_2yr is not None else None,
+        'change_3yr': float(row['price_change_3yr (%)']) if pd.notna(row['price_change_3yr (%)']) and price_3yr is not None else None,
         'dates': sku_data['date'].dt.strftime('%Y-%m-%d').tolist(),
         'prices': sku_data['price_regular_value'].tolist()
     }
@@ -230,16 +240,21 @@ for _, row in top_10_3yr.iterrows():
     sku_data = price_history_all[price_history_all['sku'] == sku].copy()
     product_name = sku_data['name'].iloc[0] if len(sku_data) > 0 else f"SKU {sku}"
     
+    # Only include price if it's valid (not null and not zero)
+    price_1yr = float(row['price_1yr']) if pd.notna(row['price_1yr']) and row['price_1yr'] > 0 else None
+    price_2yr = float(row['price_2yr_ago']) if pd.notna(row['price_2yr_ago']) and row['price_2yr_ago'] > 0 else None
+    price_3yr = float(row['price_3yr_ago']) if pd.notna(row['price_3yr_ago']) and row['price_3yr_ago'] > 0 else None
+    
     chart_data['3yr'][sku] = {
         'name': product_name,
         'sku': sku,
         'price_today': float(row['price_today']),
-        'price_1yr': float(row['price_1yr']) if pd.notna(row['price_1yr']) else None,
-        'price_2yr': float(row['price_2yr_ago']) if pd.notna(row['price_2yr_ago']) else None,
-        'price_3yr': float(row['price_3yr_ago']) if pd.notna(row['price_3yr_ago']) else None,
-        'change_1yr': float(row['price_change_1yr (%)']) if pd.notna(row['price_change_1yr (%)']) else None,
-        'change_2yr': float(row['price_change_2yr (%)']) if pd.notna(row['price_change_2yr (%)']) else None,
-        'change_3yr': float(row['price_change_3yr (%)']) if pd.notna(row['price_change_3yr (%)']) else None,
+        'price_1yr': price_1yr,
+        'price_2yr': price_2yr,
+        'price_3yr': price_3yr,
+        'change_1yr': float(row['price_change_1yr (%)']) if pd.notna(row['price_change_1yr (%)']) and price_1yr is not None else None,
+        'change_2yr': float(row['price_change_2yr (%)']) if pd.notna(row['price_change_2yr (%)']) and price_2yr is not None else None,
+        'change_3yr': float(row['price_change_3yr (%)']) if pd.notna(row['price_change_3yr (%)']) and price_3yr is not None else None,
         'dates': sku_data['date'].dt.strftime('%Y-%m-%d').tolist(),
         'prices': sku_data['price_regular_value'].tolist()
     }
