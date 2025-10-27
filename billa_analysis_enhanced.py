@@ -490,6 +490,11 @@ html_content = f"""<!DOCTYPE html>
         const chartData = {json.dumps(chart_data, indent=2)};
         const charts = {{}};
         
+        // Calculate 3-year date range for fixed x-axis
+        const today = new Date();
+        const threeYearsAgo = new Date(today);
+        threeYearsAgo.setFullYear(threeYearsAgo.getFullYear() - 3);
+        
         function switchView(period) {{
             // Update tabs
             document.querySelectorAll('.tab').forEach(tab => tab.classList.remove('active'));
@@ -587,15 +592,21 @@ html_content = f"""<!DOCTYPE html>
                 
                 grid.appendChild(card);
                 
-                // Create chart with step plot
+                // Create chart with step plot and FIXED 3-year x-axis
                 const ctx = canvas.getContext('2d');
+                
+                // Convert string dates to Date objects for proper time axis
+                const dateData = product.dates.map((date, i) => ({{
+                    x: date,
+                    y: product.prices[i]
+                }}));
+                
                 charts[`${{period}}-${{sku}}`] = new Chart(ctx, {{
                     type: 'line',
                     data: {{
-                        labels: product.dates,
                         datasets: [{{
                             label: 'Price (€)',
-                            data: product.prices,
+                            data: dateData,
                             borderColor: index % 2 === 0 ? '#667eea' : '#e74c3c',
                             backgroundColor: index % 2 === 0 ? 'rgba(102, 126, 234, 0.1)' : 'rgba(231, 76, 60, 0.1)',
                             borderWidth: 3,
@@ -626,6 +637,15 @@ html_content = f"""<!DOCTYPE html>
                         }},
                         scales: {{
                             x: {{
+                                type: 'time',
+                                time: {{
+                                    unit: 'month',
+                                    displayFormats: {{
+                                        month: 'MMM yyyy'
+                                    }}
+                                }},
+                                min: threeYearsAgo.getTime(),
+                                max: today.getTime(),
                                 display: true,
                                 title: {{
                                     display: true,
