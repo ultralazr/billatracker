@@ -66,25 +66,23 @@ print(f"Comparison reference has {len(comparison_reference)} records")
 # Calculate 1 year ago prices
 print("\n5. Calculating 1-year price changes...")
 comparison_reference_before_1yr = comparison_reference[comparison_reference['date'].dt.date <= one_year_ago].copy()
-comparison_reference_before_1yr['date_diff'] = (comparison_reference_before_1yr['date'].dt.date - one_year_ago).abs()
-closest_dates_indices = comparison_reference_before_1yr.groupby('sku')['date_diff'].idxmin()
-closest_dates_rows = comparison_reference_before_1yr.loc[closest_dates_indices].copy()
-closest_dates_1yr = closest_dates_rows[['sku', 'date']].copy()
-closest_dates_1yr = closest_dates_1yr.rename(columns={'date': 'date-1yr'})
+
+# Only proceed if there's actually data from 1 year ago or earlier
+if len(comparison_reference_before_1yr) > 0:
+    # Get the LATEST price at or before the target date for each SKU
+    comparison_reference_before_1yr = comparison_reference_before_1yr.sort_values(['sku', 'date'])
+    latest_before_1yr = comparison_reference_before_1yr.groupby('sku').tail(1)[['sku', 'date', 'price_regular_value']].copy()
+    latest_before_1yr = latest_before_1yr.rename(columns={'date': 'date-1yr', 'price_regular_value': 'price_1yr'})
+else:
+    latest_before_1yr = pd.DataFrame(columns=['sku', 'date-1yr', 'price_1yr'])
 
 if 'date-1yr' in price_analysis.columns:
     price_analysis = price_analysis.drop('date-1yr', axis=1)
-price_analysis = price_analysis.merge(closest_dates_1yr, left_on='SKU', right_on='sku', how='left')
-price_analysis = price_analysis.drop('sku', axis=1)
-
-price_at_1yr_dates = price_analysis[['SKU', 'date-1yr']].copy()
-price_at_1yr_dates = price_at_1yr_dates.rename(columns={'date-1yr': 'date'})
-price_at_1yr = price_at_1yr_dates.merge(comparison_reference, left_on=['SKU', 'date'], right_on=['sku', 'date'], how='left')
-price_at_1yr = price_at_1yr[['SKU', 'price_regular_value']].rename(columns={'price_regular_value': 'price_1yr'})
-
 if 'price_1yr' in price_analysis.columns:
     price_analysis = price_analysis.drop('price_1yr', axis=1)
-price_analysis = price_analysis.merge(price_at_1yr, on='SKU', how='left')
+    
+price_analysis = price_analysis.merge(latest_before_1yr, left_on='SKU', right_on='sku', how='left')
+price_analysis = price_analysis.drop('sku', axis=1, errors='ignore')
 
 price_analysis['price_change_1yr (%)'] = ((price_analysis['price_today'] - price_analysis['price_1yr']) / price_analysis['price_1yr']) * 100
 price_analysis['price_change_1yr (%)'] = price_analysis['price_change_1yr (%)'].round(2)
@@ -93,17 +91,23 @@ price_analysis['price_change_1yr (%)'] = price_analysis['price_change_1yr (%)'].
 print("\n6. Calculating 2-year price changes...")
 two_years_ago = datetime.now().date() - timedelta(days=2 * 365.25)
 comparison_reference_before_2yr = comparison_reference[comparison_reference['date'].dt.date <= two_years_ago].copy()
-comparison_reference_before_2yr['date_diff'] = (comparison_reference_before_2yr['date'].dt.date - two_years_ago).abs()
-closest_dates_indices_2yr = comparison_reference_before_2yr.groupby('sku')['date_diff'].idxmin()
-closest_dates_rows_2yr = comparison_reference_before_2yr.loc[closest_dates_indices_2yr].copy()
-closest_data_2yr = closest_dates_rows_2yr[['sku', 'date', 'price_regular_value']].copy()
-closest_data_2yr = closest_data_2yr.rename(columns={'date': 'date-2yr', 'price_regular_value': 'price_2yr_ago'})
+
+# Only proceed if there's actually data from 2 years ago or earlier
+if len(comparison_reference_before_2yr) > 0:
+    # Get the LATEST price at or before the target date for each SKU
+    comparison_reference_before_2yr = comparison_reference_before_2yr.sort_values(['sku', 'date'])
+    latest_before_2yr = comparison_reference_before_2yr.groupby('sku').tail(1)[['sku', 'date', 'price_regular_value']].copy()
+    latest_before_2yr = latest_before_2yr.rename(columns={'date': 'date-2yr', 'price_regular_value': 'price_2yr_ago'})
+else:
+    latest_before_2yr = pd.DataFrame(columns=['sku', 'date-2yr', 'price_2yr_ago'])
 
 if 'date-2yr' in price_analysis.columns:
     price_analysis = price_analysis.drop('date-2yr', axis=1)
 if 'price_2yr_ago' in price_analysis.columns:
     price_analysis = price_analysis.drop('price_2yr_ago', axis=1)
-price_analysis = price_analysis.merge(closest_data_2yr, left_on='SKU', right_on='sku', how='left').drop('sku', axis=1)
+    
+price_analysis = price_analysis.merge(latest_before_2yr, left_on='SKU', right_on='sku', how='left')
+price_analysis = price_analysis.drop('sku', axis=1, errors='ignore')
 
 price_analysis['price_change_2yr (%)'] = ((price_analysis['price_today'] - price_analysis['price_2yr_ago']) / price_analysis['price_2yr_ago']) * 100
 price_analysis['price_change_2yr (%)'] = price_analysis['price_change_2yr (%)'].round(2)
@@ -112,17 +116,23 @@ price_analysis['price_change_2yr (%)'] = price_analysis['price_change_2yr (%)'].
 print("\n7. Calculating 3-year price changes...")
 three_years_ago = datetime.now().date() - timedelta(days=3 * 365.25)
 comparison_reference_before_3yr = comparison_reference[comparison_reference['date'].dt.date <= three_years_ago].copy()
-comparison_reference_before_3yr['date_diff'] = (comparison_reference_before_3yr['date'].dt.date - three_years_ago).abs()
-closest_dates_indices_3yr = comparison_reference_before_3yr.groupby('sku')['date_diff'].idxmin()
-closest_dates_rows_3yr = comparison_reference_before_3yr.loc[closest_dates_indices_3yr].copy()
-closest_data_3yr = closest_dates_rows_3yr[['sku', 'date', 'price_regular_value']].copy()
-closest_data_3yr = closest_data_3yr.rename(columns={'date': 'date-3yr', 'price_regular_value': 'price_3yr_ago'})
+
+# Only proceed if there's actually data from 3 years ago or earlier
+if len(comparison_reference_before_3yr) > 0:
+    # Get the LATEST price at or before the target date for each SKU
+    comparison_reference_before_3yr = comparison_reference_before_3yr.sort_values(['sku', 'date'])
+    latest_before_3yr = comparison_reference_before_3yr.groupby('sku').tail(1)[['sku', 'date', 'price_regular_value']].copy()
+    latest_before_3yr = latest_before_3yr.rename(columns={'date': 'date-3yr', 'price_regular_value': 'price_3yr_ago'})
+else:
+    latest_before_3yr = pd.DataFrame(columns=['sku', 'date-3yr', 'price_3yr_ago'])
 
 if 'date-3yr' in price_analysis.columns:
     price_analysis = price_analysis.drop('date-3yr', axis=1)
 if 'price_3yr_ago' in price_analysis.columns:
     price_analysis = price_analysis.drop('price_3yr_ago', axis=1)
-price_analysis = price_analysis.merge(closest_data_3yr, left_on='SKU', right_on='sku', how='left').drop('sku', axis=1)
+    
+price_analysis = price_analysis.merge(latest_before_3yr, left_on='SKU', right_on='sku', how='left')
+price_analysis = price_analysis.drop('sku', axis=1, errors='ignore')
 
 price_analysis['price_change_3yr (%)'] = ((price_analysis['price_today'] - price_analysis['price_3yr_ago']) / price_analysis['price_3yr_ago']) * 100
 price_analysis['price_change_3yr (%)'] = price_analysis['price_change_3yr (%)'].round(2)
