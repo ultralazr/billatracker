@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Enhanced Billa Analysis for GitHub Actions - v30 (366 day tolerance)"""
+"""Enhanced Billa Analysis for GitHub Actions - v31 (No tolerance, closest previous price)"""
 
 import pandas as pd
 from datetime import datetime, timedelta
@@ -73,10 +73,7 @@ if len(comparison_reference_before_1yr) > 0:
     comparison_reference_before_1yr = comparison_reference_before_1yr.sort_values(['sku', 'date'])
     latest_before_1yr = comparison_reference_before_1yr.groupby('sku').tail(1)[['sku', 'date', 'price_regular_value']].copy()
     
-    # Only keep if the price is within 366 days of the target date
-    latest_before_1yr['days_diff'] = (pd.Timestamp(one_year_ago) - latest_before_1yr['date']).dt.days
-    latest_before_1yr = latest_before_1yr[latest_before_1yr['days_diff'] <= 366].copy()
-    
+    # No tolerance filter - just use the latest price before target date
     latest_before_1yr = latest_before_1yr.rename(columns={'date': 'date-1yr', 'price_regular_value': 'price_1yr'})
     latest_before_1yr = latest_before_1yr[['sku', 'date-1yr', 'price_1yr']]
 else:
@@ -104,10 +101,7 @@ if len(comparison_reference_before_2yr) > 0:
     comparison_reference_before_2yr = comparison_reference_before_2yr.sort_values(['sku', 'date'])
     latest_before_2yr = comparison_reference_before_2yr.groupby('sku').tail(1)[['sku', 'date', 'price_regular_value']].copy()
     
-    # Only keep if the price is within 366 days of the target date
-    latest_before_2yr['days_diff'] = (pd.Timestamp(two_years_ago) - latest_before_2yr['date']).dt.days
-    latest_before_2yr = latest_before_2yr[latest_before_2yr['days_diff'] <= 366].copy()
-    
+    # No tolerance filter - just use the latest price before target date
     latest_before_2yr = latest_before_2yr.rename(columns={'date': 'date-2yr', 'price_regular_value': 'price_2yr_ago'})
     latest_before_2yr = latest_before_2yr[['sku', 'date-2yr', 'price_2yr_ago']]
 else:
@@ -135,10 +129,7 @@ if len(comparison_reference_before_3yr) > 0:
     comparison_reference_before_3yr = comparison_reference_before_3yr.sort_values(['sku', 'date'])
     latest_before_3yr = comparison_reference_before_3yr.groupby('sku').tail(1)[['sku', 'date', 'price_regular_value']].copy()
     
-    # Only keep if the price is within 366 days of the target date
-    latest_before_3yr['days_diff'] = (pd.Timestamp(three_years_ago) - latest_before_3yr['date']).dt.days
-    latest_before_3yr = latest_before_3yr[latest_before_3yr['days_diff'] <= 366].copy()
-    
+    # No tolerance filter - just use the latest price before target date
     latest_before_3yr = latest_before_3yr.rename(columns={'date': 'date-3yr', 'price_regular_value': 'price_3yr_ago'})
     latest_before_3yr = latest_before_3yr[['sku', 'date-3yr', 'price_3yr_ago']]
 else:
