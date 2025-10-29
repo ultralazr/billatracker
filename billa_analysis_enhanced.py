@@ -195,6 +195,25 @@ price_history_all = price_history_all.merge(
 
 print(f"Extracted {len(price_history_all)} price history records (last 3 years)")
 
+# Get the price that was in effect 3 years ago (even if it was set earlier)
+print("\n10b. Getting price in effect at 3-year mark...")
+price_at_3yr_mark = {}
+for sku in all_top_skus:
+    sku_history_before_3yr = comparison_reference[
+        (comparison_reference['sku'] == sku) & 
+        (comparison_reference['date'].dt.date <= three_years_ago_cutoff)
+    ].copy()
+    
+    if len(sku_history_before_3yr) > 0:
+        # Get the most recent price before or at the 3-year mark
+        sku_history_before_3yr = sku_history_before_3yr.sort_values('date')
+        latest_price_before_3yr = sku_history_before_3yr.iloc[-1]['price_regular_value']
+        price_at_3yr_mark[sku] = float(latest_price_before_3yr)
+    else:
+        price_at_3yr_mark[sku] = None
+
+print(f"Found historical prices for {sum(1 for v in price_at_3yr_mark.values() if v is not None)} products")
+
 # Prepare data structure for visualization
 print("\n11. Preparing data for visualization...")
 chart_data = {
@@ -225,7 +244,8 @@ for _, row in top_10_1yr.iterrows():
         'change_2yr': float(row['price_change_2yr (%)']) if pd.notna(row['price_change_2yr (%)']) and price_2yr is not None else None,
         'change_3yr': float(row['price_change_3yr (%)']) if pd.notna(row['price_change_3yr (%)']) and price_3yr is not None else None,
         'dates': sku_data['date'].dt.strftime('%Y-%m-%d').tolist(),
-        'prices': sku_data['price_regular_value'].tolist()
+        'prices': sku_data['price_regular_value'].tolist(),
+        'price_at_3yr_mark': price_at_3yr_mark.get(sku)
     }
 
 # Process 2-year top 10
@@ -250,7 +270,8 @@ for _, row in top_10_2yr.iterrows():
         'change_2yr': float(row['price_change_2yr (%)']) if pd.notna(row['price_change_2yr (%)']) and price_2yr is not None else None,
         'change_3yr': float(row['price_change_3yr (%)']) if pd.notna(row['price_change_3yr (%)']) and price_3yr is not None else None,
         'dates': sku_data['date'].dt.strftime('%Y-%m-%d').tolist(),
-        'prices': sku_data['price_regular_value'].tolist()
+        'prices': sku_data['price_regular_value'].tolist(),
+        'price_at_3yr_mark': price_at_3yr_mark.get(sku)
     }
 
 # Process 3-year top 10
@@ -275,7 +296,8 @@ for _, row in top_10_3yr.iterrows():
         'change_2yr': float(row['price_change_2yr (%)']) if pd.notna(row['price_change_2yr (%)']) and price_2yr is not None else None,
         'change_3yr': float(row['price_change_3yr (%)']) if pd.notna(row['price_change_3yr (%)']) and price_3yr is not None else None,
         'dates': sku_data['date'].dt.strftime('%Y-%m-%d').tolist(),
-        'prices': sku_data['price_regular_value'].tolist()
+        'prices': sku_data['price_regular_value'].tolist(),
+        'price_at_3yr_mark': price_at_3yr_mark.get(sku)
     }
 
 # Create HTML visualization
@@ -288,6 +310,7 @@ html_content = f"""<!DOCTYPE html>
     <title>Billa Price Analysis - Top 10 Price Increases</title>
     <script src="https://cdn.jsdelivr.net/npm/chart.js@3.9.1/dist/chart.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@2.0.0/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-annotation@1.4.0/dist/chartjs-plugin-annotation.min.js"></script>
     <style>
         * {{
             margin: 0;
@@ -529,6 +552,12 @@ html_content = f"""<!DOCTYPE html>
         const threeYearsAgo = new Date(today);
         threeYearsAgo.setFullYear(threeYearsAgo.getFullYear() - 3);
         
+        // Calculate 1 and 2 year marks
+        const oneYearAgo = new Date(today);
+        oneYearAgo.setFullYear(oneYearAgo.getFullYear() - 1);
+        const twoYearsAgo = new Date(today);
+        twoYearsAgo.setFullYear(twoYearsAgo.getFullYear() - 2);
+        
         function switchView(period) {{
             // Update tabs
             document.querySelectorAll('.tab').forEach(tab => tab.classList.remove('active'));
@@ -649,6 +678,19 @@ html_content = f"""<!DOCTYPE html>
                     y: product.prices[i]
                 }}));
                 
+                // If there's a price at the 3-year mark from before our window, add it as the first point
+                if (product.price_at_3yr_mark !== null && product.price_at_3yr_mark !== undefined) {{
+                    // Check if we need to add the historical price point
+                    const firstDataDate = new Date(product.dates[0]);
+                    if (firstDataDate > threeYearsAgo) {{
+                        // Add a point at the 3-year mark with the historical price
+                        dateData.unshift({{
+                            x: threeYearsAgo.toISOString().split('T')[0],
+                            y: product.price_at_3yr_mark
+                        }});
+                    }}
+                }}
+                
                 charts[`${{period}}-${{sku}}`] = new Chart(ctx, {{
                     type: 'line',
                     data: {{
@@ -679,6 +721,64 @@ html_content = f"""<!DOCTYPE html>
                                 callbacks: {{
                                     label: function(context) {{
                                         return 'Price: €' + context.parsed.y.toFixed(2);
+                                    }}
+                                }}
+                            }},
+                            annotation: {{
+                                annotations: {{
+                                    line1yr: {{
+                                        type: 'line',
+                                        xMin: oneYearAgo.getTime(),
+                                        xMax: oneYearAgo.getTime(),
+                                        borderColor: 'rgba(100, 100, 100, 0.5)',
+                                        borderWidth: 3,
+                                        label: {{
+                                            display: true,
+                                            content: '1YR',
+                                            position: 'start',
+                                            backgroundColor: 'rgba(100, 100, 100, 0.8)',
+                                            color: 'white',
+                                            font: {{
+                                                size: 11,
+                                                weight: 'bold'
+                                            }}
+                                        }}
+                                    }},
+                                    line2yr: {{
+                                        type: 'line',
+                                        xMin: twoYearsAgo.getTime(),
+                                        xMax: twoYearsAgo.getTime(),
+                                        borderColor: 'rgba(100, 100, 100, 0.5)',
+                                        borderWidth: 3,
+                                        label: {{
+                                            display: true,
+                                            content: '2YR',
+                                            position: 'start',
+                                            backgroundColor: 'rgba(100, 100, 100, 0.8)',
+                                            color: 'white',
+                                            font: {{
+                                                size: 11,
+                                                weight: 'bold'
+                                            }}
+                                        }}
+                                    }},
+                                    line3yr: {{
+                                        type: 'line',
+                                        xMin: threeYearsAgo.getTime(),
+                                        xMax: threeYearsAgo.getTime(),
+                                        borderColor: 'rgba(100, 100, 100, 0.5)',
+                                        borderWidth: 3,
+                                        label: {{
+                                            display: true,
+                                            content: '3YR',
+                                            position: 'start',
+                                            backgroundColor: 'rgba(100, 100, 100, 0.8)',
+                                            color: 'white',
+                                            font: {{
+                                                size: 11,
+                                                weight: 'bold'
+                                            }}
+                                        }}
                                     }}
                                 }}
                             }}
