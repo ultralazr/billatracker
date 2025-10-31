@@ -1,0 +1,494 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cheapflation Analysis - Nahrungsmittel Price Changes</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f5f5f5;
+        }
+        
+        header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 2rem 0;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+        }
+        
+        .subtitle {
+            font-size: 1.1rem;
+            opacity: 0.9;
+        }
+        
+        .update-time {
+            margin-top: 1rem;
+            font-size: 0.9rem;
+            opacity: 0.8;
+        }
+        
+        nav {
+            background: white;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+        
+        nav ul {
+            list-style: none;
+            display: flex;
+            justify-content: center;
+            padding: 1rem 0;
+        }
+        
+        nav li {
+            margin: 0 1rem;
+        }
+        
+        nav a {
+            text-decoration: none;
+            color: #667eea;
+            font-weight: 600;
+            padding: 0.5rem 1rem;
+            border-radius: 5px;
+            transition: all 0.3s ease;
+        }
+        
+        nav a:hover {
+            background: #667eea;
+            color: white;
+        }
+        
+        .summary-box {
+            background: white;
+            border-radius: 10px;
+            padding: 1.5rem;
+            margin: 2rem 0;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+        }
+        
+        .summary-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+            margin-top: 1rem;
+        }
+        
+        .summary-item {
+            background: #f8f9fa;
+            padding: 1rem;
+            border-radius: 8px;
+            border-left: 4px solid #667eea;
+        }
+        
+        .summary-item h4 {
+            color: #667eea;
+            margin-bottom: 0.5rem;
+            font-size: 0.9rem;
+        }
+        
+        .summary-item .value {
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: #333;
+        }
+        
+        section {
+            margin: 3rem 0;
+        }
+        
+        h2 {
+            color: #333;
+            font-size: 2rem;
+            margin-bottom: 1rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 3px solid #667eea;
+        }
+        
+        h3 {
+            color: #555;
+            font-size: 1.3rem;
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+        }
+        
+        .plot-container {
+            background: white;
+            border-radius: 10px;
+            padding: 1.5rem;
+            margin: 1.5rem 0;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+        }
+        
+        .plot-container img {
+            width: 100%;
+            height: auto;
+            border-radius: 5px;
+        }
+        
+        .stats-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1rem 0;
+            background: white;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+        }
+        
+        .stats-table th {
+            background: #667eea;
+            color: white;
+            padding: 1rem;
+            text-align: left;
+            font-weight: 600;
+        }
+        
+        .stats-table td {
+            padding: 1rem;
+            border-bottom: 1px solid #e9ecef;
+        }
+        
+        .stats-table tr:last-child td {
+            border-bottom: none;
+        }
+        
+        .stats-table tr:hover {
+            background-color: #f8f9fa;
+        }
+        
+        footer {
+            background: #333;
+            color: white;
+            text-align: center;
+            padding: 2rem 0;
+            margin-top: 4rem;
+        }
+        
+        .badge {
+            display: inline-block;
+            padding: 0.25rem 0.6rem;
+            border-radius: 4px;
+            font-size: 0.85rem;
+            font-weight: 600;
+        }
+        
+        .badge-info {
+            background: #e3f2fd;
+            color: #1976d2;
+        }
+        
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 1.8rem;
+            }
+            
+            nav ul {
+                flex-direction: column;
+                align-items: center;
+            }
+            
+            nav li {
+                margin: 0.5rem 0;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>🛒 Cheapflation Analysis</h1>
+            <p class="subtitle">Price Change Analysis for Nahrungsmittel Products at BILLA</p>
+            <p class="update-time">Last Updated: 2025-10-30 14:56:13 UTC</p>
+        </div>
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="#overview">Overview</a></li>
+            <li><a href="#1yr">1-Year Analysis</a></li>
+            <li><a href="#2yr">2-Year Analysis</a></li>
+            <li><a href="#3yr">3-Year Analysis</a></li>
+        </ul>
+    </nav>
+    
+    <main class="container">
+        <section id="overview">
+            <div class="summary-box">
+                <h2>Overview</h2>
+                <p>This report analyzes price changes for food products (Nahrungsmittel) across different brand categories at BILLA over 1, 2, and 3-year periods.</p>
+                
+                <div class="summary-grid">
+                    <div class="summary-item">
+                        <h4>Total Products</h4>
+                        <div class="value">3616</div>
+                    </div>
+                    <div class="summary-item">
+                        <h4>1-Year Data</h4>
+                        <div class="value">3005</div>
+                    </div>
+                    <div class="summary-item">
+                        <h4>2-Year Data</h4>
+                        <div class="value">2691</div>
+                    </div>
+                    <div class="summary-item">
+                        <h4>3-Year Data</h4>
+                        <div class="value">2145</div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="1yr">
+            <h2>1-Year Price Change Analysis</h2>
+            
+            <div class="summary-box">
+                <h3>Summary Statistics</h3>
+                <p><span class="badge badge-info">Bins: 17</span> 
+                   <span class="badge badge-info">Range: -33.56% to 50.17%</span></p>
+                
+                <table class="stats-table">
+                    <thead>
+                        <tr>
+                            <th>Brand Category</th>
+                            <th>Product Count</th>
+                            <th>Below Range</th>
+                            <th>Above Range</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><strong>Clever</strong></td>
+                            <td>101</td>
+                            <td>0.00%</td>
+                            <td>0.99%</td>
+                        </tr>
+                        <tr>
+                            <td><strong>BILLA</strong></td>
+                            <td>287</td>
+                            <td>0.00%</td>
+                            <td>3.14%</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Ja!</strong></td>
+                            <td>113</td>
+                            <td>0.00%</td>
+                            <td>0.00%</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Other Brands</strong></td>
+                            <td>2504</td>
+                            <td>0.44%</td>
+                            <td>0.80%</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            
+            <h3>Comparison of All Brand Categories</h3>
+            <div class="plot-container">
+                <img src="1yr_overlay_kde.png" alt="1-Year Price Changes - All Categories">
+            </div>
+            
+            <h3>Individual Brand Category Distributions</h3>
+            
+            <div class="plot-container">
+                <h4>Clever Products</h4>
+                <img src="1yr_clever_histogram.png" alt="1-Year Price Changes - Clever">
+            </div>
+            
+            <div class="plot-container">
+                <h4>BILLA Products</h4>
+                <img src="1yr_billa_histogram.png" alt="1-Year Price Changes - BILLA">
+            </div>
+            
+            <div class="plot-container">
+                <h4>Ja! Products</h4>
+                <img src="1yr_ja_histogram.png" alt="1-Year Price Changes - Ja!">
+            </div>
+            
+            <div class="plot-container">
+                <h4>Other Brands</h4>
+                <img src="1yr_other_brands_histogram.png" alt="1-Year Price Changes - Other Brands">
+            </div>
+        </section>
+
+        <section id="2yr">
+            <h2>2-Year Price Change Analysis</h2>
+            
+            <div class="summary-box">
+                <h3>Summary Statistics</h3>
+                <p><span class="badge badge-info">Bins: 19</span> 
+                   <span class="badge badge-info">Range: -33.56% to 64.62%</span></p>
+                
+                <table class="stats-table">
+                    <thead>
+                        <tr>
+                            <th>Brand Category</th>
+                            <th>Product Count</th>
+                            <th>Below Range</th>
+                            <th>Above Range</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><strong>Clever</strong></td>
+                            <td>86</td>
+                            <td>0.00%</td>
+                            <td>1.16%</td>
+                        </tr>
+                        <tr>
+                            <td><strong>BILLA</strong></td>
+                            <td>213</td>
+                            <td>1.88%</td>
+                            <td>2.82%</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Ja!</strong></td>
+                            <td>103</td>
+                            <td>0.00%</td>
+                            <td>0.97%</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Other Brands</strong></td>
+                            <td>2289</td>
+                            <td>0.74%</td>
+                            <td>0.70%</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            
+            <h3>Comparison of All Brand Categories</h3>
+            <div class="plot-container">
+                <img src="2yr_overlay_kde.png" alt="2-Year Price Changes - All Categories">
+            </div>
+            
+            <h3>Individual Brand Category Distributions</h3>
+            
+            <div class="plot-container">
+                <h4>Clever Products</h4>
+                <img src="2yr_clever_histogram.png" alt="2-Year Price Changes - Clever">
+            </div>
+            
+            <div class="plot-container">
+                <h4>BILLA Products</h4>
+                <img src="2yr_billa_histogram.png" alt="2-Year Price Changes - BILLA">
+            </div>
+            
+            <div class="plot-container">
+                <h4>Ja! Products</h4>
+                <img src="2yr_ja_histogram.png" alt="2-Year Price Changes - Ja!">
+            </div>
+            
+            <div class="plot-container">
+                <h4>Other Brands</h4>
+                <img src="2yr_other_brands_histogram.png" alt="2-Year Price Changes - Other Brands">
+            </div>
+        </section>
+
+        <section id="3yr">
+            <h2>3-Year Price Change Analysis</h2>
+            
+            <div class="summary-box">
+                <h3>Summary Statistics</h3>
+                <p><span class="badge badge-info">Bins: 23</span> 
+                   <span class="badge badge-info">Range: -32.52% to 81.26%</span></p>
+                
+                <table class="stats-table">
+                    <thead>
+                        <tr>
+                            <th>Brand Category</th>
+                            <th>Product Count</th>
+                            <th>Below Range</th>
+                            <th>Above Range</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><strong>Clever</strong></td>
+                            <td>71</td>
+                            <td>0.00%</td>
+                            <td>1.41%</td>
+                        </tr>
+                        <tr>
+                            <td><strong>BILLA</strong></td>
+                            <td>140</td>
+                            <td>0.00%</td>
+                            <td>2.86%</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Ja!</strong></td>
+                            <td>95</td>
+                            <td>0.00%</td>
+                            <td>0.00%</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Other Brands</strong></td>
+                            <td>1839</td>
+                            <td>0.76%</td>
+                            <td>0.92%</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            
+            <h3>Comparison of All Brand Categories</h3>
+            <div class="plot-container">
+                <img src="3yr_overlay_kde.png" alt="3-Year Price Changes - All Categories">
+            </div>
+            
+            <h3>Individual Brand Category Distributions</h3>
+            
+            <div class="plot-container">
+                <h4>Clever Products</h4>
+                <img src="3yr_clever_histogram.png" alt="3-Year Price Changes - Clever">
+            </div>
+            
+            <div class="plot-container">
+                <h4>BILLA Products</h4>
+                <img src="3yr_billa_histogram.png" alt="3-Year Price Changes - BILLA">
+            </div>
+            
+            <div class="plot-container">
+                <h4>Ja! Products</h4>
+                <img src="3yr_ja_histogram.png" alt="3-Year Price Changes - Ja!">
+            </div>
+            
+            <div class="plot-container">
+                <h4>Other Brands</h4>
+                <img src="3yr_other_brands_histogram.png" alt="3-Year Price Changes - Other Brands">
+            </div>
+        </section>
+
+    </main>
+    
+    <footer>
+        <div class="container">
+            <p>Cheapflation Analysis | Data source: <a href="https://github.com/ultralazr/billatracker" style="color: #667eea;">BILLA Tracker</a></p>
+            <p style="margin-top: 0.5rem; font-size: 0.9rem; opacity: 0.8;">Generated automatically via GitHub Actions</p>
+        </div>
+    </footer>
+</body>
+</html>
