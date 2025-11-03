@@ -520,14 +520,14 @@ html_content = f"""<!DOCTYPE html>
     <div class="container">
         <header>
             <h1>Die Teuerung trifft – BILLA hilft</h1>
-            <div class="subtitle">Top 10 Products with Biggest Price Increases (Last 3 Years)</div>
-            <div class="update-time">Last updated: {datetime.now().strftime('%B %d, %Y at %H:%M')}</div>
+            <div class="subtitle">Die 10 Produkte mit den stärksten Preisveränderungen über die letzten 1, 2, 3 Jahre)</div>
+            <div class="update-time">Zuletzt aktualisiert: {datetime.now().strftime('%B %d, %Y um %H:%M')}</div>
         </header>
         
         <div class="tabs">
-            <button class="tab active" onclick="switchView('1yr')">Top 10 over 1 Year</button>
-            <button class="tab" onclick="switchView('2yr')">Top 10 over 2 Years</button>
-            <button class="tab" onclick="switchView('3yr')">Top 10 over 3 Years</button>
+            <button class="tab active" onclick="switchView('1yr')">1 Jahr</button>
+            <button class="tab" onclick="switchView('2yr')">2 Jahre</button>
+            <button class="tab" onclick="switchView('3yr')">3 Jahre</button>
         </div>
         
         <div id="view-1yr" class="view active">
@@ -600,7 +600,7 @@ html_content = f"""<!DOCTYPE html>
                 // Current Price (always shown)
                 let statsHTML = `
                     <div class="stat">
-                        <div class="stat-label">Current Price</div>
+                        <div class="stat-label">Aktueller Preis</div>
                         <div class="stat-value price-current">€${{product.price_today.toFixed(2)}}</div>
                     </div>
                 `;
@@ -611,7 +611,7 @@ html_content = f"""<!DOCTYPE html>
                     const changeText = product.change_1yr >= 0 ? `+${{product.change_1yr.toFixed(2)}}%` : `${{product.change_1yr.toFixed(2)}}%`;
                     statsHTML += `
                         <div class="stat">
-                            <div class="stat-label">1 Year Ago</div>
+                            <div class="stat-label">Vor 1 Jahr</div>
                             <div class="stat-row">
                                 <span class="stat-value price-old">€${{product.price_1yr.toFixed(2)}}</span>
                                 <span class="stat-change ${{changeClass}}">${{changeText}}</span>
@@ -626,7 +626,7 @@ html_content = f"""<!DOCTYPE html>
                     const changeText = product.change_2yr >= 0 ? `+${{product.change_2yr.toFixed(2)}}%` : `${{product.change_2yr.toFixed(2)}}%`;
                     statsHTML += `
                         <div class="stat">
-                            <div class="stat-label">2 Years Ago</div>
+                            <div class="stat-label">Vor 2 Jahren</div>
                             <div class="stat-row">
                                 <span class="stat-value price-old">€${{product.price_2yr.toFixed(2)}}</span>
                                 <span class="stat-change ${{changeClass}}">${{changeText}}</span>
@@ -636,7 +636,7 @@ html_content = f"""<!DOCTYPE html>
                 }} else {{
                     statsHTML += `
                         <div class="stat">
-                            <div class="stat-label">2 Years Ago</div>
+                            <div class="stat-label">Vor 2 Jahren</div>
                             <div class="stat-value" style="color: #999;">N/A</div>
                         </div>
                     `;
@@ -648,7 +648,7 @@ html_content = f"""<!DOCTYPE html>
                     const changeText = product.change_3yr >= 0 ? `+${{product.change_3yr.toFixed(2)}}%` : `${{product.change_3yr.toFixed(2)}}%`;
                     statsHTML += `
                         <div class="stat">
-                            <div class="stat-label">3 Years Ago</div>
+                            <div class="stat-label">Vor 3 Jahren</div>
                             <div class="stat-row">
                                 <span class="stat-value price-old">€${{product.price_3yr.toFixed(2)}}</span>
                                 <span class="stat-change ${{changeClass}}">${{changeText}}</span>
@@ -658,7 +658,7 @@ html_content = f"""<!DOCTYPE html>
                 }} else {{
                     statsHTML += `
                         <div class="stat">
-                            <div class="stat-label">3 Years Ago</div>
+                            <div class="stat-label">Vor 3 Jahren</div>
                             <div class="stat-value" style="color: #999;">N/A</div>
                         </div>
                     `;
@@ -695,7 +695,7 @@ html_content = f"""<!DOCTYPE html>
                     type: 'line',
                     data: {{
                         datasets: [{{
-                            label: 'Price (€)',
+                            label: 'Preis (€)',
                             data: dateData,
                             borderColor: index % 2 === 0 ? '#667eea' : '#e74c3c',
                             backgroundColor: index % 2 === 0 ? 'rgba(102, 126, 234, 0.1)' : 'rgba(231, 76, 60, 0.1)',
@@ -809,7 +809,7 @@ html_content = f"""<!DOCTYPE html>
                                 display: true,
                                 title: {{
                                     display: true,
-                                    text: 'Price (€)'
+                                    text: 'Preis (€)'
                                 }},
                                 ticks: {{
                                     callback: function(value) {{
