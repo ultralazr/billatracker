@@ -520,14 +520,14 @@ html_content = f"""<!DOCTYPE html>
     <div class="container">
         <header>
             <h1>Die Teuerung trifft – BILLA hilft</h1>
-            <div class="subtitle">Die 10 Produkte mit den stärksten Preisveränderungen über die letzten 1, 2, 3 Jahre)</div>
+            <div class="subtitle">Die 10 Produkte mit den stärksten Preisveränderungen über die letzten 1, 2, 3 Jahre</div>
             <div class="update-time">Zuletzt aktualisiert: {datetime.now().strftime('%B %d, %Y um %H:%M')}</div>
         </header>
         
         <div class="tabs">
-            <button class="tab active" onclick="switchView('1yr')">1 Jahr</button>
-            <button class="tab" onclick="switchView('2yr')">2 Jahre</button>
-            <button class="tab" onclick="switchView('3yr')">3 Jahre</button>
+            <button class="tab active" onclick="switchView('1yr')">Top 10: 1 Jahr</button>
+            <button class="tab" onclick="switchView('2yr')">Top 10: 2 Jahre</button>
+            <button class="tab" onclick="switchView('3yr')">Top 10: 3 Jahre</button>
         </div>
         
         <div id="view-1yr" class="view active">
