@@ -8043,3 +8043,2015 @@
 2025-11-04 03:55:12,961 - INFO - Completed: 12319 / To go: -1
 2025-11-04 03:55:12,961 - INFO - Records in product_list: 12319
 2025-11-04 03:55:16,158 - INFO - Loading combined dataframe from local file: updated_combined_dataframe.csv
+2025-11-05 03:51:51,507 - INFO - ============================================================
+2025-11-05 03:51:51,508 - INFO - Billa Price Scraper - Starting
+2025-11-05 03:51:51,508 - INFO - ============================================================
+2025-11-05 03:51:53,250 - INFO - Completed: 100 / To go: 12235
+2025-11-05 03:51:53,250 - INFO - Records in product_list: 100
+2025-11-05 03:51:56,401 - INFO - Completed: 200 / To go: 12135
+2025-11-05 03:51:56,401 - INFO - Records in product_list: 200
+2025-11-05 03:51:59,906 - INFO - Completed: 300 / To go: 12035
+2025-11-05 03:51:59,906 - INFO - Records in product_list: 300
+2025-11-05 03:52:03,006 - INFO - Completed: 400 / To go: 11935
+2025-11-05 03:52:03,006 - INFO - Records in product_list: 400
+2025-11-05 03:52:06,160 - INFO - Completed: 500 / To go: 11835
+2025-11-05 03:52:06,160 - INFO - Records in product_list: 500
+2025-11-05 03:52:11,044 - INFO - Completed: 600 / To go: 11735
+2025-11-05 03:52:11,044 - INFO - Records in product_list: 600
+2025-11-05 03:52:14,052 - INFO - Completed: 700 / To go: 11635
+2025-11-05 03:52:14,052 - INFO - Records in product_list: 700
+2025-11-05 03:52:17,381 - INFO - Completed: 800 / To go: 11535
+2025-11-05 03:52:17,382 - INFO - Records in product_list: 800
+2025-11-05 03:52:20,485 - INFO - Completed: 900 / To go: 11435
+2025-11-05 03:52:20,485 - INFO - Records in product_list: 900
+2025-11-05 03:52:23,507 - INFO - Completed: 1000 / To go: 11335
+2025-11-05 03:52:23,507 - INFO - Records in product_list: 1000
+2025-11-05 03:52:26,442 - INFO - Completed: 1100 / To go: 11235
+2025-11-05 03:52:26,442 - INFO - Records in product_list: 1100
+2025-11-05 03:52:29,521 - INFO - Completed: 1200 / To go: 11135
+2025-11-05 03:52:29,521 - INFO - Records in product_list: 1200
+2025-11-05 03:52:32,800 - INFO - Completed: 1300 / To go: 11035
+2025-11-05 03:52:32,800 - INFO - Records in product_list: 1300
+2025-11-05 03:52:36,001 - INFO - Completed: 1400 / To go: 10935
+2025-11-05 03:52:36,001 - INFO - Records in product_list: 1400
+2025-11-05 03:52:38,949 - INFO - Completed: 1500 / To go: 10835
+2025-11-05 03:52:38,949 - INFO - Records in product_list: 1500
+2025-11-05 03:52:42,143 - INFO - Completed: 1600 / To go: 10735
+2025-11-05 03:52:42,143 - INFO - Records in product_list: 1600
+2025-11-05 03:52:45,120 - INFO - Completed: 1700 / To go: 10635
+2025-11-05 03:52:45,120 - INFO - Records in product_list: 1700
+2025-11-05 03:52:48,424 - INFO - Completed: 1800 / To go: 10535
+2025-11-05 03:52:48,424 - INFO - Records in product_list: 1800
+2025-11-05 03:52:51,664 - INFO - Completed: 1900 / To go: 10435
+2025-11-05 03:52:51,664 - INFO - Records in product_list: 1900
+2025-11-05 03:52:54,702 - INFO - Completed: 2000 / To go: 10335
+2025-11-05 03:52:54,702 - INFO - Records in product_list: 2000
+2025-11-05 03:52:58,304 - INFO - Completed: 2100 / To go: 10235
+2025-11-05 03:52:58,304 - INFO - Records in product_list: 2100
+2025-11-05 03:53:01,361 - INFO - Completed: 2200 / To go: 10135
+2025-11-05 03:53:01,361 - INFO - Records in product_list: 2200
+2025-11-05 03:53:04,333 - INFO - Completed: 2300 / To go: 10035
+2025-11-05 03:53:04,333 - INFO - Records in product_list: 2300
+2025-11-05 03:53:07,327 - INFO - Completed: 2400 / To go: 9935
+2025-11-05 03:53:07,327 - INFO - Records in product_list: 2400
+2025-11-05 03:53:10,203 - INFO - Completed: 2500 / To go: 9835
+2025-11-05 03:53:10,203 - INFO - Records in product_list: 2500
+2025-11-05 03:53:13,154 - INFO - Completed: 2600 / To go: 9735
+2025-11-05 03:53:13,154 - INFO - Records in product_list: 2600
+2025-11-05 03:53:16,066 - INFO - Completed: 2700 / To go: 9635
+2025-11-05 03:53:16,066 - INFO - Records in product_list: 2700
+2025-11-05 03:53:19,381 - INFO - Completed: 2800 / To go: 9535
+2025-11-05 03:53:19,381 - INFO - Records in product_list: 2800
+2025-11-05 03:53:22,317 - INFO - Completed: 2900 / To go: 9435
+2025-11-05 03:53:22,318 - INFO - Records in product_list: 2900
+2025-11-05 03:53:25,187 - INFO - Completed: 3000 / To go: 9335
+2025-11-05 03:53:25,187 - INFO - Records in product_list: 3000
+2025-11-05 03:53:28,165 - INFO - Completed: 3100 / To go: 9235
+2025-11-05 03:53:28,165 - INFO - Records in product_list: 3100
+2025-11-05 03:53:31,009 - INFO - Completed: 3200 / To go: 9135
+2025-11-05 03:53:31,010 - INFO - Records in product_list: 3200
+2025-11-05 03:53:34,093 - INFO - Completed: 3300 / To go: 9035
+2025-11-05 03:53:34,093 - INFO - Records in product_list: 3300
+2025-11-05 03:53:37,034 - INFO - Completed: 3400 / To go: 8935
+2025-11-05 03:53:37,035 - INFO - Records in product_list: 3400
+2025-11-05 03:53:40,058 - INFO - Completed: 3500 / To go: 8835
+2025-11-05 03:53:40,058 - INFO - Records in product_list: 3500
+2025-11-05 03:53:43,000 - INFO - Completed: 3600 / To go: 8735
+2025-11-05 03:53:43,000 - INFO - Records in product_list: 3600
+2025-11-05 03:53:45,876 - INFO - Completed: 3700 / To go: 8635
+2025-11-05 03:53:45,876 - INFO - Records in product_list: 3700
+2025-11-05 03:53:48,884 - INFO - Completed: 3800 / To go: 8535
+2025-11-05 03:53:48,884 - INFO - Records in product_list: 3800
+2025-11-05 03:53:51,792 - INFO - Completed: 3900 / To go: 8435
+2025-11-05 03:53:51,792 - INFO - Records in product_list: 3900
+2025-11-05 03:53:54,656 - INFO - Completed: 4000 / To go: 8335
+2025-11-05 03:53:54,656 - INFO - Records in product_list: 4000
+2025-11-05 03:53:57,603 - INFO - Completed: 4100 / To go: 8235
+2025-11-05 03:53:57,603 - INFO - Records in product_list: 4100
+2025-11-05 03:54:00,501 - INFO - Completed: 4200 / To go: 8135
+2025-11-05 03:54:00,501 - INFO - Records in product_list: 4200
+2025-11-05 03:54:03,346 - INFO - Completed: 4300 / To go: 8035
+2025-11-05 03:54:03,346 - INFO - Records in product_list: 4300
+2025-11-05 03:54:06,357 - INFO - Completed: 4400 / To go: 7935
+2025-11-05 03:54:06,357 - INFO - Records in product_list: 4400
+2025-11-05 03:54:09,336 - INFO - Completed: 4500 / To go: 7835
+2025-11-05 03:54:09,336 - INFO - Records in product_list: 4500
+2025-11-05 03:54:12,317 - INFO - Completed: 4600 / To go: 7735
+2025-11-05 03:54:12,317 - INFO - Records in product_list: 4600
+2025-11-05 03:54:15,204 - INFO - Completed: 4700 / To go: 7635
+2025-11-05 03:54:15,205 - INFO - Records in product_list: 4700
+2025-11-05 03:54:17,994 - INFO - Completed: 4800 / To go: 7535
+2025-11-05 03:54:17,994 - INFO - Records in product_list: 4800
+2025-11-05 03:54:20,856 - INFO - Completed: 4900 / To go: 7435
+2025-11-05 03:54:20,856 - INFO - Records in product_list: 4900
+2025-11-05 03:54:23,670 - INFO - Completed: 5000 / To go: 7335
+2025-11-05 03:54:23,671 - INFO - Records in product_list: 5000
+2025-11-05 03:54:26,497 - INFO - Completed: 5100 / To go: 7235
+2025-11-05 03:54:26,497 - INFO - Records in product_list: 5100
+2025-11-05 03:54:29,361 - INFO - Completed: 5200 / To go: 7135
+2025-11-05 03:54:29,361 - INFO - Records in product_list: 5200
+2025-11-05 03:54:32,219 - INFO - Completed: 5300 / To go: 7035
+2025-11-05 03:54:32,220 - INFO - Records in product_list: 5300
+2025-11-05 03:54:35,083 - INFO - Completed: 5400 / To go: 6935
+2025-11-05 03:54:35,083 - INFO - Records in product_list: 5400
+2025-11-05 03:54:37,986 - INFO - Completed: 5500 / To go: 6835
+2025-11-05 03:54:37,986 - INFO - Records in product_list: 5500
+2025-11-05 03:54:40,792 - INFO - Completed: 5600 / To go: 6735
+2025-11-05 03:54:40,792 - INFO - Records in product_list: 5600
+2025-11-05 03:54:43,652 - INFO - Completed: 5700 / To go: 6635
+2025-11-05 03:54:43,653 - INFO - Records in product_list: 5700
+2025-11-05 03:54:46,524 - INFO - Completed: 5800 / To go: 6535
+2025-11-05 03:54:46,524 - INFO - Records in product_list: 5800
+2025-11-05 03:54:49,291 - INFO - Completed: 5900 / To go: 6435
+2025-11-05 03:54:49,291 - INFO - Records in product_list: 5900
+2025-11-05 03:54:52,099 - INFO - Completed: 6000 / To go: 6335
+2025-11-05 03:54:52,099 - INFO - Records in product_list: 6000
+2025-11-05 03:54:54,863 - INFO - Completed: 6100 / To go: 6235
+2025-11-05 03:54:54,863 - INFO - Records in product_list: 6100
+2025-11-05 03:54:57,758 - INFO - Completed: 6200 / To go: 6135
+2025-11-05 03:54:57,758 - INFO - Records in product_list: 6200
+2025-11-05 03:55:00,608 - INFO - Completed: 6300 / To go: 6035
+2025-11-05 03:55:00,608 - INFO - Records in product_list: 6300
+2025-11-05 03:55:03,497 - INFO - Completed: 6400 / To go: 5935
+2025-11-05 03:55:03,497 - INFO - Records in product_list: 6400
+2025-11-05 03:55:06,317 - INFO - Completed: 6500 / To go: 5835
+2025-11-05 03:55:06,317 - INFO - Records in product_list: 6500
+2025-11-05 03:55:09,126 - INFO - Completed: 6600 / To go: 5735
+2025-11-05 03:55:09,126 - INFO - Records in product_list: 6600
+2025-11-05 03:55:11,927 - INFO - Completed: 6700 / To go: 5635
+2025-11-05 03:55:11,927 - INFO - Records in product_list: 6700
+2025-11-05 03:55:14,762 - INFO - Completed: 6800 / To go: 5535
+2025-11-05 03:55:14,762 - INFO - Records in product_list: 6800
+2025-11-05 03:55:17,566 - INFO - Completed: 6900 / To go: 5435
+2025-11-05 03:55:17,566 - INFO - Records in product_list: 6900
+2025-11-05 03:55:20,371 - INFO - Completed: 7000 / To go: 5335
+2025-11-05 03:55:20,372 - INFO - Records in product_list: 7000
+2025-11-05 03:55:23,196 - INFO - Completed: 7100 / To go: 5235
+2025-11-05 03:55:23,196 - INFO - Records in product_list: 7100
+2025-11-05 03:55:25,965 - INFO - Completed: 7200 / To go: 5135
+2025-11-05 03:55:25,965 - INFO - Records in product_list: 7200
+2025-11-05 03:55:28,700 - INFO - Completed: 7300 / To go: 5035
+2025-11-05 03:55:28,700 - INFO - Records in product_list: 7300
+2025-11-05 03:55:31,487 - INFO - Completed: 7400 / To go: 4935
+2025-11-05 03:55:31,487 - INFO - Records in product_list: 7400
+2025-11-05 03:55:34,220 - INFO - Completed: 7500 / To go: 4835
+2025-11-05 03:55:34,220 - INFO - Records in product_list: 7500
+2025-11-05 03:55:36,952 - INFO - Completed: 7600 / To go: 4735
+2025-11-05 03:55:36,952 - INFO - Records in product_list: 7600
+2025-11-05 03:55:39,719 - INFO - Completed: 7700 / To go: 4635
+2025-11-05 03:55:39,719 - INFO - Records in product_list: 7700
+2025-11-05 03:55:42,465 - INFO - Completed: 7800 / To go: 4535
+2025-11-05 03:55:42,465 - INFO - Records in product_list: 7800
+2025-11-05 03:55:45,146 - INFO - Completed: 7900 / To go: 4435
+2025-11-05 03:55:45,146 - INFO - Records in product_list: 7900
+2025-11-05 03:55:47,822 - INFO - Completed: 8000 / To go: 4335
+2025-11-05 03:55:47,822 - INFO - Records in product_list: 8000
+2025-11-05 03:55:50,554 - INFO - Completed: 8100 / To go: 4235
+2025-11-05 03:55:50,554 - INFO - Records in product_list: 8100
+2025-11-05 03:55:53,512 - INFO - Completed: 8200 / To go: 4135
+2025-11-05 03:55:53,512 - INFO - Records in product_list: 8200
+2025-11-05 03:55:56,222 - INFO - Completed: 8300 / To go: 4035
+2025-11-05 03:55:56,222 - INFO - Records in product_list: 8300
+2025-11-05 03:55:58,896 - INFO - Completed: 8400 / To go: 3935
+2025-11-05 03:55:58,896 - INFO - Records in product_list: 8400
+2025-11-05 03:56:01,595 - INFO - Completed: 8500 / To go: 3835
+2025-11-05 03:56:01,595 - INFO - Records in product_list: 8500
+2025-11-05 03:56:04,279 - INFO - Completed: 8600 / To go: 3735
+2025-11-05 03:56:04,279 - INFO - Records in product_list: 8600
+2025-11-05 03:56:06,948 - INFO - Completed: 8700 / To go: 3635
+2025-11-05 03:56:06,948 - INFO - Records in product_list: 8700
+2025-11-05 03:56:09,632 - INFO - Completed: 8800 / To go: 3535
+2025-11-05 03:56:09,632 - INFO - Records in product_list: 8800
+2025-11-05 03:56:12,337 - INFO - Completed: 8900 / To go: 3435
+2025-11-05 03:56:12,338 - INFO - Records in product_list: 8900
+2025-11-05 03:56:15,043 - INFO - Completed: 9000 / To go: 3335
+2025-11-05 03:56:15,043 - INFO - Records in product_list: 9000
+2025-11-05 03:56:17,783 - INFO - Completed: 9100 / To go: 3235
+2025-11-05 03:56:17,783 - INFO - Records in product_list: 9100
+2025-11-05 03:56:20,388 - INFO - Completed: 9200 / To go: 3135
+2025-11-05 03:56:20,389 - INFO - Records in product_list: 9200
+2025-11-05 03:56:23,026 - INFO - Completed: 9300 / To go: 3035
+2025-11-05 03:56:23,027 - INFO - Records in product_list: 9300
+2025-11-05 03:56:25,679 - INFO - Completed: 9400 / To go: 2935
+2025-11-05 03:56:25,679 - INFO - Records in product_list: 9400
+2025-11-05 03:56:28,314 - INFO - Completed: 9500 / To go: 2835
+2025-11-05 03:56:28,314 - INFO - Records in product_list: 9500
+2025-11-05 03:56:31,058 - INFO - Completed: 9600 / To go: 2735
+2025-11-05 03:56:31,058 - INFO - Records in product_list: 9600
+2025-11-05 03:56:33,740 - INFO - Completed: 9700 / To go: 2635
+2025-11-05 03:56:33,740 - INFO - Records in product_list: 9700
+2025-11-05 03:56:36,398 - INFO - Completed: 9800 / To go: 2535
+2025-11-05 03:56:36,399 - INFO - Records in product_list: 9800
+2025-11-05 03:56:39,126 - INFO - Completed: 9900 / To go: 2435
+2025-11-05 03:56:39,126 - INFO - Records in product_list: 9900
+2025-11-05 03:56:42,013 - INFO - Completed: 10000 / To go: 2335
+2025-11-05 03:56:42,014 - INFO - Records in product_list: 10000
+2025-11-05 03:56:44,852 - INFO - Completed: 10100 / To go: 2235
+2025-11-05 03:56:44,852 - INFO - Records in product_list: 10100
+2025-11-05 03:56:47,784 - INFO - Completed: 10200 / To go: 2135
+2025-11-05 03:56:47,784 - INFO - Records in product_list: 10200
+2025-11-05 03:56:50,552 - INFO - Completed: 10300 / To go: 2035
+2025-11-05 03:56:50,552 - INFO - Records in product_list: 10300
+2025-11-05 03:56:53,266 - INFO - Completed: 10400 / To go: 1935
+2025-11-05 03:56:53,266 - INFO - Records in product_list: 10400
+2025-11-05 03:56:55,939 - INFO - Completed: 10500 / To go: 1835
+2025-11-05 03:56:55,939 - INFO - Records in product_list: 10500
+2025-11-05 03:56:58,840 - INFO - Completed: 10600 / To go: 1735
+2025-11-05 03:56:58,840 - INFO - Records in product_list: 10600
+2025-11-05 03:57:01,648 - INFO - Completed: 10700 / To go: 1635
+2025-11-05 03:57:01,648 - INFO - Records in product_list: 10700
+2025-11-05 03:57:04,423 - INFO - Completed: 10800 / To go: 1535
+2025-11-05 03:57:04,424 - INFO - Records in product_list: 10800
+2025-11-05 03:57:07,292 - INFO - Completed: 10900 / To go: 1435
+2025-11-05 03:57:07,292 - INFO - Records in product_list: 10900
+2025-11-05 03:57:10,138 - INFO - Completed: 11000 / To go: 1335
+2025-11-05 03:57:10,138 - INFO - Records in product_list: 11000
+2025-11-05 03:57:12,916 - INFO - Completed: 11100 / To go: 1235
+2025-11-05 03:57:12,916 - INFO - Records in product_list: 11100
+2025-11-05 03:57:15,712 - INFO - Completed: 11200 / To go: 1135
+2025-11-05 03:57:15,712 - INFO - Records in product_list: 11200
+2025-11-05 03:57:18,470 - INFO - Completed: 11300 / To go: 1035
+2025-11-05 03:57:18,470 - INFO - Records in product_list: 11300
+2025-11-05 03:57:21,258 - INFO - Completed: 11400 / To go: 935
+2025-11-05 03:57:21,258 - INFO - Records in product_list: 11400
+2025-11-05 03:57:24,072 - INFO - Completed: 11500 / To go: 835
+2025-11-05 03:57:24,072 - INFO - Records in product_list: 11500
+2025-11-05 03:57:27,030 - INFO - Completed: 11600 / To go: 735
+2025-11-05 03:57:27,031 - INFO - Records in product_list: 11600
+2025-11-05 03:57:29,765 - INFO - Completed: 11700 / To go: 635
+2025-11-05 03:57:29,765 - INFO - Records in product_list: 11700
+2025-11-05 03:57:32,561 - INFO - Completed: 11800 / To go: 535
+2025-11-05 03:57:32,561 - INFO - Records in product_list: 11800
+2025-11-05 03:57:35,378 - INFO - Completed: 11900 / To go: 435
+2025-11-05 03:57:35,378 - INFO - Records in product_list: 11900
+2025-11-05 03:57:38,098 - INFO - Completed: 12000 / To go: 335
+2025-11-05 03:57:38,098 - INFO - Records in product_list: 12000
+2025-11-05 03:57:40,889 - INFO - Completed: 12100 / To go: 235
+2025-11-05 03:57:40,889 - INFO - Records in product_list: 12100
+2025-11-05 03:57:43,650 - INFO - Completed: 12200 / To go: 135
+2025-11-05 03:57:43,650 - INFO - Records in product_list: 12200
+2025-11-05 03:57:46,278 - INFO - Completed: 12300 / To go: 35
+2025-11-05 03:57:46,278 - INFO - Records in product_list: 12300
+2025-11-05 03:57:48,779 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:57:48,779 - INFO - Records in product_list: 12334
+2025-11-05 03:57:51,304 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:57:51,304 - INFO - Records in product_list: 12334
+2025-11-05 03:57:53,592 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:57:53,592 - INFO - Records in product_list: 12334
+2025-11-05 03:57:55,870 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:57:55,870 - INFO - Records in product_list: 12334
+2025-11-05 03:57:58,214 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:57:58,214 - INFO - Records in product_list: 12334
+2025-11-05 03:58:00,502 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:58:00,502 - INFO - Records in product_list: 12334
+2025-11-05 03:58:02,783 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:58:02,783 - INFO - Records in product_list: 12334
+2025-11-05 03:58:05,055 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:58:05,055 - INFO - Records in product_list: 12334
+2025-11-05 03:58:07,425 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:58:07,425 - INFO - Records in product_list: 12334
+2025-11-05 03:58:09,842 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:58:09,843 - INFO - Records in product_list: 12334
+2025-11-05 03:58:12,199 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:58:12,199 - INFO - Records in product_list: 12334
+2025-11-05 03:58:14,539 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:58:14,539 - INFO - Records in product_list: 12334
+2025-11-05 03:58:16,829 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:58:16,829 - INFO - Records in product_list: 12334
+2025-11-05 03:58:19,111 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:58:19,111 - INFO - Records in product_list: 12334
+2025-11-05 03:58:21,403 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:58:21,403 - INFO - Records in product_list: 12334
+2025-11-05 03:58:23,718 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:58:23,718 - INFO - Records in product_list: 12334
+2025-11-05 03:58:26,181 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:58:26,181 - INFO - Records in product_list: 12334
+2025-11-05 03:58:28,538 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:58:28,539 - INFO - Records in product_list: 12334
+2025-11-05 03:58:30,821 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:58:30,821 - INFO - Records in product_list: 12334
+2025-11-05 03:58:33,936 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:58:33,936 - INFO - Records in product_list: 12334
+2025-11-05 03:58:36,225 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:58:36,225 - INFO - Records in product_list: 12334
+2025-11-05 03:58:38,503 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:58:38,503 - INFO - Records in product_list: 12334
+2025-11-05 03:58:40,792 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:58:40,792 - INFO - Records in product_list: 12334
+2025-11-05 03:58:45,126 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:58:45,126 - INFO - Records in product_list: 12334
+2025-11-05 03:58:47,407 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:58:47,407 - INFO - Records in product_list: 12334
+2025-11-05 03:58:49,681 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:58:49,681 - INFO - Records in product_list: 12334
+2025-11-05 03:58:51,967 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:58:51,967 - INFO - Records in product_list: 12334
+2025-11-05 03:58:54,251 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:58:54,252 - INFO - Records in product_list: 12334
+2025-11-05 03:58:56,536 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:58:56,536 - INFO - Records in product_list: 12334
+2025-11-05 03:58:58,834 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:58:58,834 - INFO - Records in product_list: 12334
+2025-11-05 03:59:01,121 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:59:01,121 - INFO - Records in product_list: 12334
+2025-11-05 03:59:03,415 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:59:03,415 - INFO - Records in product_list: 12334
+2025-11-05 03:59:05,703 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:59:05,703 - INFO - Records in product_list: 12334
+2025-11-05 03:59:07,977 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:59:07,977 - INFO - Records in product_list: 12334
+2025-11-05 03:59:10,268 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:59:10,268 - INFO - Records in product_list: 12334
+2025-11-05 03:59:12,557 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:59:12,557 - INFO - Records in product_list: 12334
+2025-11-05 03:59:14,836 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:59:14,836 - INFO - Records in product_list: 12334
+2025-11-05 03:59:17,123 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:59:17,123 - INFO - Records in product_list: 12334
+2025-11-05 03:59:19,415 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:59:19,415 - INFO - Records in product_list: 12334
+2025-11-05 03:59:21,699 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:59:21,699 - INFO - Records in product_list: 12334
+2025-11-05 03:59:23,992 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:59:23,992 - INFO - Records in product_list: 12334
+2025-11-05 03:59:26,283 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:59:26,283 - INFO - Records in product_list: 12334
+2025-11-05 03:59:28,564 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:59:28,564 - INFO - Records in product_list: 12334
+2025-11-05 03:59:30,848 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:59:30,849 - INFO - Records in product_list: 12334
+2025-11-05 03:59:33,122 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:59:33,122 - INFO - Records in product_list: 12334
+2025-11-05 03:59:35,432 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:59:35,432 - INFO - Records in product_list: 12334
+2025-11-05 03:59:37,716 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:59:37,716 - INFO - Records in product_list: 12334
+2025-11-05 03:59:40,013 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:59:40,013 - INFO - Records in product_list: 12334
+2025-11-05 03:59:42,294 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:59:42,294 - INFO - Records in product_list: 12334
+2025-11-05 03:59:44,666 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:59:44,666 - INFO - Records in product_list: 12334
+2025-11-05 03:59:46,949 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:59:46,950 - INFO - Records in product_list: 12334
+2025-11-05 03:59:49,245 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:59:49,245 - INFO - Records in product_list: 12334
+2025-11-05 03:59:51,518 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:59:51,519 - INFO - Records in product_list: 12334
+2025-11-05 03:59:53,806 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:59:53,806 - INFO - Records in product_list: 12334
+2025-11-05 03:59:56,166 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:59:56,166 - INFO - Records in product_list: 12334
+2025-11-05 03:59:58,513 - INFO - Completed: 12334 / To go: 1
+2025-11-05 03:59:58,514 - INFO - Records in product_list: 12334
+2025-11-05 04:00:00,811 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:00:00,812 - INFO - Records in product_list: 12334
+2025-11-05 04:00:03,181 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:00:03,181 - INFO - Records in product_list: 12334
+2025-11-05 04:00:05,471 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:00:05,471 - INFO - Records in product_list: 12334
+2025-11-05 04:00:07,754 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:00:07,754 - INFO - Records in product_list: 12334
+2025-11-05 04:00:10,058 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:00:10,058 - INFO - Records in product_list: 12334
+2025-11-05 04:00:12,335 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:00:12,335 - INFO - Records in product_list: 12334
+2025-11-05 04:00:14,626 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:00:14,626 - INFO - Records in product_list: 12334
+2025-11-05 04:00:16,941 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:00:16,941 - INFO - Records in product_list: 12334
+2025-11-05 04:00:19,219 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:00:19,219 - INFO - Records in product_list: 12334
+2025-11-05 04:00:21,509 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:00:21,509 - INFO - Records in product_list: 12334
+2025-11-05 04:00:23,792 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:00:23,792 - INFO - Records in product_list: 12334
+2025-11-05 04:00:26,071 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:00:26,071 - INFO - Records in product_list: 12334
+2025-11-05 04:00:28,368 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:00:28,368 - INFO - Records in product_list: 12334
+2025-11-05 04:00:30,651 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:00:30,652 - INFO - Records in product_list: 12334
+2025-11-05 04:00:32,941 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:00:32,941 - INFO - Records in product_list: 12334
+2025-11-05 04:00:35,321 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:00:35,321 - INFO - Records in product_list: 12334
+2025-11-05 04:00:37,637 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:00:37,637 - INFO - Records in product_list: 12334
+2025-11-05 04:00:39,935 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:00:39,935 - INFO - Records in product_list: 12334
+2025-11-05 04:00:42,227 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:00:42,227 - INFO - Records in product_list: 12334
+2025-11-05 04:00:44,539 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:00:44,540 - INFO - Records in product_list: 12334
+2025-11-05 04:00:46,827 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:00:46,827 - INFO - Records in product_list: 12334
+2025-11-05 04:00:49,123 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:00:49,123 - INFO - Records in product_list: 12334
+2025-11-05 04:00:51,437 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:00:51,437 - INFO - Records in product_list: 12334
+2025-11-05 04:00:53,753 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:00:53,753 - INFO - Records in product_list: 12334
+2025-11-05 04:00:56,032 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:00:56,032 - INFO - Records in product_list: 12334
+2025-11-05 04:00:58,321 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:00:58,321 - INFO - Records in product_list: 12334
+2025-11-05 04:01:00,610 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:01:00,610 - INFO - Records in product_list: 12334
+2025-11-05 04:01:02,977 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:01:02,977 - INFO - Records in product_list: 12334
+2025-11-05 04:01:05,261 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:01:05,261 - INFO - Records in product_list: 12334
+2025-11-05 04:01:07,545 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:01:07,546 - INFO - Records in product_list: 12334
+2025-11-05 04:01:10,060 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:01:10,061 - INFO - Records in product_list: 12334
+2025-11-05 04:01:12,344 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:01:12,344 - INFO - Records in product_list: 12334
+2025-11-05 04:01:14,621 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:01:14,622 - INFO - Records in product_list: 12334
+2025-11-05 04:01:16,907 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:01:16,907 - INFO - Records in product_list: 12334
+2025-11-05 04:01:19,180 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:01:19,180 - INFO - Records in product_list: 12334
+2025-11-05 04:01:21,465 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:01:21,465 - INFO - Records in product_list: 12334
+2025-11-05 04:01:23,751 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:01:23,751 - INFO - Records in product_list: 12334
+2025-11-05 04:01:26,075 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:01:26,075 - INFO - Records in product_list: 12334
+2025-11-05 04:01:28,375 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:01:28,375 - INFO - Records in product_list: 12334
+2025-11-05 04:01:30,661 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:01:30,662 - INFO - Records in product_list: 12334
+2025-11-05 04:01:32,943 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:01:32,943 - INFO - Records in product_list: 12334
+2025-11-05 04:01:35,248 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:01:35,248 - INFO - Records in product_list: 12334
+2025-11-05 04:01:37,551 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:01:37,551 - INFO - Records in product_list: 12334
+2025-11-05 04:01:39,865 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:01:39,865 - INFO - Records in product_list: 12334
+2025-11-05 04:01:42,169 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:01:42,170 - INFO - Records in product_list: 12334
+2025-11-05 04:01:44,456 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:01:44,456 - INFO - Records in product_list: 12334
+2025-11-05 04:01:46,744 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:01:46,744 - INFO - Records in product_list: 12334
+2025-11-05 04:01:49,041 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:01:49,041 - INFO - Records in product_list: 12334
+2025-11-05 04:01:51,319 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:01:51,319 - INFO - Records in product_list: 12334
+2025-11-05 04:01:53,624 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:01:53,624 - INFO - Records in product_list: 12334
+2025-11-05 04:01:55,903 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:01:55,903 - INFO - Records in product_list: 12334
+2025-11-05 04:01:58,203 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:01:58,203 - INFO - Records in product_list: 12334
+2025-11-05 04:02:00,495 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:02:00,495 - INFO - Records in product_list: 12334
+2025-11-05 04:02:02,783 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:02:02,783 - INFO - Records in product_list: 12334
+2025-11-05 04:02:05,083 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:02:05,083 - INFO - Records in product_list: 12334
+2025-11-05 04:02:07,441 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:02:07,441 - INFO - Records in product_list: 12334
+2025-11-05 04:02:09,794 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:02:09,794 - INFO - Records in product_list: 12334
+2025-11-05 04:02:12,067 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:02:12,067 - INFO - Records in product_list: 12334
+2025-11-05 04:02:14,365 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:02:14,365 - INFO - Records in product_list: 12334
+2025-11-05 04:02:16,658 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:02:16,658 - INFO - Records in product_list: 12334
+2025-11-05 04:02:18,962 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:02:18,962 - INFO - Records in product_list: 12334
+2025-11-05 04:02:21,239 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:02:21,239 - INFO - Records in product_list: 12334
+2025-11-05 04:02:23,541 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:02:23,541 - INFO - Records in product_list: 12334
+2025-11-05 04:02:25,837 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:02:25,837 - INFO - Records in product_list: 12334
+2025-11-05 04:02:28,125 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:02:28,125 - INFO - Records in product_list: 12334
+2025-11-05 04:02:30,415 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:02:30,416 - INFO - Records in product_list: 12334
+2025-11-05 04:02:32,709 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:02:32,709 - INFO - Records in product_list: 12334
+2025-11-05 04:02:35,000 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:02:35,000 - INFO - Records in product_list: 12334
+2025-11-05 04:02:37,277 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:02:37,277 - INFO - Records in product_list: 12334
+2025-11-05 04:02:39,565 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:02:39,565 - INFO - Records in product_list: 12334
+2025-11-05 04:02:41,933 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:02:41,934 - INFO - Records in product_list: 12334
+2025-11-05 04:02:44,215 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:02:44,215 - INFO - Records in product_list: 12334
+2025-11-05 04:02:46,771 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:02:46,771 - INFO - Records in product_list: 12334
+2025-11-05 04:02:49,164 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:02:49,164 - INFO - Records in product_list: 12334
+2025-11-05 04:02:51,456 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:02:51,456 - INFO - Records in product_list: 12334
+2025-11-05 04:02:53,789 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:02:53,789 - INFO - Records in product_list: 12334
+2025-11-05 04:02:56,143 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:02:56,144 - INFO - Records in product_list: 12334
+2025-11-05 04:02:58,449 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:02:58,450 - INFO - Records in product_list: 12334
+2025-11-05 04:03:00,757 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:03:00,757 - INFO - Records in product_list: 12334
+2025-11-05 04:03:03,088 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:03:03,088 - INFO - Records in product_list: 12334
+2025-11-05 04:03:05,402 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:03:05,402 - INFO - Records in product_list: 12334
+2025-11-05 04:03:07,768 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:03:07,768 - INFO - Records in product_list: 12334
+2025-11-05 04:03:10,079 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:03:10,079 - INFO - Records in product_list: 12334
+2025-11-05 04:03:12,379 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:03:12,379 - INFO - Records in product_list: 12334
+2025-11-05 04:03:14,672 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:03:14,672 - INFO - Records in product_list: 12334
+2025-11-05 04:03:16,950 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:03:16,950 - INFO - Records in product_list: 12334
+2025-11-05 04:03:19,295 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:03:19,295 - INFO - Records in product_list: 12334
+2025-11-05 04:03:21,597 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:03:21,597 - INFO - Records in product_list: 12334
+2025-11-05 04:03:23,907 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:03:23,907 - INFO - Records in product_list: 12334
+2025-11-05 04:03:26,261 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:03:26,261 - INFO - Records in product_list: 12334
+2025-11-05 04:03:28,549 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:03:28,549 - INFO - Records in product_list: 12334
+2025-11-05 04:03:30,857 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:03:30,857 - INFO - Records in product_list: 12334
+2025-11-05 04:03:33,163 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:03:33,163 - INFO - Records in product_list: 12334
+2025-11-05 04:03:35,441 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:03:35,441 - INFO - Records in product_list: 12334
+2025-11-05 04:03:37,785 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:03:37,785 - INFO - Records in product_list: 12334
+2025-11-05 04:03:40,075 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:03:40,076 - INFO - Records in product_list: 12334
+2025-11-05 04:03:42,378 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:03:42,378 - INFO - Records in product_list: 12334
+2025-11-05 04:03:44,750 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:03:44,750 - INFO - Records in product_list: 12334
+2025-11-05 04:03:47,034 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:03:47,034 - INFO - Records in product_list: 12334
+2025-11-05 04:03:49,321 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:03:49,322 - INFO - Records in product_list: 12334
+2025-11-05 04:03:51,776 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:03:51,777 - INFO - Records in product_list: 12334
+2025-11-05 04:03:54,062 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:03:54,063 - INFO - Records in product_list: 12334
+2025-11-05 04:03:56,350 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:03:56,351 - INFO - Records in product_list: 12334
+2025-11-05 04:03:58,650 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:03:58,650 - INFO - Records in product_list: 12334
+2025-11-05 04:04:00,934 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:04:00,934 - INFO - Records in product_list: 12334
+2025-11-05 04:04:03,248 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:04:03,248 - INFO - Records in product_list: 12334
+2025-11-05 04:04:05,532 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:04:05,532 - INFO - Records in product_list: 12334
+2025-11-05 04:04:07,828 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:04:07,828 - INFO - Records in product_list: 12334
+2025-11-05 04:04:10,112 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:04:10,112 - INFO - Records in product_list: 12334
+2025-11-05 04:04:12,401 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:04:12,401 - INFO - Records in product_list: 12334
+2025-11-05 04:04:14,766 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:04:14,766 - INFO - Records in product_list: 12334
+2025-11-05 04:04:17,069 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:04:17,069 - INFO - Records in product_list: 12334
+2025-11-05 04:04:19,708 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:04:19,708 - INFO - Records in product_list: 12334
+2025-11-05 04:04:22,028 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:04:22,028 - INFO - Records in product_list: 12334
+2025-11-05 04:04:24,600 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:04:24,600 - INFO - Records in product_list: 12334
+2025-11-05 04:04:26,901 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:04:26,901 - INFO - Records in product_list: 12334
+2025-11-05 04:04:29,183 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:04:29,183 - INFO - Records in product_list: 12334
+2025-11-05 04:04:31,483 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:04:31,483 - INFO - Records in product_list: 12334
+2025-11-05 04:04:33,861 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:04:33,861 - INFO - Records in product_list: 12334
+2025-11-05 04:04:36,217 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:04:36,217 - INFO - Records in product_list: 12334
+2025-11-05 04:04:38,504 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:04:38,504 - INFO - Records in product_list: 12334
+2025-11-05 04:04:40,799 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:04:40,799 - INFO - Records in product_list: 12334
+2025-11-05 04:04:43,092 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:04:43,092 - INFO - Records in product_list: 12334
+2025-11-05 04:04:45,392 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:04:45,392 - INFO - Records in product_list: 12334
+2025-11-05 04:04:47,681 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:04:47,681 - INFO - Records in product_list: 12334
+2025-11-05 04:04:49,963 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:04:49,963 - INFO - Records in product_list: 12334
+2025-11-05 04:04:52,260 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:04:52,260 - INFO - Records in product_list: 12334
+2025-11-05 04:04:54,562 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:04:54,562 - INFO - Records in product_list: 12334
+2025-11-05 04:04:56,845 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:04:56,845 - INFO - Records in product_list: 12334
+2025-11-05 04:04:59,187 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:04:59,187 - INFO - Records in product_list: 12334
+2025-11-05 04:05:01,476 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:05:01,476 - INFO - Records in product_list: 12334
+2025-11-05 04:05:03,805 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:05:03,805 - INFO - Records in product_list: 12334
+2025-11-05 04:05:06,095 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:05:06,095 - INFO - Records in product_list: 12334
+2025-11-05 04:05:08,412 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:05:08,412 - INFO - Records in product_list: 12334
+2025-11-05 04:05:10,794 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:05:10,794 - INFO - Records in product_list: 12334
+2025-11-05 04:05:13,097 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:05:13,097 - INFO - Records in product_list: 12334
+2025-11-05 04:05:15,389 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:05:15,389 - INFO - Records in product_list: 12334
+2025-11-05 04:05:17,704 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:05:17,704 - INFO - Records in product_list: 12334
+2025-11-05 04:05:19,999 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:05:20,000 - INFO - Records in product_list: 12334
+2025-11-05 04:05:22,283 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:05:22,284 - INFO - Records in product_list: 12334
+2025-11-05 04:05:24,566 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:05:24,566 - INFO - Records in product_list: 12334
+2025-11-05 04:05:26,851 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:05:26,851 - INFO - Records in product_list: 12334
+2025-11-05 04:05:29,151 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:05:29,151 - INFO - Records in product_list: 12334
+2025-11-05 04:05:31,432 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:05:31,433 - INFO - Records in product_list: 12334
+2025-11-05 04:05:33,722 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:05:33,722 - INFO - Records in product_list: 12334
+2025-11-05 04:05:36,013 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:05:36,013 - INFO - Records in product_list: 12334
+2025-11-05 04:05:38,303 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:05:38,303 - INFO - Records in product_list: 12334
+2025-11-05 04:05:40,593 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:05:40,593 - INFO - Records in product_list: 12334
+2025-11-05 04:05:42,877 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:05:42,877 - INFO - Records in product_list: 12334
+2025-11-05 04:05:45,169 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:05:45,169 - INFO - Records in product_list: 12334
+2025-11-05 04:05:47,458 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:05:47,458 - INFO - Records in product_list: 12334
+2025-11-05 04:05:49,827 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:05:49,827 - INFO - Records in product_list: 12334
+2025-11-05 04:05:52,132 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:05:52,132 - INFO - Records in product_list: 12334
+2025-11-05 04:05:54,424 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:05:54,424 - INFO - Records in product_list: 12334
+2025-11-05 04:05:56,722 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:05:56,722 - INFO - Records in product_list: 12334
+2025-11-05 04:05:59,020 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:05:59,020 - INFO - Records in product_list: 12334
+2025-11-05 04:06:01,308 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:06:01,309 - INFO - Records in product_list: 12334
+2025-11-05 04:06:03,601 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:06:03,601 - INFO - Records in product_list: 12334
+2025-11-05 04:06:05,969 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:06:05,969 - INFO - Records in product_list: 12334
+2025-11-05 04:06:08,264 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:06:08,264 - INFO - Records in product_list: 12334
+2025-11-05 04:06:10,552 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:06:10,552 - INFO - Records in product_list: 12334
+2025-11-05 04:06:12,835 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:06:12,835 - INFO - Records in product_list: 12334
+2025-11-05 04:06:15,143 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:06:15,143 - INFO - Records in product_list: 12334
+2025-11-05 04:06:17,442 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:06:17,442 - INFO - Records in product_list: 12334
+2025-11-05 04:06:19,747 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:06:19,748 - INFO - Records in product_list: 12334
+2025-11-05 04:06:22,029 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:06:22,029 - INFO - Records in product_list: 12334
+2025-11-05 04:06:24,395 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:06:24,395 - INFO - Records in product_list: 12334
+2025-11-05 04:06:26,717 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:06:26,717 - INFO - Records in product_list: 12334
+2025-11-05 04:06:29,010 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:06:29,010 - INFO - Records in product_list: 12334
+2025-11-05 04:06:31,299 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:06:31,299 - INFO - Records in product_list: 12334
+2025-11-05 04:06:33,583 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:06:33,583 - INFO - Records in product_list: 12334
+2025-11-05 04:06:35,866 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:06:35,866 - INFO - Records in product_list: 12334
+2025-11-05 04:06:38,155 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:06:38,156 - INFO - Records in product_list: 12334
+2025-11-05 04:06:40,447 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:06:40,447 - INFO - Records in product_list: 12334
+2025-11-05 04:06:42,750 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:06:42,751 - INFO - Records in product_list: 12334
+2025-11-05 04:06:45,039 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:06:45,039 - INFO - Records in product_list: 12334
+2025-11-05 04:06:47,330 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:06:47,330 - INFO - Records in product_list: 12334
+2025-11-05 04:06:49,627 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:06:49,627 - INFO - Records in product_list: 12334
+2025-11-05 04:06:51,923 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:06:51,924 - INFO - Records in product_list: 12334
+2025-11-05 04:06:54,212 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:06:54,212 - INFO - Records in product_list: 12334
+2025-11-05 04:06:56,500 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:06:56,500 - INFO - Records in product_list: 12334
+2025-11-05 04:06:58,774 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:06:58,774 - INFO - Records in product_list: 12334
+2025-11-05 04:07:01,080 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:07:01,080 - INFO - Records in product_list: 12334
+2025-11-05 04:07:03,359 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:07:03,360 - INFO - Records in product_list: 12334
+2025-11-05 04:07:05,654 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:07:05,655 - INFO - Records in product_list: 12334
+2025-11-05 04:07:07,943 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:07:07,943 - INFO - Records in product_list: 12334
+2025-11-05 04:07:10,301 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:07:10,301 - INFO - Records in product_list: 12334
+2025-11-05 04:07:12,656 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:07:12,656 - INFO - Records in product_list: 12334
+2025-11-05 04:07:14,951 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:07:14,951 - INFO - Records in product_list: 12334
+2025-11-05 04:07:17,247 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:07:17,247 - INFO - Records in product_list: 12334
+2025-11-05 04:07:19,533 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:07:19,533 - INFO - Records in product_list: 12334
+2025-11-05 04:07:21,820 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:07:21,820 - INFO - Records in product_list: 12334
+2025-11-05 04:07:24,111 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:07:24,111 - INFO - Records in product_list: 12334
+2025-11-05 04:07:26,401 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:07:26,401 - INFO - Records in product_list: 12334
+2025-11-05 04:07:28,679 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:07:28,679 - INFO - Records in product_list: 12334
+2025-11-05 04:07:30,958 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:07:30,958 - INFO - Records in product_list: 12334
+2025-11-05 04:07:33,255 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:07:33,255 - INFO - Records in product_list: 12334
+2025-11-05 04:07:35,538 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:07:35,538 - INFO - Records in product_list: 12334
+2025-11-05 04:07:37,817 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:07:37,817 - INFO - Records in product_list: 12334
+2025-11-05 04:07:40,096 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:07:40,096 - INFO - Records in product_list: 12334
+2025-11-05 04:07:42,514 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:07:42,514 - INFO - Records in product_list: 12334
+2025-11-05 04:07:44,807 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:07:44,807 - INFO - Records in product_list: 12334
+2025-11-05 04:07:47,098 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:07:47,098 - INFO - Records in product_list: 12334
+2025-11-05 04:07:49,398 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:07:49,398 - INFO - Records in product_list: 12334
+2025-11-05 04:07:52,092 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:07:52,092 - INFO - Records in product_list: 12334
+2025-11-05 04:07:54,377 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:07:54,377 - INFO - Records in product_list: 12334
+2025-11-05 04:07:56,693 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:07:56,693 - INFO - Records in product_list: 12334
+2025-11-05 04:07:58,971 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:07:58,971 - INFO - Records in product_list: 12334
+2025-11-05 04:08:01,254 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:08:01,255 - INFO - Records in product_list: 12334
+2025-11-05 04:08:03,561 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:08:03,561 - INFO - Records in product_list: 12334
+2025-11-05 04:08:05,856 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:08:05,856 - INFO - Records in product_list: 12334
+2025-11-05 04:08:08,147 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:08:08,147 - INFO - Records in product_list: 12334
+2025-11-05 04:08:10,440 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:08:10,440 - INFO - Records in product_list: 12334
+2025-11-05 04:08:12,718 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:08:12,718 - INFO - Records in product_list: 12334
+2025-11-05 04:08:15,017 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:08:15,017 - INFO - Records in product_list: 12334
+2025-11-05 04:08:17,306 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:08:17,306 - INFO - Records in product_list: 12334
+2025-11-05 04:08:19,597 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:08:19,597 - INFO - Records in product_list: 12334
+2025-11-05 04:08:21,889 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:08:21,890 - INFO - Records in product_list: 12334
+2025-11-05 04:08:24,177 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:08:24,178 - INFO - Records in product_list: 12334
+2025-11-05 04:08:26,468 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:08:26,468 - INFO - Records in product_list: 12334
+2025-11-05 04:08:28,749 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:08:28,749 - INFO - Records in product_list: 12334
+2025-11-05 04:08:31,145 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:08:31,145 - INFO - Records in product_list: 12334
+2025-11-05 04:08:33,425 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:08:33,426 - INFO - Records in product_list: 12334
+2025-11-05 04:08:35,725 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:08:35,725 - INFO - Records in product_list: 12334
+2025-11-05 04:08:38,018 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:08:38,018 - INFO - Records in product_list: 12334
+2025-11-05 04:08:40,306 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:08:40,306 - INFO - Records in product_list: 12334
+2025-11-05 04:08:42,690 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:08:42,690 - INFO - Records in product_list: 12334
+2025-11-05 04:08:44,978 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:08:44,978 - INFO - Records in product_list: 12334
+2025-11-05 04:08:47,257 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:08:47,257 - INFO - Records in product_list: 12334
+2025-11-05 04:08:49,537 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:08:49,538 - INFO - Records in product_list: 12334
+2025-11-05 04:08:51,831 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:08:51,831 - INFO - Records in product_list: 12334
+2025-11-05 04:08:54,146 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:08:54,146 - INFO - Records in product_list: 12334
+2025-11-05 04:08:56,446 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:08:56,446 - INFO - Records in product_list: 12334
+2025-11-05 04:08:58,736 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:08:58,736 - INFO - Records in product_list: 12334
+2025-11-05 04:09:01,022 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:09:01,023 - INFO - Records in product_list: 12334
+2025-11-05 04:09:03,320 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:09:03,320 - INFO - Records in product_list: 12334
+2025-11-05 04:09:05,608 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:09:05,608 - INFO - Records in product_list: 12334
+2025-11-05 04:09:07,908 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:09:07,908 - INFO - Records in product_list: 12334
+2025-11-05 04:09:10,206 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:09:10,207 - INFO - Records in product_list: 12334
+2025-11-05 04:09:12,501 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:09:12,501 - INFO - Records in product_list: 12334
+2025-11-05 04:09:14,820 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:09:14,820 - INFO - Records in product_list: 12334
+2025-11-05 04:09:17,113 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:09:17,113 - INFO - Records in product_list: 12334
+2025-11-05 04:09:19,393 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:09:19,393 - INFO - Records in product_list: 12334
+2025-11-05 04:09:21,684 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:09:21,684 - INFO - Records in product_list: 12334
+2025-11-05 04:09:23,965 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:09:23,965 - INFO - Records in product_list: 12334
+2025-11-05 04:09:26,271 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:09:26,272 - INFO - Records in product_list: 12334
+2025-11-05 04:09:28,577 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:09:28,577 - INFO - Records in product_list: 12334
+2025-11-05 04:09:30,873 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:09:30,873 - INFO - Records in product_list: 12334
+2025-11-05 04:09:33,158 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:09:33,159 - INFO - Records in product_list: 12334
+2025-11-05 04:09:35,455 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:09:35,455 - INFO - Records in product_list: 12334
+2025-11-05 04:09:37,803 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:09:37,803 - INFO - Records in product_list: 12334
+2025-11-05 04:09:40,092 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:09:40,092 - INFO - Records in product_list: 12334
+2025-11-05 04:09:42,377 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:09:42,378 - INFO - Records in product_list: 12334
+2025-11-05 04:09:44,768 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:09:44,768 - INFO - Records in product_list: 12334
+2025-11-05 04:09:47,066 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:09:47,066 - INFO - Records in product_list: 12334
+2025-11-05 04:09:49,361 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:09:49,361 - INFO - Records in product_list: 12334
+2025-11-05 04:09:51,661 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:09:51,662 - INFO - Records in product_list: 12334
+2025-11-05 04:09:53,948 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:09:53,948 - INFO - Records in product_list: 12334
+2025-11-05 04:09:56,259 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:09:56,259 - INFO - Records in product_list: 12334
+2025-11-05 04:09:58,634 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:09:58,634 - INFO - Records in product_list: 12334
+2025-11-05 04:10:00,917 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:10:00,918 - INFO - Records in product_list: 12334
+2025-11-05 04:10:03,205 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:10:03,205 - INFO - Records in product_list: 12334
+2025-11-05 04:10:05,506 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:10:05,507 - INFO - Records in product_list: 12334
+2025-11-05 04:10:07,796 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:10:07,796 - INFO - Records in product_list: 12334
+2025-11-05 04:10:10,138 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:10:10,138 - INFO - Records in product_list: 12334
+2025-11-05 04:10:12,422 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:10:12,422 - INFO - Records in product_list: 12334
+2025-11-05 04:10:14,711 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:10:14,711 - INFO - Records in product_list: 12334
+2025-11-05 04:10:16,996 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:10:16,996 - INFO - Records in product_list: 12334
+2025-11-05 04:10:19,277 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:10:19,277 - INFO - Records in product_list: 12334
+2025-11-05 04:10:21,563 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:10:21,563 - INFO - Records in product_list: 12334
+2025-11-05 04:10:23,912 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:10:23,912 - INFO - Records in product_list: 12334
+2025-11-05 04:10:26,238 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:10:26,238 - INFO - Records in product_list: 12334
+2025-11-05 04:10:28,526 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:10:28,526 - INFO - Records in product_list: 12334
+2025-11-05 04:10:30,818 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:10:30,818 - INFO - Records in product_list: 12334
+2025-11-05 04:10:33,134 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:10:33,134 - INFO - Records in product_list: 12334
+2025-11-05 04:10:35,490 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:10:35,490 - INFO - Records in product_list: 12334
+2025-11-05 04:10:38,263 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:10:38,263 - INFO - Records in product_list: 12334
+2025-11-05 04:10:40,564 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:10:40,564 - INFO - Records in product_list: 12334
+2025-11-05 04:10:43,037 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:10:43,037 - INFO - Records in product_list: 12334
+2025-11-05 04:10:45,322 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:10:45,322 - INFO - Records in product_list: 12334
+2025-11-05 04:10:47,613 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:10:47,613 - INFO - Records in product_list: 12334
+2025-11-05 04:10:49,896 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:10:49,896 - INFO - Records in product_list: 12334
+2025-11-05 04:10:52,180 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:10:52,180 - INFO - Records in product_list: 12334
+2025-11-05 04:10:54,471 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:10:54,471 - INFO - Records in product_list: 12334
+2025-11-05 04:10:56,760 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:10:56,760 - INFO - Records in product_list: 12334
+2025-11-05 04:10:59,056 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:10:59,056 - INFO - Records in product_list: 12334
+2025-11-05 04:11:01,353 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:11:01,353 - INFO - Records in product_list: 12334
+2025-11-05 04:11:03,868 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:11:03,869 - INFO - Records in product_list: 12334
+2025-11-05 04:11:06,142 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:11:06,143 - INFO - Records in product_list: 12334
+2025-11-05 04:11:08,431 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:11:08,431 - INFO - Records in product_list: 12334
+2025-11-05 04:11:10,806 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:11:10,806 - INFO - Records in product_list: 12334
+2025-11-05 04:11:13,130 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:11:13,131 - INFO - Records in product_list: 12334
+2025-11-05 04:11:15,417 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:11:15,418 - INFO - Records in product_list: 12334
+2025-11-05 04:11:17,703 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:11:17,704 - INFO - Records in product_list: 12334
+2025-11-05 04:11:19,998 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:11:19,999 - INFO - Records in product_list: 12334
+2025-11-05 04:11:22,316 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:11:22,316 - INFO - Records in product_list: 12334
+2025-11-05 04:11:24,592 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:11:24,592 - INFO - Records in product_list: 12334
+2025-11-05 04:11:26,962 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:11:26,962 - INFO - Records in product_list: 12334
+2025-11-05 04:11:29,269 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:11:29,269 - INFO - Records in product_list: 12334
+2025-11-05 04:11:31,569 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:11:31,569 - INFO - Records in product_list: 12334
+2025-11-05 04:11:33,869 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:11:33,870 - INFO - Records in product_list: 12334
+2025-11-05 04:11:36,173 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:11:36,173 - INFO - Records in product_list: 12334
+2025-11-05 04:11:38,451 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:11:38,451 - INFO - Records in product_list: 12334
+2025-11-05 04:11:40,757 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:11:40,757 - INFO - Records in product_list: 12334
+2025-11-05 04:11:43,041 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:11:43,041 - INFO - Records in product_list: 12334
+2025-11-05 04:11:45,330 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:11:45,330 - INFO - Records in product_list: 12334
+2025-11-05 04:11:47,618 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:11:47,619 - INFO - Records in product_list: 12334
+2025-11-05 04:11:49,940 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:11:49,941 - INFO - Records in product_list: 12334
+2025-11-05 04:11:52,225 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:11:52,225 - INFO - Records in product_list: 12334
+2025-11-05 04:11:54,515 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:11:54,515 - INFO - Records in product_list: 12334
+2025-11-05 04:11:56,814 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:11:56,814 - INFO - Records in product_list: 12334
+2025-11-05 04:11:59,105 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:11:59,106 - INFO - Records in product_list: 12334
+2025-11-05 04:12:01,382 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:12:01,383 - INFO - Records in product_list: 12334
+2025-11-05 04:12:03,666 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:12:03,666 - INFO - Records in product_list: 12334
+2025-11-05 04:12:05,971 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:12:05,971 - INFO - Records in product_list: 12334
+2025-11-05 04:12:08,291 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:12:08,291 - INFO - Records in product_list: 12334
+2025-11-05 04:12:10,602 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:12:10,602 - INFO - Records in product_list: 12334
+2025-11-05 04:12:12,893 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:12:12,893 - INFO - Records in product_list: 12334
+2025-11-05 04:12:15,200 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:12:15,200 - INFO - Records in product_list: 12334
+2025-11-05 04:12:17,497 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:12:17,497 - INFO - Records in product_list: 12334
+2025-11-05 04:12:19,787 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:12:19,787 - INFO - Records in product_list: 12334
+2025-11-05 04:12:22,072 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:12:22,073 - INFO - Records in product_list: 12334
+2025-11-05 04:12:24,360 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:12:24,360 - INFO - Records in product_list: 12334
+2025-11-05 04:12:26,657 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:12:26,657 - INFO - Records in product_list: 12334
+2025-11-05 04:12:28,937 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:12:28,937 - INFO - Records in product_list: 12334
+2025-11-05 04:12:31,220 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:12:31,220 - INFO - Records in product_list: 12334
+2025-11-05 04:12:33,509 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:12:33,509 - INFO - Records in product_list: 12334
+2025-11-05 04:12:35,806 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:12:35,807 - INFO - Records in product_list: 12334
+2025-11-05 04:12:38,106 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:12:38,106 - INFO - Records in product_list: 12334
+2025-11-05 04:12:40,391 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:12:40,391 - INFO - Records in product_list: 12334
+2025-11-05 04:12:42,685 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:12:42,685 - INFO - Records in product_list: 12334
+2025-11-05 04:12:44,979 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:12:44,979 - INFO - Records in product_list: 12334
+2025-11-05 04:12:47,281 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:12:47,281 - INFO - Records in product_list: 12334
+2025-11-05 04:12:49,573 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:12:49,574 - INFO - Records in product_list: 12334
+2025-11-05 04:12:51,866 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:12:51,867 - INFO - Records in product_list: 12334
+2025-11-05 04:12:54,172 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:12:54,172 - INFO - Records in product_list: 12334
+2025-11-05 04:12:56,447 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:12:56,448 - INFO - Records in product_list: 12334
+2025-11-05 04:12:58,696 - WARNING - Error fetching data from https://shop.billa.at/api/product-discovery/products?sortBy=relevance&page=516&pageSize=100: 503 Server Error: Service Unavailable for url: https://shop.billa.at/api/product-discovery/products?sortBy=relevance&page=516&pageSize=100. Retrying in 3 seconds... (Attempt 1/5)
+2025-11-05 04:13:01,963 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:13:01,963 - INFO - Records in product_list: 12334
+2025-11-05 04:13:04,281 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:13:04,281 - INFO - Records in product_list: 12334
+2025-11-05 04:13:06,565 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:13:06,565 - INFO - Records in product_list: 12334
+2025-11-05 04:13:08,854 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:13:08,854 - INFO - Records in product_list: 12334
+2025-11-05 04:13:11,140 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:13:11,140 - INFO - Records in product_list: 12334
+2025-11-05 04:13:13,465 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:13:13,466 - INFO - Records in product_list: 12334
+2025-11-05 04:13:15,761 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:13:15,761 - INFO - Records in product_list: 12334
+2025-11-05 04:13:18,060 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:13:18,060 - INFO - Records in product_list: 12334
+2025-11-05 04:13:20,344 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:13:20,345 - INFO - Records in product_list: 12334
+2025-11-05 04:13:22,652 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:13:22,652 - INFO - Records in product_list: 12334
+2025-11-05 04:13:24,927 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:13:24,927 - INFO - Records in product_list: 12334
+2025-11-05 04:13:27,210 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:13:27,210 - INFO - Records in product_list: 12334
+2025-11-05 04:13:29,569 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:13:29,569 - INFO - Records in product_list: 12334
+2025-11-05 04:13:31,885 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:13:31,885 - INFO - Records in product_list: 12334
+2025-11-05 04:13:34,180 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:13:34,180 - INFO - Records in product_list: 12334
+2025-11-05 04:13:36,475 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:13:36,475 - INFO - Records in product_list: 12334
+2025-11-05 04:13:38,756 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:13:38,756 - INFO - Records in product_list: 12334
+2025-11-05 04:13:41,062 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:13:41,062 - INFO - Records in product_list: 12334
+2025-11-05 04:13:43,341 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:13:43,341 - INFO - Records in product_list: 12334
+2025-11-05 04:13:45,627 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:13:45,627 - INFO - Records in product_list: 12334
+2025-11-05 04:13:47,914 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:13:47,915 - INFO - Records in product_list: 12334
+2025-11-05 04:13:50,227 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:13:50,227 - INFO - Records in product_list: 12334
+2025-11-05 04:13:52,531 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:13:52,531 - INFO - Records in product_list: 12334
+2025-11-05 04:13:54,812 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:13:54,812 - INFO - Records in product_list: 12334
+2025-11-05 04:13:57,106 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:13:57,106 - INFO - Records in product_list: 12334
+2025-11-05 04:13:59,410 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:13:59,410 - INFO - Records in product_list: 12334
+2025-11-05 04:14:01,789 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:14:01,790 - INFO - Records in product_list: 12334
+2025-11-05 04:14:04,075 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:14:04,075 - INFO - Records in product_list: 12334
+2025-11-05 04:14:06,377 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:14:06,377 - INFO - Records in product_list: 12334
+2025-11-05 04:14:08,691 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:14:08,691 - INFO - Records in product_list: 12334
+2025-11-05 04:14:10,982 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:14:10,982 - INFO - Records in product_list: 12334
+2025-11-05 04:14:13,269 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:14:13,269 - INFO - Records in product_list: 12334
+2025-11-05 04:14:15,561 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:14:15,561 - INFO - Records in product_list: 12334
+2025-11-05 04:14:17,870 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:14:17,870 - INFO - Records in product_list: 12334
+2025-11-05 04:14:20,164 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:14:20,164 - INFO - Records in product_list: 12334
+2025-11-05 04:14:22,524 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:14:22,524 - INFO - Records in product_list: 12334
+2025-11-05 04:14:24,804 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:14:24,804 - INFO - Records in product_list: 12334
+2025-11-05 04:14:27,163 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:14:27,163 - INFO - Records in product_list: 12334
+2025-11-05 04:14:29,441 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:14:29,441 - INFO - Records in product_list: 12334
+2025-11-05 04:14:31,727 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:14:31,727 - INFO - Records in product_list: 12334
+2025-11-05 04:14:34,013 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:14:34,013 - INFO - Records in product_list: 12334
+2025-11-05 04:14:36,382 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:14:36,382 - INFO - Records in product_list: 12334
+2025-11-05 04:14:38,671 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:14:38,671 - INFO - Records in product_list: 12334
+2025-11-05 04:14:40,962 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:14:40,962 - INFO - Records in product_list: 12334
+2025-11-05 04:14:43,244 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:14:43,244 - INFO - Records in product_list: 12334
+2025-11-05 04:14:45,548 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:14:45,549 - INFO - Records in product_list: 12334
+2025-11-05 04:14:47,827 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:14:47,827 - INFO - Records in product_list: 12334
+2025-11-05 04:14:50,103 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:14:50,103 - INFO - Records in product_list: 12334
+2025-11-05 04:14:52,449 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:14:52,449 - INFO - Records in product_list: 12334
+2025-11-05 04:14:54,753 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:14:54,753 - INFO - Records in product_list: 12334
+2025-11-05 04:14:57,037 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:14:57,037 - INFO - Records in product_list: 12334
+2025-11-05 04:14:59,320 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:14:59,320 - INFO - Records in product_list: 12334
+2025-11-05 04:15:01,610 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:15:01,611 - INFO - Records in product_list: 12334
+2025-11-05 04:15:03,909 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:15:03,910 - INFO - Records in product_list: 12334
+2025-11-05 04:15:06,197 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:15:06,198 - INFO - Records in product_list: 12334
+2025-11-05 04:15:08,481 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:15:08,481 - INFO - Records in product_list: 12334
+2025-11-05 04:15:11,065 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:15:11,065 - INFO - Records in product_list: 12334
+2025-11-05 04:15:13,374 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:15:13,375 - INFO - Records in product_list: 12334
+2025-11-05 04:15:15,688 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:15:15,688 - INFO - Records in product_list: 12334
+2025-11-05 04:15:17,975 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:15:17,975 - INFO - Records in product_list: 12334
+2025-11-05 04:15:20,268 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:15:20,268 - INFO - Records in product_list: 12334
+2025-11-05 04:15:22,591 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:15:22,591 - INFO - Records in product_list: 12334
+2025-11-05 04:15:24,884 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:15:24,884 - INFO - Records in product_list: 12334
+2025-11-05 04:15:27,171 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:15:27,171 - INFO - Records in product_list: 12334
+2025-11-05 04:15:29,459 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:15:29,459 - INFO - Records in product_list: 12334
+2025-11-05 04:15:31,818 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:15:31,819 - INFO - Records in product_list: 12334
+2025-11-05 04:15:34,105 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:15:34,106 - INFO - Records in product_list: 12334
+2025-11-05 04:15:36,400 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:15:36,400 - INFO - Records in product_list: 12334
+2025-11-05 04:15:39,021 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:15:39,021 - INFO - Records in product_list: 12334
+2025-11-05 04:15:41,317 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:15:41,317 - INFO - Records in product_list: 12334
+2025-11-05 04:15:43,609 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:15:43,609 - INFO - Records in product_list: 12334
+2025-11-05 04:15:45,898 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:15:45,898 - INFO - Records in product_list: 12334
+2025-11-05 04:15:48,186 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:15:48,187 - INFO - Records in product_list: 12334
+2025-11-05 04:15:50,514 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:15:50,514 - INFO - Records in product_list: 12334
+2025-11-05 04:15:52,884 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:15:52,884 - INFO - Records in product_list: 12334
+2025-11-05 04:15:55,164 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:15:55,164 - INFO - Records in product_list: 12334
+2025-11-05 04:15:57,482 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:15:57,483 - INFO - Records in product_list: 12334
+2025-11-05 04:15:59,807 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:15:59,807 - INFO - Records in product_list: 12334
+2025-11-05 04:16:02,160 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:16:02,160 - INFO - Records in product_list: 12334
+2025-11-05 04:16:04,433 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:16:04,433 - INFO - Records in product_list: 12334
+2025-11-05 04:16:06,719 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:16:06,719 - INFO - Records in product_list: 12334
+2025-11-05 04:16:09,022 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:16:09,022 - INFO - Records in product_list: 12334
+2025-11-05 04:16:11,331 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:16:11,331 - INFO - Records in product_list: 12334
+2025-11-05 04:16:13,680 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:16:13,680 - INFO - Records in product_list: 12334
+2025-11-05 04:16:15,968 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:16:15,968 - INFO - Records in product_list: 12334
+2025-11-05 04:16:18,263 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:16:18,263 - INFO - Records in product_list: 12334
+2025-11-05 04:16:20,542 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:16:20,542 - INFO - Records in product_list: 12334
+2025-11-05 04:16:22,864 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:16:22,864 - INFO - Records in product_list: 12334
+2025-11-05 04:16:25,153 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:16:25,153 - INFO - Records in product_list: 12334
+2025-11-05 04:16:27,452 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:16:27,452 - INFO - Records in product_list: 12334
+2025-11-05 04:16:29,805 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:16:29,805 - INFO - Records in product_list: 12334
+2025-11-05 04:16:32,091 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:16:32,091 - INFO - Records in product_list: 12334
+2025-11-05 04:16:34,377 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:16:34,377 - INFO - Records in product_list: 12334
+2025-11-05 04:16:36,671 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:16:36,671 - INFO - Records in product_list: 12334
+2025-11-05 04:16:39,008 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:16:39,008 - INFO - Records in product_list: 12334
+2025-11-05 04:16:41,283 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:16:41,283 - INFO - Records in product_list: 12334
+2025-11-05 04:16:43,558 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:16:43,558 - INFO - Records in product_list: 12334
+2025-11-05 04:16:45,862 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:16:45,862 - INFO - Records in product_list: 12334
+2025-11-05 04:16:48,163 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:16:48,163 - INFO - Records in product_list: 12334
+2025-11-05 04:16:50,532 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:16:50,533 - INFO - Records in product_list: 12334
+2025-11-05 04:16:52,829 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:16:52,830 - INFO - Records in product_list: 12334
+2025-11-05 04:16:55,134 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:16:55,134 - INFO - Records in product_list: 12334
+2025-11-05 04:16:57,426 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:16:57,426 - INFO - Records in product_list: 12334
+2025-11-05 04:16:59,729 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:16:59,729 - INFO - Records in product_list: 12334
+2025-11-05 04:17:02,300 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:17:02,300 - INFO - Records in product_list: 12334
+2025-11-05 04:17:04,665 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:17:04,666 - INFO - Records in product_list: 12334
+2025-11-05 04:17:06,958 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:17:06,958 - INFO - Records in product_list: 12334
+2025-11-05 04:17:09,239 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:17:09,239 - INFO - Records in product_list: 12334
+2025-11-05 04:17:11,519 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:17:11,519 - INFO - Records in product_list: 12334
+2025-11-05 04:17:13,819 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:17:13,819 - INFO - Records in product_list: 12334
+2025-11-05 04:17:16,105 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:17:16,105 - INFO - Records in product_list: 12334
+2025-11-05 04:17:18,383 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:17:18,383 - INFO - Records in product_list: 12334
+2025-11-05 04:17:20,749 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:17:20,749 - INFO - Records in product_list: 12334
+2025-11-05 04:17:23,058 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:17:23,058 - INFO - Records in product_list: 12334
+2025-11-05 04:17:25,338 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:17:25,338 - INFO - Records in product_list: 12334
+2025-11-05 04:17:27,622 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:17:27,623 - INFO - Records in product_list: 12334
+2025-11-05 04:17:29,912 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:17:29,912 - INFO - Records in product_list: 12334
+2025-11-05 04:17:32,214 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:17:32,214 - INFO - Records in product_list: 12334
+2025-11-05 04:17:34,495 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:17:34,495 - INFO - Records in product_list: 12334
+2025-11-05 04:17:36,783 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:17:36,784 - INFO - Records in product_list: 12334
+2025-11-05 04:17:39,088 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:17:39,088 - INFO - Records in product_list: 12334
+2025-11-05 04:17:41,434 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:17:41,434 - INFO - Records in product_list: 12334
+2025-11-05 04:17:43,713 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:17:43,714 - INFO - Records in product_list: 12334
+2025-11-05 04:17:45,998 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:17:45,998 - INFO - Records in product_list: 12334
+2025-11-05 04:17:48,290 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:17:48,290 - INFO - Records in product_list: 12334
+2025-11-05 04:17:50,583 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:17:50,583 - INFO - Records in product_list: 12334
+2025-11-05 04:17:52,945 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:17:52,945 - INFO - Records in product_list: 12334
+2025-11-05 04:17:55,233 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:17:55,233 - INFO - Records in product_list: 12334
+2025-11-05 04:17:57,527 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:17:57,527 - INFO - Records in product_list: 12334
+2025-11-05 04:17:59,832 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:17:59,832 - INFO - Records in product_list: 12334
+2025-11-05 04:18:02,116 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:18:02,116 - INFO - Records in product_list: 12334
+2025-11-05 04:18:04,398 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:18:04,398 - INFO - Records in product_list: 12334
+2025-11-05 04:18:06,708 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:18:06,708 - INFO - Records in product_list: 12334
+2025-11-05 04:18:09,013 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:18:09,013 - INFO - Records in product_list: 12334
+2025-11-05 04:18:11,293 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:18:11,293 - INFO - Records in product_list: 12334
+2025-11-05 04:18:13,572 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:18:13,572 - INFO - Records in product_list: 12334
+2025-11-05 04:18:15,863 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:18:15,863 - INFO - Records in product_list: 12334
+2025-11-05 04:18:18,162 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:18:18,162 - INFO - Records in product_list: 12334
+2025-11-05 04:18:20,447 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:18:20,448 - INFO - Records in product_list: 12334
+2025-11-05 04:18:22,738 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:18:22,738 - INFO - Records in product_list: 12334
+2025-11-05 04:18:25,058 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:18:25,058 - INFO - Records in product_list: 12334
+2025-11-05 04:18:27,362 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:18:27,362 - INFO - Records in product_list: 12334
+2025-11-05 04:18:29,641 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:18:29,641 - INFO - Records in product_list: 12334
+2025-11-05 04:18:32,010 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:18:32,010 - INFO - Records in product_list: 12334
+2025-11-05 04:18:34,301 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:18:34,301 - INFO - Records in product_list: 12334
+2025-11-05 04:18:36,609 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:18:36,609 - INFO - Records in product_list: 12334
+2025-11-05 04:18:38,985 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:18:38,985 - INFO - Records in product_list: 12334
+2025-11-05 04:18:41,273 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:18:41,273 - INFO - Records in product_list: 12334
+2025-11-05 04:18:43,557 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:18:43,557 - INFO - Records in product_list: 12334
+2025-11-05 04:18:45,864 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:18:45,864 - INFO - Records in product_list: 12334
+2025-11-05 04:18:48,149 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:18:48,150 - INFO - Records in product_list: 12334
+2025-11-05 04:18:50,536 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:18:50,536 - INFO - Records in product_list: 12334
+2025-11-05 04:18:52,830 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:18:52,830 - INFO - Records in product_list: 12334
+2025-11-05 04:18:55,220 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:18:55,220 - INFO - Records in product_list: 12334
+2025-11-05 04:18:57,504 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:18:57,504 - INFO - Records in product_list: 12334
+2025-11-05 04:18:59,793 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:18:59,793 - INFO - Records in product_list: 12334
+2025-11-05 04:19:02,130 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:19:02,130 - INFO - Records in product_list: 12334
+2025-11-05 04:19:04,532 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:19:04,532 - INFO - Records in product_list: 12334
+2025-11-05 04:19:06,818 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:19:06,818 - INFO - Records in product_list: 12334
+2025-11-05 04:19:09,102 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:19:09,102 - INFO - Records in product_list: 12334
+2025-11-05 04:19:11,390 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:19:11,390 - INFO - Records in product_list: 12334
+2025-11-05 04:19:13,692 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:19:13,693 - INFO - Records in product_list: 12334
+2025-11-05 04:19:15,976 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:19:15,976 - INFO - Records in product_list: 12334
+2025-11-05 04:19:18,252 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:19:18,252 - INFO - Records in product_list: 12334
+2025-11-05 04:19:20,535 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:19:20,535 - INFO - Records in product_list: 12334
+2025-11-05 04:19:22,841 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:19:22,841 - INFO - Records in product_list: 12334
+2025-11-05 04:19:25,138 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:19:25,139 - INFO - Records in product_list: 12334
+2025-11-05 04:19:27,435 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:19:27,435 - INFO - Records in product_list: 12334
+2025-11-05 04:19:29,722 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:19:29,722 - INFO - Records in product_list: 12334
+2025-11-05 04:19:32,043 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:19:32,044 - INFO - Records in product_list: 12334
+2025-11-05 04:19:34,325 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:19:34,325 - INFO - Records in product_list: 12334
+2025-11-05 04:19:36,620 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:19:36,620 - INFO - Records in product_list: 12334
+2025-11-05 04:19:39,176 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:19:39,176 - INFO - Records in product_list: 12334
+2025-11-05 04:19:41,477 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:19:41,477 - INFO - Records in product_list: 12334
+2025-11-05 04:19:43,845 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:19:43,845 - INFO - Records in product_list: 12334
+2025-11-05 04:19:46,144 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:19:46,144 - INFO - Records in product_list: 12334
+2025-11-05 04:19:48,455 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:19:48,455 - INFO - Records in product_list: 12334
+2025-11-05 04:19:50,822 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:19:50,822 - INFO - Records in product_list: 12334
+2025-11-05 04:19:53,115 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:19:53,115 - INFO - Records in product_list: 12334
+2025-11-05 04:19:55,404 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:19:55,404 - INFO - Records in product_list: 12334
+2025-11-05 04:19:57,692 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:19:57,692 - INFO - Records in product_list: 12334
+2025-11-05 04:19:59,997 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:19:59,998 - INFO - Records in product_list: 12334
+2025-11-05 04:20:02,280 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:20:02,280 - INFO - Records in product_list: 12334
+2025-11-05 04:20:04,575 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:20:04,575 - INFO - Records in product_list: 12334
+2025-11-05 04:20:06,871 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:20:06,871 - INFO - Records in product_list: 12334
+2025-11-05 04:20:09,180 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:20:09,180 - INFO - Records in product_list: 12334
+2025-11-05 04:20:11,471 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:20:11,471 - INFO - Records in product_list: 12334
+2025-11-05 04:20:13,761 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:20:13,761 - INFO - Records in product_list: 12334
+2025-11-05 04:20:16,040 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:20:16,040 - INFO - Records in product_list: 12334
+2025-11-05 04:20:18,340 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:20:18,340 - INFO - Records in product_list: 12334
+2025-11-05 04:20:21,755 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:20:21,756 - INFO - Records in product_list: 12334
+2025-11-05 04:20:24,137 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:20:24,137 - INFO - Records in product_list: 12334
+2025-11-05 04:20:26,423 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:20:26,423 - INFO - Records in product_list: 12334
+2025-11-05 04:20:28,720 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:20:28,720 - INFO - Records in product_list: 12334
+2025-11-05 04:20:31,101 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:20:31,101 - INFO - Records in product_list: 12334
+2025-11-05 04:20:33,612 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:20:33,612 - INFO - Records in product_list: 12334
+2025-11-05 04:20:35,900 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:20:35,900 - INFO - Records in product_list: 12334
+2025-11-05 04:20:38,192 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:20:38,193 - INFO - Records in product_list: 12334
+2025-11-05 04:20:40,482 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:20:40,482 - INFO - Records in product_list: 12334
+2025-11-05 04:20:42,764 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:20:42,764 - INFO - Records in product_list: 12334
+2025-11-05 04:20:45,047 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:20:45,048 - INFO - Records in product_list: 12334
+2025-11-05 04:20:47,337 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:20:47,338 - INFO - Records in product_list: 12334
+2025-11-05 04:20:49,632 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:20:49,632 - INFO - Records in product_list: 12334
+2025-11-05 04:20:51,917 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:20:51,917 - INFO - Records in product_list: 12334
+2025-11-05 04:20:54,205 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:20:54,205 - INFO - Records in product_list: 12334
+2025-11-05 04:20:56,507 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:20:56,508 - INFO - Records in product_list: 12334
+2025-11-05 04:20:58,786 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:20:58,786 - INFO - Records in product_list: 12334
+2025-11-05 04:21:01,064 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:21:01,064 - INFO - Records in product_list: 12334
+2025-11-05 04:21:03,342 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:21:03,342 - INFO - Records in product_list: 12334
+2025-11-05 04:21:05,649 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:21:05,649 - INFO - Records in product_list: 12334
+2025-11-05 04:21:08,139 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:21:08,139 - INFO - Records in product_list: 12334
+2025-11-05 04:21:10,436 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:21:10,436 - INFO - Records in product_list: 12334
+2025-11-05 04:21:12,728 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:21:12,728 - INFO - Records in product_list: 12334
+2025-11-05 04:21:15,037 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:21:15,038 - INFO - Records in product_list: 12334
+2025-11-05 04:21:17,329 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:21:17,329 - INFO - Records in product_list: 12334
+2025-11-05 04:21:19,994 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:21:19,994 - INFO - Records in product_list: 12334
+2025-11-05 04:21:22,292 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:21:22,292 - INFO - Records in product_list: 12334
+2025-11-05 04:21:24,588 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:21:24,588 - INFO - Records in product_list: 12334
+2025-11-05 04:21:26,884 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:21:26,884 - INFO - Records in product_list: 12334
+2025-11-05 04:21:29,252 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:21:29,252 - INFO - Records in product_list: 12334
+2025-11-05 04:21:31,534 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:21:31,534 - INFO - Records in product_list: 12334
+2025-11-05 04:21:33,887 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:21:33,887 - INFO - Records in product_list: 12334
+2025-11-05 04:21:36,169 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:21:36,169 - INFO - Records in product_list: 12334
+2025-11-05 04:21:38,447 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:21:38,447 - INFO - Records in product_list: 12334
+2025-11-05 04:21:40,728 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:21:40,728 - INFO - Records in product_list: 12334
+2025-11-05 04:21:43,021 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:21:43,021 - INFO - Records in product_list: 12334
+2025-11-05 04:21:45,408 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:21:45,408 - INFO - Records in product_list: 12334
+2025-11-05 04:21:47,753 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:21:47,753 - INFO - Records in product_list: 12334
+2025-11-05 04:21:50,056 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:21:50,056 - INFO - Records in product_list: 12334
+2025-11-05 04:21:52,426 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:21:52,426 - INFO - Records in product_list: 12334
+2025-11-05 04:21:54,717 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:21:54,717 - INFO - Records in product_list: 12334
+2025-11-05 04:21:57,011 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:21:57,011 - INFO - Records in product_list: 12334
+2025-11-05 04:21:59,301 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:21:59,301 - INFO - Records in product_list: 12334
+2025-11-05 04:22:01,599 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:22:01,599 - INFO - Records in product_list: 12334
+2025-11-05 04:22:03,885 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:22:03,885 - INFO - Records in product_list: 12334
+2025-11-05 04:22:06,186 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:22:06,186 - INFO - Records in product_list: 12334
+2025-11-05 04:22:08,600 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:22:08,600 - INFO - Records in product_list: 12334
+2025-11-05 04:22:10,925 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:22:10,925 - INFO - Records in product_list: 12334
+2025-11-05 04:22:13,426 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:22:13,426 - INFO - Records in product_list: 12334
+2025-11-05 04:22:15,713 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:22:15,713 - INFO - Records in product_list: 12334
+2025-11-05 04:22:18,126 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:22:18,127 - INFO - Records in product_list: 12334
+2025-11-05 04:22:20,429 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:22:20,429 - INFO - Records in product_list: 12334
+2025-11-05 04:22:22,721 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:22:22,721 - INFO - Records in product_list: 12334
+2025-11-05 04:22:25,007 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:22:25,007 - INFO - Records in product_list: 12334
+2025-11-05 04:22:27,305 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:22:27,305 - INFO - Records in product_list: 12334
+2025-11-05 04:22:29,721 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:22:29,721 - INFO - Records in product_list: 12334
+2025-11-05 04:22:32,010 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:22:32,010 - INFO - Records in product_list: 12334
+2025-11-05 04:22:34,786 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:22:34,786 - INFO - Records in product_list: 12334
+2025-11-05 04:22:37,178 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:22:37,178 - INFO - Records in product_list: 12334
+2025-11-05 04:22:39,480 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:22:39,480 - INFO - Records in product_list: 12334
+2025-11-05 04:22:41,766 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:22:41,766 - INFO - Records in product_list: 12334
+2025-11-05 04:22:44,217 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:22:44,218 - INFO - Records in product_list: 12334
+2025-11-05 04:22:46,522 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:22:46,522 - INFO - Records in product_list: 12334
+2025-11-05 04:22:48,820 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:22:48,820 - INFO - Records in product_list: 12334
+2025-11-05 04:22:51,116 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:22:51,116 - INFO - Records in product_list: 12334
+2025-11-05 04:22:53,571 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:22:53,571 - INFO - Records in product_list: 12334
+2025-11-05 04:22:55,903 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:22:55,904 - INFO - Records in product_list: 12334
+2025-11-05 04:22:58,225 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:22:58,225 - INFO - Records in product_list: 12334
+2025-11-05 04:23:00,558 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:23:00,558 - INFO - Records in product_list: 12334
+2025-11-05 04:23:02,919 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:23:02,919 - INFO - Records in product_list: 12334
+2025-11-05 04:23:05,210 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:23:05,210 - INFO - Records in product_list: 12334
+2025-11-05 04:23:07,523 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:23:07,523 - INFO - Records in product_list: 12334
+2025-11-05 04:23:09,810 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:23:09,810 - INFO - Records in product_list: 12334
+2025-11-05 04:23:12,107 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:23:12,107 - INFO - Records in product_list: 12334
+2025-11-05 04:23:14,488 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:23:14,488 - INFO - Records in product_list: 12334
+2025-11-05 04:23:16,795 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:23:16,795 - INFO - Records in product_list: 12334
+2025-11-05 04:23:19,084 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:23:19,084 - INFO - Records in product_list: 12334
+2025-11-05 04:23:21,386 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:23:21,386 - INFO - Records in product_list: 12334
+2025-11-05 04:23:23,674 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:23:23,674 - INFO - Records in product_list: 12334
+2025-11-05 04:23:25,980 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:23:25,980 - INFO - Records in product_list: 12334
+2025-11-05 04:23:28,277 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:23:28,277 - INFO - Records in product_list: 12334
+2025-11-05 04:23:30,566 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:23:30,566 - INFO - Records in product_list: 12334
+2025-11-05 04:23:33,457 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:23:33,457 - INFO - Records in product_list: 12334
+2025-11-05 04:23:35,785 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:23:35,785 - INFO - Records in product_list: 12334
+2025-11-05 04:23:38,070 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:23:38,070 - INFO - Records in product_list: 12334
+2025-11-05 04:23:40,382 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:23:40,382 - INFO - Records in product_list: 12334
+2025-11-05 04:23:42,678 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:23:42,678 - INFO - Records in product_list: 12334
+2025-11-05 04:23:45,012 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:23:45,012 - INFO - Records in product_list: 12334
+2025-11-05 04:23:47,345 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:23:47,345 - INFO - Records in product_list: 12334
+2025-11-05 04:23:49,645 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:23:49,645 - INFO - Records in product_list: 12334
+2025-11-05 04:23:51,956 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:23:51,956 - INFO - Records in product_list: 12334
+2025-11-05 04:23:54,251 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:23:54,252 - INFO - Records in product_list: 12334
+2025-11-05 04:23:56,642 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:23:56,642 - INFO - Records in product_list: 12334
+2025-11-05 04:23:59,083 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:23:59,084 - INFO - Records in product_list: 12334
+2025-11-05 04:24:01,380 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:24:01,381 - INFO - Records in product_list: 12334
+2025-11-05 04:24:03,687 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:24:03,687 - INFO - Records in product_list: 12334
+2025-11-05 04:24:05,985 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:24:05,985 - INFO - Records in product_list: 12334
+2025-11-05 04:24:08,291 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:24:08,292 - INFO - Records in product_list: 12334
+2025-11-05 04:24:10,604 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:24:10,604 - INFO - Records in product_list: 12334
+2025-11-05 04:24:12,903 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:24:12,903 - INFO - Records in product_list: 12334
+2025-11-05 04:24:15,198 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:24:15,198 - INFO - Records in product_list: 12334
+2025-11-05 04:24:17,696 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:24:17,696 - INFO - Records in product_list: 12334
+2025-11-05 04:24:19,990 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:24:19,990 - INFO - Records in product_list: 12334
+2025-11-05 04:24:22,286 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:24:22,286 - INFO - Records in product_list: 12334
+2025-11-05 04:24:24,590 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:24:24,590 - INFO - Records in product_list: 12334
+2025-11-05 04:24:26,883 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:24:26,883 - INFO - Records in product_list: 12334
+2025-11-05 04:24:29,212 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:24:29,212 - INFO - Records in product_list: 12334
+2025-11-05 04:24:31,522 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:24:31,522 - INFO - Records in product_list: 12334
+2025-11-05 04:24:33,813 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:24:33,813 - INFO - Records in product_list: 12334
+2025-11-05 04:24:36,108 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:24:36,108 - INFO - Records in product_list: 12334
+2025-11-05 04:24:38,414 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:24:38,414 - INFO - Records in product_list: 12334
+2025-11-05 04:24:40,718 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:24:40,718 - INFO - Records in product_list: 12334
+2025-11-05 04:24:43,024 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:24:43,024 - INFO - Records in product_list: 12334
+2025-11-05 04:24:45,419 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:24:45,419 - INFO - Records in product_list: 12334
+2025-11-05 04:24:47,721 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:24:47,721 - INFO - Records in product_list: 12334
+2025-11-05 04:24:50,195 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:24:50,195 - INFO - Records in product_list: 12334
+2025-11-05 04:24:52,501 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:24:52,501 - INFO - Records in product_list: 12334
+2025-11-05 04:24:54,787 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:24:54,787 - INFO - Records in product_list: 12334
+2025-11-05 04:24:57,078 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:24:57,078 - INFO - Records in product_list: 12334
+2025-11-05 04:24:59,390 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:24:59,390 - INFO - Records in product_list: 12334
+2025-11-05 04:25:01,688 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:25:01,688 - INFO - Records in product_list: 12334
+2025-11-05 04:25:04,085 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:25:04,085 - INFO - Records in product_list: 12334
+2025-11-05 04:25:06,370 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:25:06,370 - INFO - Records in product_list: 12334
+2025-11-05 04:25:08,676 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:25:08,676 - INFO - Records in product_list: 12334
+2025-11-05 04:25:11,110 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:25:11,110 - INFO - Records in product_list: 12334
+2025-11-05 04:25:13,405 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:25:13,405 - INFO - Records in product_list: 12334
+2025-11-05 04:25:15,709 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:25:15,709 - INFO - Records in product_list: 12334
+2025-11-05 04:25:18,014 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:25:18,014 - INFO - Records in product_list: 12334
+2025-11-05 04:25:20,311 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:25:20,311 - INFO - Records in product_list: 12334
+2025-11-05 04:25:22,612 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:25:22,612 - INFO - Records in product_list: 12334
+2025-11-05 04:25:24,903 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:25:24,904 - INFO - Records in product_list: 12334
+2025-11-05 04:25:27,275 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:25:27,276 - INFO - Records in product_list: 12334
+2025-11-05 04:25:29,574 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:25:29,574 - INFO - Records in product_list: 12334
+2025-11-05 04:25:32,054 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:25:32,054 - INFO - Records in product_list: 12334
+2025-11-05 04:25:34,439 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:25:34,439 - INFO - Records in product_list: 12334
+2025-11-05 04:25:36,855 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:25:36,855 - INFO - Records in product_list: 12334
+2025-11-05 04:25:39,138 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:25:39,138 - INFO - Records in product_list: 12334
+2025-11-05 04:25:41,433 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:25:41,433 - INFO - Records in product_list: 12334
+2025-11-05 04:25:43,847 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:25:43,847 - INFO - Records in product_list: 12334
+2025-11-05 04:25:46,151 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:25:46,151 - INFO - Records in product_list: 12334
+2025-11-05 04:25:48,451 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:25:48,451 - INFO - Records in product_list: 12334
+2025-11-05 04:25:50,735 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:25:50,735 - INFO - Records in product_list: 12334
+2025-11-05 04:25:53,150 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:25:53,150 - INFO - Records in product_list: 12334
+2025-11-05 04:25:55,438 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:25:55,438 - INFO - Records in product_list: 12334
+2025-11-05 04:25:57,733 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:25:57,733 - INFO - Records in product_list: 12334
+2025-11-05 04:26:00,024 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:26:00,024 - INFO - Records in product_list: 12334
+2025-11-05 04:26:02,407 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:26:02,407 - INFO - Records in product_list: 12334
+2025-11-05 04:26:04,716 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:26:04,716 - INFO - Records in product_list: 12334
+2025-11-05 04:26:07,014 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:26:07,015 - INFO - Records in product_list: 12334
+2025-11-05 04:26:09,321 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:26:09,322 - INFO - Records in product_list: 12334
+2025-11-05 04:26:11,622 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:26:11,622 - INFO - Records in product_list: 12334
+2025-11-05 04:26:13,928 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:26:13,928 - INFO - Records in product_list: 12334
+2025-11-05 04:26:16,231 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:26:16,232 - INFO - Records in product_list: 12334
+2025-11-05 04:26:18,521 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:26:18,521 - INFO - Records in product_list: 12334
+2025-11-05 04:26:20,835 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:26:20,835 - INFO - Records in product_list: 12334
+2025-11-05 04:26:23,137 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:26:23,137 - INFO - Records in product_list: 12334
+2025-11-05 04:26:25,426 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:26:25,426 - INFO - Records in product_list: 12334
+2025-11-05 04:26:27,821 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:26:27,821 - INFO - Records in product_list: 12334
+2025-11-05 04:26:30,122 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:26:30,122 - INFO - Records in product_list: 12334
+2025-11-05 04:26:32,431 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:26:32,431 - INFO - Records in product_list: 12334
+2025-11-05 04:26:34,718 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:26:34,718 - INFO - Records in product_list: 12334
+2025-11-05 04:26:37,013 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:26:37,013 - INFO - Records in product_list: 12334
+2025-11-05 04:26:39,314 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:26:39,314 - INFO - Records in product_list: 12334
+2025-11-05 04:26:41,791 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:26:41,791 - INFO - Records in product_list: 12334
+2025-11-05 04:26:44,093 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:26:44,093 - INFO - Records in product_list: 12334
+2025-11-05 04:26:46,389 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:26:46,389 - INFO - Records in product_list: 12334
+2025-11-05 04:26:48,835 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:26:48,835 - INFO - Records in product_list: 12334
+2025-11-05 04:26:51,138 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:26:51,139 - INFO - Records in product_list: 12334
+2025-11-05 04:26:53,648 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:26:53,648 - INFO - Records in product_list: 12334
+2025-11-05 04:26:56,100 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:26:56,100 - INFO - Records in product_list: 12334
+2025-11-05 04:26:58,396 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:26:58,396 - INFO - Records in product_list: 12334
+2025-11-05 04:27:00,701 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:27:00,701 - INFO - Records in product_list: 12334
+2025-11-05 04:27:02,989 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:27:02,989 - INFO - Records in product_list: 12334
+2025-11-05 04:27:05,291 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:27:05,291 - INFO - Records in product_list: 12334
+2025-11-05 04:27:07,595 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:27:07,595 - INFO - Records in product_list: 12334
+2025-11-05 04:27:09,903 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:27:09,903 - INFO - Records in product_list: 12334
+2025-11-05 04:27:12,178 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:27:12,178 - INFO - Records in product_list: 12334
+2025-11-05 04:27:14,471 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:27:14,471 - INFO - Records in product_list: 12334
+2025-11-05 04:27:16,760 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:27:16,760 - INFO - Records in product_list: 12334
+2025-11-05 04:27:19,047 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:27:19,047 - INFO - Records in product_list: 12334
+2025-11-05 04:27:21,341 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:27:21,341 - INFO - Records in product_list: 12334
+2025-11-05 04:27:23,723 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:27:23,723 - INFO - Records in product_list: 12334
+2025-11-05 04:27:26,021 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:27:26,021 - INFO - Records in product_list: 12334
+2025-11-05 04:27:28,863 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:27:28,863 - INFO - Records in product_list: 12334
+2025-11-05 04:27:31,155 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:27:31,155 - INFO - Records in product_list: 12334
+2025-11-05 04:27:34,628 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:27:34,628 - INFO - Records in product_list: 12334
+2025-11-05 04:27:36,941 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:27:36,941 - INFO - Records in product_list: 12334
+2025-11-05 04:27:39,242 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:27:39,242 - INFO - Records in product_list: 12334
+2025-11-05 04:27:41,590 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:27:41,590 - INFO - Records in product_list: 12334
+2025-11-05 04:27:43,882 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:27:43,882 - INFO - Records in product_list: 12334
+2025-11-05 04:27:46,196 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:27:46,197 - INFO - Records in product_list: 12334
+2025-11-05 04:27:48,503 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:27:48,503 - INFO - Records in product_list: 12334
+2025-11-05 04:27:50,803 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:27:50,803 - INFO - Records in product_list: 12334
+2025-11-05 04:27:53,095 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:27:53,095 - INFO - Records in product_list: 12334
+2025-11-05 04:27:55,400 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:27:55,400 - INFO - Records in product_list: 12334
+2025-11-05 04:27:57,702 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:27:57,702 - INFO - Records in product_list: 12334
+2025-11-05 04:27:59,981 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:27:59,981 - INFO - Records in product_list: 12334
+2025-11-05 04:28:02,273 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:28:02,273 - INFO - Records in product_list: 12334
+2025-11-05 04:28:04,558 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:28:04,558 - INFO - Records in product_list: 12334
+2025-11-05 04:28:06,871 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:28:06,871 - INFO - Records in product_list: 12334
+2025-11-05 04:28:09,167 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:28:09,167 - INFO - Records in product_list: 12334
+2025-11-05 04:28:11,457 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:28:11,457 - INFO - Records in product_list: 12334
+2025-11-05 04:28:13,769 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:28:13,769 - INFO - Records in product_list: 12334
+2025-11-05 04:28:16,077 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:28:16,077 - INFO - Records in product_list: 12334
+2025-11-05 04:28:18,381 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:28:18,381 - INFO - Records in product_list: 12334
+2025-11-05 04:28:20,687 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:28:20,687 - INFO - Records in product_list: 12334
+2025-11-05 04:28:22,977 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:28:22,977 - INFO - Records in product_list: 12334
+2025-11-05 04:28:25,272 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:28:25,272 - INFO - Records in product_list: 12334
+2025-11-05 04:28:27,567 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:28:27,568 - INFO - Records in product_list: 12334
+2025-11-05 04:28:29,864 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:28:29,864 - INFO - Records in product_list: 12334
+2025-11-05 04:28:32,165 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:28:32,165 - INFO - Records in product_list: 12334
+2025-11-05 04:28:35,634 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:28:35,634 - INFO - Records in product_list: 12334
+2025-11-05 04:28:38,218 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:28:38,219 - INFO - Records in product_list: 12334
+2025-11-05 04:28:40,511 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:28:40,512 - INFO - Records in product_list: 12334
+2025-11-05 04:28:42,811 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:28:42,812 - INFO - Records in product_list: 12334
+2025-11-05 04:28:45,095 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:28:45,095 - INFO - Records in product_list: 12334
+2025-11-05 04:28:47,385 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:28:47,385 - INFO - Records in product_list: 12334
+2025-11-05 04:28:49,671 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:28:49,671 - INFO - Records in product_list: 12334
+2025-11-05 04:28:51,959 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:28:51,959 - INFO - Records in product_list: 12334
+2025-11-05 04:28:54,270 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:28:54,270 - INFO - Records in product_list: 12334
+2025-11-05 04:28:56,568 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:28:56,568 - INFO - Records in product_list: 12334
+2025-11-05 04:28:58,856 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:28:58,857 - INFO - Records in product_list: 12334
+2025-11-05 04:29:01,223 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:29:01,223 - INFO - Records in product_list: 12334
+2025-11-05 04:29:03,467 - WARNING - Error fetching data from https://shop.billa.at/api/product-discovery/products?sortBy=relevance&page=929&pageSize=100: 503 Server Error: Service Unavailable for url: https://shop.billa.at/api/product-discovery/products?sortBy=relevance&page=929&pageSize=100. Retrying in 3 seconds... (Attempt 1/5)
+2025-11-05 04:29:06,717 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:29:06,717 - INFO - Records in product_list: 12334
+2025-11-05 04:29:09,205 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:29:09,206 - INFO - Records in product_list: 12334
+2025-11-05 04:29:11,567 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:29:11,568 - INFO - Records in product_list: 12334
+2025-11-05 04:29:13,873 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:29:13,873 - INFO - Records in product_list: 12334
+2025-11-05 04:29:16,208 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:29:16,208 - INFO - Records in product_list: 12334
+2025-11-05 04:29:18,567 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:29:18,567 - INFO - Records in product_list: 12334
+2025-11-05 04:29:20,861 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:29:20,861 - INFO - Records in product_list: 12334
+2025-11-05 04:29:23,165 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:29:23,165 - INFO - Records in product_list: 12334
+2025-11-05 04:29:25,447 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:29:25,448 - INFO - Records in product_list: 12334
+2025-11-05 04:29:27,747 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:29:27,747 - INFO - Records in product_list: 12334
+2025-11-05 04:29:30,091 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:29:30,091 - INFO - Records in product_list: 12334
+2025-11-05 04:29:32,386 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:29:32,386 - INFO - Records in product_list: 12334
+2025-11-05 04:29:34,713 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:29:34,713 - INFO - Records in product_list: 12334
+2025-11-05 04:29:37,082 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:29:37,082 - INFO - Records in product_list: 12334
+2025-11-05 04:29:39,460 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:29:39,460 - INFO - Records in product_list: 12334
+2025-11-05 04:29:41,776 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:29:41,776 - INFO - Records in product_list: 12334
+2025-11-05 04:29:44,062 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:29:44,062 - INFO - Records in product_list: 12334
+2025-11-05 04:29:46,354 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:29:46,354 - INFO - Records in product_list: 12334
+2025-11-05 04:29:48,651 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:29:48,651 - INFO - Records in product_list: 12334
+2025-11-05 04:29:51,040 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:29:51,040 - INFO - Records in product_list: 12334
+2025-11-05 04:29:53,327 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:29:53,328 - INFO - Records in product_list: 12334
+2025-11-05 04:29:55,618 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:29:55,618 - INFO - Records in product_list: 12334
+2025-11-05 04:29:57,920 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:29:57,920 - INFO - Records in product_list: 12334
+2025-11-05 04:30:00,229 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:30:00,230 - INFO - Records in product_list: 12334
+2025-11-05 04:30:02,580 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:30:02,581 - INFO - Records in product_list: 12334
+2025-11-05 04:30:04,869 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:30:04,869 - INFO - Records in product_list: 12334
+2025-11-05 04:30:07,175 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:30:07,175 - INFO - Records in product_list: 12334
+2025-11-05 04:30:09,465 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:30:09,465 - INFO - Records in product_list: 12334
+2025-11-05 04:30:11,771 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:30:11,771 - INFO - Records in product_list: 12334
+2025-11-05 04:30:14,059 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:30:14,060 - INFO - Records in product_list: 12334
+2025-11-05 04:30:16,421 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:30:16,421 - INFO - Records in product_list: 12334
+2025-11-05 04:30:18,718 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:30:18,718 - INFO - Records in product_list: 12334
+2025-11-05 04:30:21,018 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:30:21,018 - INFO - Records in product_list: 12334
+2025-11-05 04:30:23,316 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:30:23,316 - INFO - Records in product_list: 12334
+2025-11-05 04:30:25,682 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:30:25,682 - INFO - Records in product_list: 12334
+2025-11-05 04:30:27,978 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:30:27,978 - INFO - Records in product_list: 12334
+2025-11-05 04:30:30,329 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:30:30,329 - INFO - Records in product_list: 12334
+2025-11-05 04:30:32,633 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:30:32,633 - INFO - Records in product_list: 12334
+2025-11-05 04:30:34,942 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:30:34,942 - INFO - Records in product_list: 12334
+2025-11-05 04:30:37,235 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:30:37,235 - INFO - Records in product_list: 12334
+2025-11-05 04:30:39,538 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:30:39,538 - INFO - Records in product_list: 12334
+2025-11-05 04:30:41,816 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:30:41,817 - INFO - Records in product_list: 12334
+2025-11-05 04:30:44,109 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:30:44,109 - INFO - Records in product_list: 12334
+2025-11-05 04:30:46,409 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:30:46,409 - INFO - Records in product_list: 12334
+2025-11-05 04:30:48,711 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:30:48,711 - INFO - Records in product_list: 12334
+2025-11-05 04:30:51,012 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:30:51,012 - INFO - Records in product_list: 12334
+2025-11-05 04:30:53,308 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:30:53,308 - INFO - Records in product_list: 12334
+2025-11-05 04:30:55,600 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:30:55,600 - INFO - Records in product_list: 12334
+2025-11-05 04:30:57,899 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:30:57,899 - INFO - Records in product_list: 12334
+2025-11-05 04:31:00,196 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:31:00,196 - INFO - Records in product_list: 12334
+2025-11-05 04:31:02,502 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:31:02,502 - INFO - Records in product_list: 12334
+2025-11-05 04:31:04,804 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:31:04,804 - INFO - Records in product_list: 12334
+2025-11-05 04:31:07,092 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:31:07,092 - INFO - Records in product_list: 12334
+2025-11-05 04:31:09,379 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:31:09,379 - INFO - Records in product_list: 12334
+2025-11-05 04:31:11,831 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:31:11,831 - INFO - Records in product_list: 12334
+2025-11-05 04:31:14,124 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:31:14,124 - INFO - Records in product_list: 12334
+2025-11-05 04:31:16,483 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:31:16,484 - INFO - Records in product_list: 12334
+2025-11-05 04:31:18,832 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:31:18,832 - INFO - Records in product_list: 12334
+2025-11-05 04:31:21,148 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:31:21,148 - INFO - Records in product_list: 12334
+2025-11-05 04:31:23,437 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:31:23,437 - INFO - Records in product_list: 12334
+2025-11-05 04:31:25,726 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:31:25,726 - INFO - Records in product_list: 12334
+2025-11-05 04:31:28,022 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:31:28,023 - INFO - Records in product_list: 12334
+2025-11-05 04:31:30,319 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:31:30,319 - INFO - Records in product_list: 12334
+2025-11-05 04:31:32,623 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:31:32,623 - INFO - Records in product_list: 12334
+2025-11-05 04:31:34,935 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:31:34,936 - INFO - Records in product_list: 12334
+2025-11-05 04:31:37,226 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:31:37,226 - INFO - Records in product_list: 12334
+2025-11-05 04:31:39,617 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:31:39,618 - INFO - Records in product_list: 12334
+2025-11-05 04:31:41,912 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:31:41,912 - INFO - Records in product_list: 12334
+2025-11-05 04:31:44,210 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:31:44,210 - INFO - Records in product_list: 12334
+2025-11-05 04:31:46,502 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:31:46,502 - INFO - Records in product_list: 12334
+2025-11-05 04:31:48,803 - INFO - Completed: 12334 / To go: 1
+2025-11-05 04:31:48,803 - INFO - Records in product_list: 12334
+2025-11-05 04:31:51,463 - WARNING - Error fetching data from https://shop.billa.at/api/product-discovery/products?sortBy=relevance&page=1000&pageSize=100: 500 Server Error: Internal Server Error for url: https://shop.billa.at/api/product-discovery/products?sortBy=relevance&page=1000&pageSize=100. Retrying in 3 seconds... (Attempt 1/5)
+2025-11-05 04:31:54,675 - WARNING - Error fetching data from https://shop.billa.at/api/product-discovery/products?sortBy=relevance&page=1000&pageSize=100: 500 Server Error: Internal Server Error for url: https://shop.billa.at/api/product-discovery/products?sortBy=relevance&page=1000&pageSize=100. Retrying in 3 seconds... (Attempt 2/5)
+2025-11-05 04:31:57,955 - WARNING - Error fetching data from https://shop.billa.at/api/product-discovery/products?sortBy=relevance&page=1000&pageSize=100: 500 Server Error: Internal Server Error for url: https://shop.billa.at/api/product-discovery/products?sortBy=relevance&page=1000&pageSize=100. Retrying in 3 seconds... (Attempt 3/5)
+2025-11-05 04:32:01,174 - WARNING - Error fetching data from https://shop.billa.at/api/product-discovery/products?sortBy=relevance&page=1000&pageSize=100: 500 Server Error: Internal Server Error for url: https://shop.billa.at/api/product-discovery/products?sortBy=relevance&page=1000&pageSize=100. Retrying in 3 seconds... (Attempt 4/5)
+2025-11-05 04:32:04,379 - WARNING - Error fetching data from https://shop.billa.at/api/product-discovery/products?sortBy=relevance&page=1000&pageSize=100: 500 Server Error: Internal Server Error for url: https://shop.billa.at/api/product-discovery/products?sortBy=relevance&page=1000&pageSize=100. Retrying in 3 seconds... (Attempt 5/5)
+2025-11-05 04:32:07,383 - ERROR - Failed to scrape page 1000 after 5 retries. Stopping scraping.
+2025-11-05 04:32:08,558 - INFO - Loading combined dataframe from local file: updated_combined_dataframe.csv
