@@ -13595,3 +13595,7 @@
 2025-11-19 03:13:27,356 - INFO - Completed: 12502 / To go: 0
 2025-11-19 03:13:27,356 - INFO - Records in product_list: 12502
 2025-11-19 03:13:30,582 - INFO - Loading combined dataframe from local file: updated_combined_dataframe.csv
+2025-11-20 03:05:07,545 - INFO - ============================================================
+2025-11-20 03:05:07,545 - INFO - Billa Price Scraper - Starting
+2025-11-20 03:05:07,545 - INFO - ============================================================
+2025-11-20 03:05:08,110 - ERROR - Error fetching initial data: 403 Client Error: Forbidden for url: https://shop.billa.at/api/product-discovery/products?sortBy=relevance&page=0&pageSize=100
