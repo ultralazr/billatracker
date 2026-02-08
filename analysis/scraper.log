@@ -14131,3 +14131,7 @@
 2026-02-06 04:08:33,881 - INFO - Billa Price Scraper - Starting
 2026-02-06 04:08:33,881 - INFO - ============================================================
 2026-02-06 04:08:34,354 - ERROR - Error fetching initial data: 403 Client Error: Forbidden for url: https://shop.billa.at/api/product-discovery/products?sortBy=relevance&page=0&pageSize=100
+2026-02-08 04:28:54,150 - INFO - ============================================================
+2026-02-08 04:28:54,150 - INFO - Billa Price Scraper - Starting
+2026-02-08 04:28:54,150 - INFO - ============================================================
+2026-02-08 04:28:54,682 - ERROR - Error fetching initial data: 403 Client Error: Forbidden for url: https://shop.billa.at/api/product-discovery/products?sortBy=relevance&page=0&pageSize=100
